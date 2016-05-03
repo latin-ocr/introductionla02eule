@@ -1,0 +1,54 @@
+ETECLAIRCISSEMENS. 4¹7
+
+pat la me'thode indique'e dans ce chapitre , prouvent l’exis-
+tence re'elle de la coutbe exprime'e par l’equation primitive ,
+ἃ en saffent connoitre les branches; il faut seulement con-
+cluse de ces re'sultats , que, fi la coutbe existe, elle a pour
+courbe osculatrice la parabole trouve‘e. Car il peut arriver
+Que la courbe & sa branche soient imaginaires en ce point ;
+e’est le cas d’un point conjugue'. On peut rendre cela senfible
+par un exemple simple. Supposons qu'on soit arrive ὲ cette
+equation ·
+
+r²—
+
+ 
+
+En suivant la methode enseigne'e , on ne'gligeroit le terme {Z
+
+qui disparoit devant les auttes; & ‘il restetoit l’e'quation
+
+2rs⁵ 5⁴·
+
+a ''u-³²0³
+
+7²—-
+
+ 
+
+qui renfetmant deux racines reelles egaleS, savoir‚ r-—³—⁵=0,'
+
+a
+
+sembleroit annoncer dans la courbedeux branches qui seroient
+embraffees pat deux paraboles ordinaires qui se confondroient
+ici. Mais fi on en concluoit l’existence reelle d’un point
+double, on se tromperoit groffietement ‚ puisqu'il n'y a reel-
+lement dans ce cas qu’un double point conjugue' 3 ainsi que
+le fait voit la resolution de l’e'quation
+
+qui donne r= fsss—S, ff— 1, quantite tou10,nrs imaginaire‚
+
+d ιλ
+
+excepte dans le cas de r δε s = ο, ‘La cause du jugement
+precipite' qu’on auroit pu portet en cette occasion ‚ & qui
+autoit induit en errent, vient de ce qu’on n'auroit pas eu
+&gard au dernier terme,' qui ‚ quoiqu’infiniment petit par
+rapport aux autres, ne peut cependant ici etre neglige, puis-
+qu'rl tend la courbe imaginaire en ce point. L'exemple sui-
+vant n’est pas moins propre ὲ montrer combien on doit mettre
+EULER ,Introduffz'ondl’AnaL infin. Tome II. 3Ggg
+
+ 
+

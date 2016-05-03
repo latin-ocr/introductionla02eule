@@ -1,0 +1,44 @@
+urs Coonnormfsrzs. 11
+
+⁷ la divetfire des equations conclure celle cles lignes courbes
+qu’elles renferment , quoique des courbes differentes donnent
+toujours des e'quations difl'e'rentes.
+
+24. Puisqu’en faisant varier l'axe ὃ( l’origine des abscisses,
+on multiplie inde‘finiment les e'quatioanui expriment la nature
+d’une meme courbe, il faut donc qu'elles soient tontes d'une
+telle forme, qu'une seule une fois donnee puiss'e faire trouver
+tontes les autres; carl’equation donne'e entre les coordonne'es
+fai-t connoitre la courbe meme ‚ Sc, celle-ci une fois connue,
+fi on prend une droite quelconque pour l'ax‘e‚ 8( sur cette ligne
+un point pour l’origine des absciffes‚1'e'quation entre les coor-
+donne‘es perpendiculaires sera determinee. Nous donnerons
+donc dans ce chapitre une me'thode ‚ au moyen de laquelle
+l’equation d'une courbe e'tant donne'e, on puisse trouver pour
+un autre axe quelconque ‚ δε une autre origine des abstines,
+une equation entre les coordonneies, laquelle exprime la nature
+de la meme courbe : on trouvera de cette maniere tontes les
+equations‚ qui peuvent convenit ἐι la meme courbe ‚ ἃ il sera
+ainfi plus facile de juger de la diverstte des lignes courbes par
+celle des equations.
+
+25. soit donc donnee une equation quelconque entre x ὅ( P1,1.1³;g;7-.
+y, au moyen de laquelle, apres avoir pris une droite RS pour
+l'axe‚ & le point A pour l’origine des absciffes‚ de maniere
+que x represente l'absciffe ΑΡ, &y l’appliquee PM, on ait
+decrit la courbe CB M ‚ dont la nature par consequent est
+exprimee par cette equation. Conservons d’abotd le meme
+axe RS, & prenons sur cet axe un autre point D pour l'ori-
+gine des abstiffes, de sorte qu'z‘t present au point M de la
+cour'be re'ponde l’absciffe D P, que je suppose =t‚ l’ap-
+pliquee MP testera la meme qu'auparavant &zy : cher-
+chons une equation entre ι & y propre ὲ exprimet la
+nature de la courbe CBM. Soit=fla distance AD, qui
+tombe ὲ la gauche du point A du cote des absciss'es ne'gatives,
+on aura D P=z =f-{-x, & par consequent xzt—f. Si dans
+l'e'quation donne'e entre x &y on substitue par—tout pour x
+t—f, on aura une equation entre ε &y‚ qui representem la
+meme ligne courbe cBM‚· δε comme la grandeur Agl) :f
+
+3 11
+

@@ -1,0 +1,44 @@
+DUSEcoND‘ORDRE. 383
+
+pose une e'quation quelconque determinee du second ordre ‚
+on pourra juger sur-le-champ fi la surface qu'elle exprime a des
+parties qui s’e'tendent ἐι l’infini‚ ou n'en a pas. Car, fi une. seule
+de ces quatre conditions manque, la surface s'etend certaine-
+ment ὲ l’infini. Mais dans ce cas il y a quelque subdivifion ὲ
+faire, pour distinguer la varie'te' quise remarque dans ces
+parties. Supposons donc que la premiere subdivision soit pour
+le cas, oh
+
+oee²÷Jy²÷Zg³ est plus grand que ἔφε-ι-μιδᾷ
+
+alors Ia surface s’e'tendra ὲ l'infini ‚ δε aura pour asymptote
+une surface conique , comme nous l’avons de'ja fait voir ci-
+deffus. Ce cas est dire&ement oppose' au pre'ce'dent , oh toute
+la surface est renferme'e dans un espace fini.
+
+112. Mais il y a des cas intermediaires οὺ , quoique la
+sufface s’eloigne ὲ l'infini, elle tient cependant un certain
+milieu entre les deux precedentes, b-peu-pres comme la Pa-
+rabole tient un certain milieu entre l’Ellypse & l’Hyperbole,
+Le cas arrive fi
+
+oe÷²÷csy²÷gg²=52 ε-1-4αδζῑ
+
+on aura par conse'quent
+
+αἰε-ἕγ-νχ-ῑ-Ἀῖζθ-Μθ)-ΡΝῶΞ-ιιαζ),
+L’equation asymptotique
+
+oez²÷<3yz÷yxz÷d¹y²÷exy÷ffx²=0
+
+aura donc deux faReurs fimples, qui seront ou reeh, ou ima-
+ginantes, ou egaux entre eux. Ces trois conditions fourniffent ⁴
+donc trois gentes de surfaces infinie53 ainfi nous avons trouve
+cinq gentes de surfaces du second ordre, que nous allons
+'maintenant examinet avec plus de soin.
+
+1 13. Comme, en changeant la pofition des trois axes aux-
+quels les coordonnees sont paralleles‚ on peut ramener l’e'qua-
+tion e'nerale ὲ une forme plus fimple, saisons usage de cette
+ῐέόυέἰοη, de maniere cependant qu'en ramenant l’e'qxxat-ion
+

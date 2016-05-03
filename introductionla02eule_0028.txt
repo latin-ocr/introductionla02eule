@@ -1,0 +1,44 @@
+Pin fig. 10.
+
+14 DUCHANGEMENT
+
+faudra mettre—t au lieu de y,· fi on suppose ensuite que *ia
+droite de l'axe rs soit re'serve'e pour les appliquees negativesJ
+QM devieiidraz—-zc, ἃ on devra e'crire—-zc au lieu de x.
+On comprend par—lh que la nature d’une ligne courbe ne
+change pas, quoiqu’on faffe dans son equation une des coor-
+donne'es ou tontes les deux ne'gmioes, ce qu’il seta bon de se
+rappelei· dans tous les changemens d’e'quation.
+
+3 ι. Supposons que le nouvel axe rs coupe le premier RS sous
+un angle quelconque SAs, & que l’interseffion soit faite au
+point A qui deviendra par-le l'origine commune des absciss'es
+pou-r les deux axes. Soit donne'e pour l'axe RS une equation
+quelconque pour la courbe L ,M entre l’absciffe AP=x‚ &
+l'appliquee ΡΜΣ] ; on veut trouver l'equation ὲ la meme
+courbe pour le nouvel axe rs , ou, en imaginant abaiffe‘e du
+point M de la courbe au nouvel axe ia perpendiculaier MQ,
+une equation entre l’absciffe AQ= t, ὅ( l'appliquee MQ=u,
+Soit l’angle SAs= q, son finus =m & son cofinus=n ,· ayant
+pris l’unite' pourlefinustotal‚de maniere quemm÷nn=1380ient
+meneesdu point P les perpendiculaires Pp 8< P q sur les nou-
+velles coordonnees ; on aura AP=x, Pp=x. fitz. q,· Ap
+x=:x. cos] q. Ensuite‚ comme l’angle PMQ=PAQ=q‚
+011 aura, ὲ cause de PM=y, Pq= szy· fitz. q‚· Mq==
+y. coſs ᾳ, On tirerawdonc de la AQ=t=Ap— Qp=x.
+cos] q-y-sffl· ᾳ,- & QM=u=Mq÷Pp=x.fin. q÷,
+y. coſs q. s v
+
+32. Mais , comme nous avons faitfin. q=m, cos. q=n,
+nous aurons t=tzx——-my δέ zzz-:mx -÷- ny; δε par suite n t
+4mzc=n²x÷m²x=x,&nu—mt=n²y.-{-m²y=y. On
+trouvera donc l’e'quation cherchee entre t & u ‚ fi dans l'e'qua-
+tion propose'e entre x &y on ecrit par—tout m ιι-ι-ητ au lieu
+de x, δε nu———m t au lieu dey ‚ pourvu toutefois que la por-
+tion As de i’axe renferme les absciffes pofitives‚ ἃ que les
+applique'es pofitives tombent du cote de QM. Nous avons
+auffi suppose ici que l’angle SA s tomboit du cote des appli-
+que'es negatives ; ⁴car fi As tomboit au-deffus de AS, il fau-
+dxoit faire dans le calcul l'angle SAsz--q negatis, δε par ‚conv
+stipent son finus m devroit ἕπε pris negativemenn
+

@@ -1,0 +1,61 @@
+P1.V111.Fig. 71.
+
+184 Des Counsssss Qut oNT
+
+ΕΡ,- par consequent C B sera un diametre de meme nature
+que CA. C'est pourqu0‘1‚ fi la droite CM={ est rapportee
+au diametre CB, ὲ cause de l’angle BCM= π ——s, il faut
+que z soit une fontfflon de s telle qu'elle ne subisse aucun
+changement, lorsqu’au lieu de s on met -st—-s. Une telle fonc-
+tion l'eroitfin. s, carfin. szfin. (7t—s)‚· mais on ne satis-
+feroit pas de cette maniere ἐι la condition pre'ce‘dente. Il faut
+tsouver une expreffion qui appartienne e'galement aux angles
+s, —s & vr—s,· tel est coſs 25,· car cos} zs=c0s. ——- 25
+zcofi 2(7r—s). C'est pourquoi l’equation Z z 0 exprimera
+une coutbe qui aura deux diametres AB & EF, fi Z est une
+
+fonHtion ratiounelle de z 8< de coſs 25. Or coſs 2s=xx—y³‘‚
+
+Donc Z devra etre une fonftion de xx÷yy ἃ de xxEyy,
+
+ou seulement de xx & de yy, comme nous l'avons trouve
+ci-dessus.
+
+ 
+
+350. I’affons ὲ la recherche des courbes qui auroient trois
+diametres AB, EF & GH‚· ces diametres se couperont re‘-
+ciproquement en un meme point C, fi on fait les angles ACE,
+
+E C G , GCB = 600 = ἑ 7r,· δε fi on les prend alternative-
+
+ment‚ les diametres CA,3C G, CF, seront de meme nature-⁴
+C’est pourquoi, s1 on suppose CM=>;, δε l’angle ACM=s,
+
+ἐι cause de GCM=37r-s, dans l’e'quation ὲ la courbe
+
+Zzo, Z devra etre3une fonfifion rationnelle de z δε d'une
+
+certaine quantite w qui depende tellement de s, qu’elle de-
+meure la meme , soit qu’on mette — s ὲ la place de s, soit
+
+qu'on mette ἶ 72- —- s· On aura donc w= cos} 35,- en effet
+
+coſs 3 s = cos3.-—3 s=coſs (2 π - 3 s). Mais en supp30sant les
+
+x - 3 κγ γ ,
+
+ἓοιιε Ζ doit etse une fonfflon rationnelle de xx -1-y331, δε
+e x³ —- 3 xyy.
+
+351. Sidone on suppose xx ÷yy=t & x3—3xyy=u,
+
+l'equapon generale pour les courbes ὲ trois diametres sera de.
+eette orme :
+
+ 
+
+coordonnees CP=x, PM==y, on aura cos. 3s=
+
+0=oe
+

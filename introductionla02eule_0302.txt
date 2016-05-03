@@ -1,0 +1,47 @@
+288 DsssL1GNEsC0URBEs
+
+cendante33 ce sont celles dont l’equation renferme des expo-⁴
+
+sans irrationnels. Comme il n’entre dans leur expression ni
+logarirhmes, ni arcs de cercles , & qu’elles proviennent dela
+
+seule confideration des nombres irrationnels‚' elles paroiffent·
+en quelque sorte plutot appartenir ὲ la geometrie ordinaire-3v
+
+ἃ c'est pour cette raison que LEIBNlTZ les a appelees inter-
+stendames, comme s1 elles tenorent un certain milieu entre les
+courbes algebriques δέ les courbes transcendantes.
+
+509. On aura donc une courbe transcendante dans celle
+qui est exprimee par l’equation y = xm. En effet on a beau
+e'lever cette expreffion a telle puiffance qu'on voudra‚ on ne
+parviendra jamais ἐι la rendre rationnelle. ll n’y a aucun
+moyen geometrique de construite une equation de cette na-
+ture3 car on ne peut exprimet ge'ome'triquement d’autres puis-
+sances que celles dont les exposans sont des nombres ration-
+ne153 δέ c'est en cela que ces sortes de courbes different sur-
+tout des courbes algebriques. Car, fi nous nous contentons de
+prendre seulement une valeur approchee de ᾖε, en mettant
+en sa place quelques-unes des fraRions ξ, ξ, ἦξε, ἐξ, ἐξ, qui
+expriment a-peu-pres la valeur de xlz, nous aurons bien a la
+ve'rite' des courbes algebriques qui approchetont de se confon-
+dre avec celle qu'on demande3 mais qui seront ou du troifieme,
+ou du septieme, ou du dix—septieme‚ ou du quarante·unieme,
+δίε. ordre. Ainfi, puisque ffz ne peut etre exprime d’une ma-
+niere rationnelle que par une fra5³tion dont le numerarent &
+le denominateur sont des nombres infinirnent grands, cette
+courbe est censee d’un ordre infini‚ 8< ne peut pour cette
+raison erre range'e parmi les courbes alge'briques. Ajoutez a
+cela que xlz renfermant deux valeurs, l'une pofitive ‚ l'autre
+negative, il en re'sulte toujours poury une double valeur,
+& par consequent une double courbe.
+
+510. Si nous voulions ensuite construite exaRement cette
+courbe, nous ne pourrions le faire sans le secours des loga·-
+rithmes. En effer , soit y Ξ κγ’, on aura ‚ en prenant les loga-
+rithmes, ly = xlzdx. Le logarithme de chaque absciffe
+multiplie par 5l2 sera donc e'gal au logarithme de l'appliquee3
+
+d’ou il suit qu'on pourra , au moyen d’une table de· ¹110ga-
+nt mes
+

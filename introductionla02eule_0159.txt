@@ -1,0 +1,41 @@
+DE LA F1GURE Dsss Lroues Counsssss.145
+
+ 
+
+CHAPITRE XII.
+De la Figure des Lignes Courbes.
+
+272. CE que nous venons d'exposer dans les chapi'tres pre-
+ce'dens sert ὲ faire connoitre la figure des lignes courbes con-
+fiderees ὲ une distance infinie3 mais il est souvent tres—difficile
+de juger par leur e'quation de celle que chacune peut avoir
+dans un espace fini3 car il faudroit pour chaque abscisse finie
+en conclure les valeurs correspondantes de l‘appliquee, &
+distinguer les valeurs re'elles de celles qui sont imaginaires3
+ce qui surpaffe souvent les forces de l’analyse ‚ lorsque l’equa-
+tion est d’un degre un peu eleve'. En effer, fi on attribue ἐι
+l’absciffe une valeur connue quelconque , l'applique'te tiendra
+lieu d’inconnue3 & la re'solution de l’e'quation qui doit en don-
+ner la valeur , dependra du nombre des dimensions de l'ap-
+pliquee3 mais il y a un moyen de diminuet beaucoup ce tra-
+‚vaih c'est de ramener l’e'quation ὲ une forme plus fimple, en
+choififfant pour cela l’axe le plus commode & l’inclinaison⁴
+des coordonne'es la plus convenable3 ou encore ‚ comme il
+est indifferent de prendre l’une des coordonnees pour absciffe,
+de choifir pour appliquee celle des deux qui a le moins de di-
+menfions dans l’equation.
+
+273. Ainfi ‚ pour trouver la figure des lignes du troifieme
+ordre qui appartiennent ὲ la premiere espece, nous prendrons
+de preference l’equation la plus fimple que nous en avons
+donnee art. 2593 & des deux coordonne'es t δῖ ιι, nous con-
+fidererons la premiere t comme l’appliquee ‚ δε l'autre u comme
+l’absciffe ‚ parce que t n’a que deux dimenfions. Nous aurons
+donc une e'quation de cette forme:
+
+,γὰρ- 2bv÷axx÷cx÷d—nnx³
+——-—-—-x————-——‚
+
+laquelle, etant resolue ‚ donne:
+EULER, Introduc‘lion ἁ l'Anal. infin. Tome II. 3 T
+

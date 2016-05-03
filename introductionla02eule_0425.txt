@@ -1,0 +1,49 @@
+ET ECLAIRCISSEMENS. 411
+
+CHAPITRE XIII.
+
+ART. 300. Pour connoitre la nature & 16 nombre des
+points multiples qu'une courbe d’un degre' donn& peut avoir,
+on s’aidera des principes suivans: 10. Une cambe de l’ordre n
+est de'termine'e, lorsquffelle est affuje‘tie ἁ paffir par un nombre
+(¹14¹)(1142)
+
+2
+comrer une combe de l’ordre m etz plus de m n points. La (16-
+
+monstration de cette propofition se trouvera ci-aprks page 421 .
+
+ 
+
+—- 1 points. 20. Une courbe de l’ordre n ne peut ren-
+
+Il suit de 12¹1qu’une courbe du second ordre , par exemple ,
+pouvant toujours passer par cinq points (10111165, δε ne pouvant
+rencontrer une courbe de l'ordre m en plus de 2 m points ‚ il
+est impoffible qu’une courbe de l'ordre m ait cinq points ‚
+dont les degre‘zs de multiplicia} saffent ensemble plus de
+zmpoints. Ainfi une courbe du quatrieEme ordre ne peut avoir
+quatre points doubles; car la ligne du second ordre, qui
+pafferoit par ces quatre points douffles, & par un cinqui&me
+point fimple de la courbe du quatri&me ordre, la rencontre-
+roit neuf fois; ce qui est impossible ‚ puisqu’elle ne peut la
+rencontrer que 2 >< 4 ou 8 fois.
+
+Par la mssme raison3 une coutbe du cinqui<¹m1e ordre ne
+poutroit‚ avec un point triple, avoir plus de trois points
+doubles. On raisonnera d'une maustoe semblable pour les
+courbes d’ordres supe'rieurs.
+
+De ce qu'on peut toujours faire passer une ligne du troi-
+ίίὲιτιε ordre pat neuf points ‚ & qu’une courbe de cet ordre
+ne peut rencontrer une courbe de l'ordre m en plus de
+3 m points, concluons qu’une courbe de l’ordre m ne peut
+avoir neuf points dont les degre'ts de multiplicite' faffent en-
+semble un nombre plus grand que 3 m. Ainfi une courbe du
+cinqui&me ordre ne pourroit avoir plus de fix points doubles;
+une courbe du fixfflme ordre, qui ne peut avoir plus d’un
+point quadruple , ne pourroit avoir avec ce point quadruple
+
+plus de fix points doubles, ni avec deux point}}r}}31es plus
+3 11
+

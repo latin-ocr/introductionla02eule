@@ -1,0 +1,42 @@
+35⁷2 DEs Sec-mons Du CYLINDRE‚
+
+peuvent obtenir plus de dimenfions‚ que les trois coordonnees
+x, y & ἶ n'en ont elles-memes dans l’e'quation du solide. lt
+peut arriver cependant quelquefois que l’equation de la sec-
+tion soit d'un ordre infinietur, parce que les termes de degte
+superieur peuvent disparoitre apres la substitution.
+
+51. Si donc les trois variables x,y δε z, ne forment dans
+l'equation de la surface qu’une seule dimenfion ‚ de maniere
+qu’elle soit de cette forme oex÷Cy -4- yz= a, alors toutes
+les seffions de cette surface setont des lignes droites. Mais
+dans ce cas la sut-face sera plane ‚ comme il sera facile de le
+voit en y faisant un peu attention, & comme on lefera voit
+plus claitement ci-apre53 or on sait par les e'letnens que l'in-
+terseffton de deux plans doit etse une ligne droite. Sembla-
+blement‚ on voit pat-1521 qu'en general les seffions de tous les
+
+solides ‚ dont la nature est donnee par cette equation gene-
+rale ε
+
+ax2-t-Gy2-t-712—4-AExy—i-sxz—k- Zyz÷ax÷byftkcz÷ee=og
+
+fi elles ne sont pas des lignes droites‚ doivent etre des lignes
+du second ordte; δι qu'il n'existe aucune fection poffible, dont
+la nature ne puiffe etre'exptime‘e pat une e'quation du second
+
+degre'.
+ffl--ffl—
+CHAPITREIIL
+Des Sec‘t'ions du Cylindre, du ,CAne c} de la Sphbre.
+
+52. COMME on a coutume de confideret ces corps dans la
+Steteome'trie‚ il convient d’en chercher les sections, avant que
+de passer ὲ d'autres solides moins connus. D’abord il se presente
+dans les e'le'mens deux especes de cylindres‚ savoir les droits
+& les scalenes. On appelle cylindre droit celui dont toutes les
+seffions perpendiculaires ὲ l’axe sont des cercles egaux entre
+
+emt, δε qui ont leurs centres places dans une memedligne
+ro1te.
+

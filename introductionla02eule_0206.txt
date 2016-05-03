@@ -1,0 +1,48 @@
+P1.11.F3g.19.
+
+P1.V111.1=;g.77;
+
+192 DE LA MANIERE DE TRoquR Les COURBES
+
+que nous avons vu appartenir a l’Hyperbole rapportee a ses
+asymptotes, & qui confiste dans la grandem· constante du rec-
+tangle des deux appliquees qui repondent ala meme abscisse,
+lui est commune avec toutes les courbes renfermees (lans Γέ-
+quation yy —— Py ssa a = ο. De plus , en prenant pour axe
+la droite EFqui coupe la courbe en deux points E & F, la
+propriete des Seffiom Coniques par laquelle le reclangle
+PM.PN conserve un rapport constant avec celui de PE .PF,
+conviendra de meme a toutes les courbes comprises dans cette
+equation γ] -— P γ -1- ax——nxx=0; & on aura PM.PN
+:PEAER ou p bap η = Ep.p F, fiyy—Py=ax—xx.
+Certe propriete qu’on sair par les ele'mens convenit au Cercle ,
+ne lui est donc pas seulement commune avec une infinite de
+courbes d'ordres superieurs, mais s'applique encore aux autres
+Seffions Coniques. En effer, soit P=b÷nx, & l'equation
+yy —— n xy -4— x xz=ax ÷by, laquelle appartient au Cercle‚
+lorsque n ΞΟ, & que l'angle E P M est droit, comprendra
+auffi l’Ellypse‚ fi n η est moindre que 43 l'Hyperbole, fi n ιι
+est plus grande que 4 , δε la parabole, fi nn = 4(
+
+366. Nous concluons de la que dans toute fection conique
+ΑΕ, BE, dont les axes ou les diametres principaux soient AB,
+E F, fi on mene deux droites quelconquequ &mn qui forment
+avec les axes un angle demi-droit; elles se couperont re'cipro-
+quement en lz, de sorte* que m hat h=plz . qlz; ce qui est*
+une suite manifeste des premieres proprietes connues. En effer,
+fi on mene par le centre C les droites P Q δε ΜΝ qui fas-
+sent des angles demi-droits avec les axes primipaux, elles
+seront egales entre elles; ὃς par consequent M C . NC=
+P C . Q C‚· & comme toutes les droites qui leur sont paral-
+leles se coupent suivant la meme loi, on aura auffi par cette
+raison mlz.nlz=plz.qlz. On congoit encore par la que ‚ fi
+les droites MN & Ρ Q sont egalement incline'es au meme
+axe principa-11, ou qu'on ait P CA=NCA,- a cause de
+CP Ξ CN, tontes les droites qui leur sont paralleles , se
+couperont reciproquement de maniere que les rectangles des
+parties soient egaux‚ c’est-a-dire que mlzdznzplzdzq.
+
+367. Cela pose', paffons ὲ d'autres questions relative?i aux
+
+’ eux
+

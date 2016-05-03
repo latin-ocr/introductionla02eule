@@ -1,0 +1,44 @@
+32 Dsss PRINCIPALES Pnopanffirrizs*
+
+xx, ce qui donne pour x deux valeurs,· x--0 & x = ια ,’
+qui indiquent que l’axe RS rencontre le cercle d'abord a l'o-
+rigine A des absciffes, & ensuite au point B , A B etant =
+za. De meme dans les autres courbes, en faisant dans l’e'qua-
+tiony= 0 3 les racines de x indiqueront les interseffions de
+la courbe avec l’axe.
+
+68. Comme dans l'equation generale d’une courbe une
+droite quelconque fait la fonction d’un axe , en supposant dans
+cette equation l’applique'e y = 0 ‚ celle qui testera fera voir
+en eombien de points la courbe est rencontree par une droite
+quelconque. Or, on aura une e'quation qui ne contiendra plus
+que l’absciffe x comme inconnue, Sc dont les racines feront
+connoitre les intersections de la courbe avec l’axe. Le nombre
+des intersections de'pendra donc de la plus grande puiffance de
+x dans l'equation, ὅ( par consequent ii ne pourra erre plus
+grand que l'exposant de cette plus grande puiffance. Il y aura,
+au reste ‚ autant d'intersec‘tions que l’exposant de la plus grande
+puiffance de x contient d’unites‚ fi toutes les racines de l’e'qua-
+tion sont reelle33 mais, s'il y a queiques racines imaginat-ires,
+le nombre des interse6³dons en sera diminue d'autant.
+
+69. Comme nous avons donne pour chaque ordre de lignes
+l'e'quation la plus generale, nous en pourrons concluse, dela ,
+maniere que nous venons d'exposer‚ en combien de points une
+droite quelconque peut couper les lignes de chaque ordre.
+Prenons donc l’equation ge'ne'rale qui convient aux lignes du
+premier ordre, ou ὲ la ligne droite ‚ 0 = α -1- Cx -ὶ- 7y3 en
+faisant y = ο, on a 0 = α -ι- Cx, e'quation qui ne peut avoir
+plus d'une racine 3 d·'ou il suit qu'une ligne droite ne peut
+erre coupee qu'en un point par une autre ligne droite3‘mais,
+fi on suppose ξΞο, l'equation 0:oe est impoffible & fait voit
+que dauns 66 cas l'axe n’est rencontre‘: nulle part par la ligne
+droite3 en 'effet ces deux droites seront paralleles entre elles‚'
+comme l’apprend l'equation 0=ae÷yy , que donne la sup-
+pofition de ζτ- 0.
+
+70. Si dans l'equation generale pour les lignes du second
+rordre :
+
+9-2-2—2— Cx÷7y -ι- &xx -1- exy÷zyy, nous
+
