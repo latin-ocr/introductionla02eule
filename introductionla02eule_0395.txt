@@ -1,0 +1,41 @@
+DUSECONDORDRE. 381
+
+l’infini‚ δε cela de maniere que les parties infinies de l’une ἅ·
+de l’autre se confondent3 ainfi on pourra concluse 13 nature
+de 13 surface donne'e de celle de la sufface asymptote. Mais,
+fi .la surface asymptote devient imaginaire., la surface meme
+proposee n'aura point de partie infinie, & elle sera renferme'e
+en entier dans un espace fini. Aimi, pour chercher les suffaces
+du second ordre qui sont renfermees dans un espace fini, il ne
+faut que voit dans quel cas l’equation de 13 sufface asymptote
+devient imaginaire3 ce qui arrive, lorsque toute cette 'surface
+se reduit 3 un point unique. Car, fi elle avoit quelque e'tendne,
+'ou un point place hors du sommet‚ elle >devroit neceffaire-
+ment s'etendre ὲ l'infini‚ puisque nous avons fait Vvoir plus
+haut que toute droite qui passe par le sommet ἃ par un point
+de la surface, est fituee sur 13 surface meme.
+
+108. Ains1‚ lorsque la surface conique asymptote exprimee
+par cette equation
+
+az²÷Cyz÷qu÷afy²÷÷xy÷Zsx²= ο
+
+se reduit 3 un point unique, tontes les sefflons faites par le
+sommet doivent pareillement se re'duire a un seul point3 δὲ
+d’abord ‚ en faisant z: 0, l'equation AEy²÷2xy÷Zx²=o
+vdoit &tre impoffiffle, 3 moins que x ne soit =0 &y = 03 ce
+qui alien, lorsque 4<Γζ est plus grand que ε ε. La meme chose
+doit arriver, en faisant ou x=o Ouy=03 on aura donc 42ae
+plus grand que 6² & 4aZplus grand que 7². Par consequent„
+fi dans l’equation donne'e pour 13 surface du second ordre:
+
+23²÷Cyz÷yxz÷AEy2-4—2xy—ff—Zx2—1—-nz-i-9y-i-tss÷n=o,
+
+4AEC n'est pas plus grand que 22,- 4oefflplus grand que CC,- 4ae ζ
+plus grand que 7222 la surface aura certainement cles parties
+qui s’etendent ὲ l'infini. ,
+109. Mais ces trois conditions ne suffisent pas pour que 13
+surface soit renferme'e dans un espace fini, il faut encore qne
+la valeur de ζ tire'e de l'e'quation asymptotique devienne ima·
+ginaire3 ce qui a lieu tontes les fois que cette expression zv ’
+

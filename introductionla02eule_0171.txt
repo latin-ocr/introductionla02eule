@@ -1,0 +1,48 @@
+DE‘sLtGNEsCoURBEs. 157-
+
+perpendiculaire ‘a la courbe meme 3 ὃ( par consequent il sera
+facrle d’en determiner‘la polition pour chaque cas. On l'aura
+sur-tout tres-conttnode'ment ‚ fi les coordonnees A P & P M
+sont perpendicularres entre elles; car alors les triangles sem-
+
+blables Μᾳμ ὅ( ΜΡΝ donnent ,Mq : qffiszzPN, ou
+—B : A :t q : PN‚· d'on l’on tire PN= ——Tsq-q. On a coutume
+
+d'appeler SOUSNORMALE cette portion ΡΝ d'e l'axe
+comprise entre l‘applique'e & la normale MN. Cette sous-
+normale se trouve donc facilement au moyen dela soustangente
+PT, lorsque les coordonnees sont perpendiculaires3 car on aura
+
+PT2PM::PM2 ΡΝ, ou PNzfiPJ-ss. De plus, fi rangte
+
+APM est droit, on aura la tangenteMT=5s(PT²l—÷-PM²),
+δε la normale MN‚= xs(P M2-{- P N2),· on, parce que
+
+P T: TM:: PM: ΜΝ, ΜΝΞ ΡΜ·ΤΜ-Ρ-Μ ><
+WPT2÷PM2>
+
+J> T —PT
+
+293. Comme nous venons de voir que la tangente sera ρει-
+rallele a l’axe ou aux appliquees‚ suivant que dans l'equation
+At÷Bu=0‚ on a ou A=0‚ ou B=0; il reste ,a examinet
+le cas οὺ les deux coefficiens A & B deviennent ὲ la fois
+= 03 lorsque cela arrive, les termes de l'equation trouvee ci-
+dessus (art. 286 ) , dans lesquels t & ιι ont deux dimenfions ‚
+ne peuvent plus &tre negliges ἐι l'e'gard de ceux· ci At-i-Bu,
+qui disparoiffent eux — memes. Il faudra donc confideret Γέ-
+quatjon 0 = sz 4- Dc u -4- Eu u , negligeant les autres qui
+deviennent nuls par rapport ἐι ceux-ci, lorsque t & u sont in-
+finiment petits. On voit donc par cette e'quation ‚ comme par
+l'equation ge‘ne'rale , que ‚ fi t = o, ιι sera auffi = 03 & que
+par consequent M est un point de la courbe, ce qui est con-
+forme ’ὲ l’hypothese.
+
+ 
+
+294. L’equation ο = Ct t -1- D tu -4- E a ιι faisant con-
+noitre l'e'tat de la courbe aupres du point Μ, il est evident que,
+fi DD est plus petit que 4 ΟΕ, l'equation sera imaginaire, ὲ
+moins que t 8< u ne soient = 0. Dans ce cas ‚ le point Map-
+partiendra bien ὲ la courbe ‚ mais il sera separe du reste 3 ce
+

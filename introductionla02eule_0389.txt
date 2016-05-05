@@ -1,0 +1,43 @@
+DESCOORDONNfiEsI 375
+
+semblable les surfaces suivant les dimenfions des coordonne'e53
+la surface du premier ordre sera pour nous celle dont l'equa-
+tion n’a qu'une dimenfion3 nous rappotterons au second ordre
+celle dans l’equation de laquelle les coordonne'es s'e‘levent
+ὲ ἀευκ,ἀίῑηεη1ἰοι]ε; on estimera ainfi de suite, pat le nombre
+de dimenfions, le degre des ordres ulterieurs.
+
+95. Si nous rapprochons ὲ present ce que nous venons de
+‚diredelce que nous avons expose' plus haut sur la recherche des
+Ῐεᾶἰοὶῑε4 planes d’une furface quelconque‚ nous remarkluerons
+‘facilement que l’ordre' des seffions s’accorde toujours avec
+celui auquel appartient la ‘furface En effer, supposons que
+l’e'quation proposee pour une surface quelconque entre les coor-
+donnees x‚y ὃς {⁹ soit de l’ordre n, ὅ( que les coordonnees
+perpendicularires d'une de ses seffions soient t Sc u. Nous avons
+,vu ci-deffus‚ art. 85, qu’on trouveroit l’c'fq‘uation' entre t & u,
+en substituant dans l'e'quation de· la surface‘ les valeurs sui-
+
+ventes:
+x=f-†-t.coſs0——ustn.0.cos‚<p
+
+y=15fim6÷u . coſs Θ . cosm
+z=³‘·fi⁷²·<l'· ἃ
+
+Il est donc evident que l’e'quation de la seffion ne peut pas
+avoir plus de dimenfions que n'en avoit l’equation primitive
+entre x,y & ῖς mais qu’ily en aura toujours le meme nombre
+dans l’une ὅζ dans l’autre.
+
+96. Une surface du premier ordre ne peut donner pour les
+sefflions faites par un plan que des lignes clu premier ordre, Γ
+ou des droites. Ensuite il ne resulte de la sefflon d’une sur-
+face du second ordre d’autres lignes que celles du second
+ordre, ou des seffions coniques3 car une surfdce conique est
+auffi du second ordre, puisque son equation est:
+
+‘{{=⁰‘xx'4‘gyy·
+
+semblabl ment, la surface du troifieme ordre donnera pour.
+seelions panes des lignes du troifieme ordre, ainfi de suite.
+

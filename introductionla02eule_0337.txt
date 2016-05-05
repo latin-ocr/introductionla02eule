@@ -1,0 +1,68 @@
+RELATIFSAUCERCLE. 323
+
+539. Quoique tous les arcs du premier quart de cercle
+soient plus petits que leurs tangentes, il y en a cependant
+dans les quarts suivans qui leur sont egaux ‚ δε qu'il s'agit de
+trouver dans le probleme qui suit par une me'thode tire'e des
+
+se'ries. Α
+PROBLEME IX.
+
+T rouver tous les arcs qui sont e'gaux ἁ leurs tangentes.
+
+Soturron.
+
+Le premier arc qui ait cette propriete' est infiniment petit.
+11 n’y en a point dans le second quart , parce que les tangentes
+y sont negative33 mais il y en aura un dans le troifieme ‚ qui
+sera un peu plus petit que 2700. 11 s'en trouvera ainfi de suite
+dans les cinquieme‚ septime, &c. Soit le quart de la circon-
+ferencezq, & supposons les arcs en question renfermes dans
+
+cette formule (2 n -ι- 1)q—s, de maniere que (2 Jz-ae-r)q
+1
+
+—S=COZ- S=
+
+ 
+
+ww. Soit tang. s =x, on aura s=x
+
+-ὲ xz 4. ÷x5 -ὲχ7 4. &03 & par conse'quent (zn—4-1)q
+Ξὲψχ-ξχῐ -ι-ξκῖ- 7ssx7 —ff- δίε. Or, comme l’arc s
+
+est ³‹esautant plus petit que n est un nombre plus grand, il est
+
+clair que x sera une quantite tres-petite, & qu’on aura :gr—peu-
+1
+
+pres x= (2n÷¹)q , ou -}=(2n—i-1)q; on approche davan-
+
+tage en faisant· }=v(2n÷1)q—wse(2 n—1-1)q— ¹
+
+ 
+
+ 
+
+2 ¹3 146 2343
+
+--ῄ---ᾑ--Ἁ--Ὰῇ
+
+3<2n÷1)³q³ 15(2n÷1›⁵q⁵ 105<2r1÷1m⁷ 945(2'²-{·11⁹7⁹
+&c.; δε , comme q={ 7t= 1,5707963267948 , on aura
+
+ 
+
+l’arc cherche = ( 2 n -ι- 1 ) 1‚57079632679 ῃ wlff
+0,1 200 1 ‚ ‚
+03322514377 - ΤΞ fi} - ᾖ--ῗῖῗῗῖζῗ - &5528353 -
+
+ 
+
+(2n4, , )⁹ - &c.; ou, fi on ramene les termes frui sont ex-
+
+prlmes en parties du rayon ὲ la mesure ordinaire des arcs ,
+on aura l’arc cherche, confidere en general, τε ( 2 n—÷—1 )9o³ ’
+
+3Ssij
+

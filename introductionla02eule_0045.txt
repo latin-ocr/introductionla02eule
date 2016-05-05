@@ -1,0 +1,43 @@
+Des L1GN1-:scounsssss ALGEB. 3³
+
+lignes du second ordre ‚ du troifieme ou des suivans ‚ <le
+maniere que, ti on fait une somme des nombres de chaque
+ordre, auquel appartiennent les lignes sunples, il en re‘sulte
+le nombre qui indique sordre de la ligne complexe.
+
+ 
+
+CHAPITRE IV.
+
+> Des principales Propric'ce's de chaque Om're de
+Lignes.
+
+66. PAR Ml les principales proprie'tes des lignes de chaque
+ordre, celle qui frappe d'abord est leur rencontre avec la
+ligne droite, ou le nombre d'interseetions que ces lignes peu-
+‘vent faire avec elle. Comme la ligne du premier ordre, ou
+,une droite ne peut erre coupe'e par une autre droite que dans
+¹un seul point, & que les lignes courbes penvent l'etre en
+plufieum, on a donc raison de cherchet en combyien de points
+une courbe d'un ordre quelconque peut etse rencontree par
+une droite menee comme on voudra3 car la solution de cette
+question servira ὲ faire mieux connoitre la nature des lignes
+„courbes des differens ordres. On trouvera qu’une ligne du
+second ordre ne peut erre coupee par une ligne droite en plus
+
+de deux points3 une ligne du troifieme ordre en plus de trois
+points ‚ & ainfi de suite. ⁴*
+
+67. Nous avons deja parle' de la maniere dont on peut trou-
+ver en combien de points l’axe d'une courbe quelconque est
+coupe par cette courbe. Erant donne'e une equation entre
+,l’abscifl‘e x δε l'appliquee y,· comme ὲ l'endroit ou la courbe
+tombe sur Faxe, l'appliqueey devient=0‚ on fem donc l'e‘-
+quatior} y=0‚ & l'equation resultante qui renfermera seule-
+ment x, donnera les valeurs de x, & par consequent les points
+de l'axe ou la courbe le coupera. Ai11fi4dans l'equation au
+cercle que nouslavons trouve'e ci-dessus ‚' yy= zax——xx ,-
+fi nous supposons y = 0 , l'e'quation deviendra 0 z 2 a x —-·
+
+P1.11.F3g.16.
+

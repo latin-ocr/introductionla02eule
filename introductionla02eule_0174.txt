@@ -1,0 +1,44 @@
+160 DESAFFECTIONS
+
+point M, mais qui ont en M un point ou simple, ou double,
+ou triple, ou du degre de multiplicite qu'on voudra. Car,
+ayant suppose AP==p, PM=q, & P, Q, R, S, δίε,
+designant des fonEti0ns quelconques des coordonne'es x &y,
+il est (131( que certe equation P (x —p) -4- Q (y—q) == 0·
+exprime une courbe qui paffe par le point M,· car, fi on sup-
+pose x z ΑΡ ΞΡ, alorsy=PM=q‚ pourvu que P ne
+soit pas divifible pary—q, ni Q par x—-p‚ poutvu enfin que
+ces 1118161115 x -— p &y -— q ‚ dont depend le passage de la
+courbe par 16 point Μ, 116 sortent pas de l’equatiorr par 13 divi-
+fi0n3 il est e'vident que toutes les courbes qui doivent paffer
+par M, sont renfermees dans cette equation P(x -p) -ι- Q
+(y — q) Ξ 03 ὅ( ce point Μ sera un point srmple, si l’e'qua-
+tion n'est pas de 121 forme de celle que nous allons donner pour
+les points multiples.
+
+300. Si M est un point double ‚ l’equation 3 13 courbe sera
+comprise dans cette forme P(x——p)²-†- Q(x——p)(y——q)
+-†- R (y — q)² Ξ 0 , pourvu que cette forme ne disparoisse
+pas par 13 divifion. On voit par 131 qu'il n’y 3 pas de point
+double pour les lignes du second ordre3 car il faut que P,
+& R soient des constantes, pour que l’equation soit du secon
+degre'3 mais alors elle n’appartient plus 3 une courbe ‚
+mais 3 deux lignes droites. Si P, Q ὅ( R sont des fonffions
+du premier ordre ‚ telles que α x -÷— Cy -1- γ , on aura dans ce
+cas des lignes du troifieme ordre qui auront en M un point
+double. Mais une ligne du troifieme ordre, 3 moins qu’elle ne
+soit composee de trois lignes droites, ne peut avoir plus d'un
+point double3 car supposons qu’elle en pfit avoir deux ‚ &
+imaginons par ces points une droite3 6116 couperoit 13 courbe
+en quatre points, ce qui est contraire 3 13 nature des lignes du
+troifieme ordre. La ligne du quatrieme ordre aura seulement
+deux points doubles, & une ligne du cinquieme n'en pourra
+avoir plus de trois, ainfi de suite.
+
+30¹· Si M est un point triple, 13 nature de 13 ligne sera ex-
+primee parP(x—p)2÷Qec-72)2(y—q)†R(x—p)(y-q)2
+÷S(y-q)³ = 0 3 fi cette equatlon represente une courbe‚
+
+elle sera d’un ordre superieur au troifieme3 car, fi P, Q‚'R ὅ( S
+etolent
+

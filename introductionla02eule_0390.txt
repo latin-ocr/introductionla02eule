@@ -1,0 +1,43 @@
+376 DUCHANGEMENT
+
+Il peut arriver cependant quelquefois que l'e'quation de la sec*
+rion c-ontienne des diviseurs3 dans ce cas la seelion sera com-
+-posee de deux ou plusieurs lignes des ordres inferieurs. C'est
+ainsi que la seffion du cone faite par le sommet sera composee
+de deux lignes droites‚ qui jointes ensemble forment cependant
+l’apparence d'une ligne dunsecond ordre, comme nous l’avons
+remarque ci-deffus.
+
+97. La claffification des furfaces e'tant ainfi etablie, arre-
+tons-nous un peu de preference sur celles qui appartiennent
+au premier ordre. L’e'quation qui exprime leur nature sera
+donc ax -÷- Cy —i- φῖ = α,· & comme tontes leurs sefrion‘s
+faites par un plan sont des lignes droites‚ il est evident qu'il
+est impossible que ces surfaces ne soient pas planes3 car, fi
+'elles avoient quelque convexite' ou quelque concavite, il en
+resultero‘it necessairement une sefflion curviligne.> Car, quoi-
+qu'il y ait dans les autres ordres des surfaces dont certaines
+sefflons sont des lignes droites (comme nous l'avons vu dans
+le cylindoe, le cone & dans d'autres); cependant les seffions
+curvilignes n’en sont pas exclues. Nous observons ici la meme
+analogie que dans les ligne53 car de meme qu’une ligne qui
+ne peut etre coupee par une droite en plus d’un point, ne
+peut manquer d’etre droite, nous concluons de meme qu’une
+surface qui coupee par un plan donne toujours une¹ ligne
+droite‚ est neceffairement plane elle-meme.
+
+98. C'est ce qu'on peut demontrer tres - clairement au
+moyen de l'equation la plus ge'ne'rale. En effet ‚ fi, comme
+nous l'avons enseigne art. 92, on forme de l’equation nex—{-
+Cy-i-yz = cz, l’e'quation la plus generale entre les coordon-
+ne'es p, q & t,· comme on introduit fix nouvelles constantes
+arbitraires‚ rien n'empeche de les determinet de maniere que
+ies coefficiens des deux coordonnees p & q disparoifl‘ent,
+ἃ qu'il reste une e'quation de cette forme rzf, pour expri-
+met la nature de la meme furface. Or cette equation r =f
+fait voir que la surface propose‘e est parallele au plan dans
+lequel se trouvent les deux coordonne'esp & q, ὃ( par con-
+
+sequent plane. Il peut meme se faire que r devxenne Ξοί Sc
+a ors
+

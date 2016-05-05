@@ -1,0 +1,44 @@
+ENGeNssRAL. 327
+
+niere qu'on a coutume de representet tous les points des
+lignes courbes fituees dans un menie plan, ρει· le moyen de
+deux coordonnees perpendiculaires entre elles.
+
+5. Puisque nous avons trois coordonnees ΑΡ, PQ & QMT,
+nous ferons AP=x, P Q=y 8< Q M-—23; &nous con-
+noitrons la nature de la surface proposee, fi, apres avoir pris
+ὲ volonte deux de ces lignes x &- χ, nous savons ce que doit
+erre la troifieme 3,- car nous pourrons determinet decette
+maniere tous les points Mde la surface. La nature d'une sur-
+face est donc donnee par une equation qui exprime la valeur
+de z ρει· le moyen des deux autres quantites x 3< y & de
+constantes. Ainsi, pour chaque surface proposee‚ la variable
+z sera egale ὲ une sonetion quelconque des deux variables x
+&y; & reciproquement, fi z est egal ἐι une fonffion quel-
+conque de x ἃ dey, cette equation representem une furface
+quelconque dont elle fera connoitre en meme temps la nature;
+car en substituant pour x 81 pouty toutes les valeurs tant po·-
+fitives que negatives dont iis sont susceptibles , on aura tous
+les points Q du plan qu’on aura choifi3 ὃ( ensuite la valeur de
+ζ en x ἃ en y fera connoitre pour chaque point la longueur
+de la perpendiculaire ρΜ--εζ depuis le plan jusqu'fit la sur-
+face. Si la valeur de z est positive, le point M cle la surface
+sera fitue au-deffus du plan A P Ως mais si elle est negative,
+il tombera au-deffous, & le point M de la furface sera sur le
+
+plan meme, fi cette valent devient nulle3 fi elle etoit imagi-
+
+* naire, ce feroit une preuve qu'aucun point Mde la surface ne
+
+repondroit au point Q; & s’il arrive que τί obtienne plusieurs
+valeQrs redies, alors la droite perpendiculaire au plan, qui peste
+par le point Q, rencontrera la surface en plufieurs points Μ.
+6. Quant ε la distinetion des differentes suffaces, celle qui
+se presente naturellernent est ka distin&ion en continues ou
+regulieres ‚ δε en discontinues ou irregulieres. La surface con-
+tinue sera celle dont tous les points sont determines par une
+meme equation entre ἶ, x δε y, ou pour chaque point de la-
+quelle( est une meme fonffion de x & de y. La surface irre-
+guliere est celle dont differentes parties sont representees pat·
+diverses fonfflon53 comme fi, par exemple, on proposoit une
+

@@ -1,0 +1,43 @@
+DESLIGNESCOUREES. 235
+
+Comme dans ces sortes d’equations qui, comme nous venons-
+de le voit, comprennent les courbes semblables, les coordon-
+nees x &y avec le parametre a forment dans tous les termes
+un meme nombre de dimenfions‚ il s’ensuit que, fi on de'ter-
+mine la valeur de y, on la trouvera e'gale ὲ une fonElion ho·
+mogene d’une dimenfion de a & de x. Dono reciproquement,
+fi P de'figne une fonElion homogene d’une dimenfion de a &
+de x, l'e'quation = P contiendra une infinite' de co'urbes
+semblables, qu'on era naltre en donnant succeffivement au pa-
+rametre α des valeurs differentes. Par la meme raison, une
+equation de cette nature, qui appartient aux courbes sembla-
+bles, donnera pour l’absciffe x une fomffion d'une dimenfion
+de a 8( de y,- & le parametre a lui— meme sera egal 3 une
+fonelion d'une dimenfion de x & de y.
+
+440. Or, etant donnee une courbe quelconque AMB,
+on pourra par une pratique facile en decrire une infinite:
+d'autres qui lui soient semblables. Car, en premant un rapport
+quelconque de'termine', par exemple, celui de 1 :n pour
+celui des cotes homologues de la courbe donnee & de celle
+qu'il s'agit de de'crire , fi la courbe donnee A ΜΒ est rap·,
+porte'e ὲ l'axe A B par le moyen des coordonne'es perpendi-v
+culaires Al> & PM, il n'y aura qu’a prendre sur un axe sem-
+blable a b une absciffe ap , telle que ΑΡ soit : a p :: 1 ε n ‚¹
+& elever du point p une applique'e perpendiculaire p m, de
+maniere qu’on ait pareillement PM :pm εἰ 1 : n ,· le point m
+appartiendra 3 13 courbe semblable a snb, & les points M&
+m seront homologues. On pourra encore de'crire la courbe en
+partant d'un point quelconque fixe O. Car, apres avoir pris dans
+la courbe, qu'il s’agit de demite, un point fixe semblablement
+place, il n’y aura qu'a faire l'angle ao m toujours e'gal a l’angle
+AOM, & couper om de maniere que OMsoit : om εἰ 1 :n,·
+le point m ainfi determine appartiendra pareillement ,3 la
+courbe semblable amb. On pourra donc de cette maniere
+de'crire une courbe semblable pour chaque rapport 1 : n pris
+ὲ volonte. On se sert ordinairement pour cela d’instrumens‚ au
+moyen desquels il est facile de traces des figures d'une gran-
+deur quelconque, & qui soient semblables a une figrge donnee.
+
+3 g ¹1
+

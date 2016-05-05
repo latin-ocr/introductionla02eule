@@ -1,0 +1,53 @@
+ET ECLA1RcissEMENs. 423
+
+les premit‘nes puiffances de x''' ὃ( (16 y‘''' doivent disparoitre3 &
+d'ailleurs οι] peut choifir 13 position de l'axe des x‘¹, de ma..
+nie'ffe que 16 terme xy disparoiffe 3 il est vifible que α, b‚&c.
+sont des'fonffions connues des coordonneies x, y & ἶ du
+point de contafi. Si on imagine par ce poin} un plan perpen-
+diculaire 3 13 surface, 13 [6ξὶὶοη qu’il formera aura pour
+coordonnbes zm& “xvsti-yffi· & fi l'on dcffigne par R le
+
+rayon osculateur de cette seffion , on aura par 13 nature du
+cercle:
+
+ 
+
+s,
+{''= ² 'Jiy Ε -4- Sec.
+
+ 
+
+βοὶ( α l'angle que fait le plan coupant avec l’axe des xs', on
+auray⁰ = x''tang. α,- 8( les valeurs de (relatives ὲ 13 sefflon
+& au cercle osculamur, deviendront :
+
+Ξ waſs a>²÷ b (fin. αν
+‹cos- a?
+
+x02÷ &c ὃς = ——- ‚
+⁶ · 1 2R.(c0J.cJ.)²’
+
+d'oil l’on tire, en &galam ‚ les deux valeurs de ζ’,
+
+,
+²ass=<077ssr<rss
+
+ 
+
+Si on suppose succeffivement a = 0 ‚ οι -- 9 0⁰, on trouvera
+les rayqns de courbure des se&i0ns faites par 16 plan qui passe
+par l'axe des x“', & par celui desy“,· & fi on les nomme r &
+ν’, on en conclura ‚ pour 16 rayon de courbure R de toute
+autre sefflon perpendiculaire 3 13 surface :
+
+R=-‹-7†‡<-s-)-
+
+On voit par 13 qu’il suffit d'avoir les rayons de courbure des
+seffions perpendiculaires 3 13 surface, qui paffent'parl'axe des
+x“ & par ‚l’axe des γ’, pour connoitre le rayon de courbure
+de toute autre seffion ἔθη-[166 par un plan perpendiculaire ‚
+
+qui feroit avec l’axe des x“ un angle quelconque a. On voit,
+de plus, que 16 rayon (16 courbure sera un maximum ou un
+

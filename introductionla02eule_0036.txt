@@ -1,0 +1,40 @@
+22 DELADIVISION
+
+courbe3 cependant on ne pourra jamais la ramener ὲ un de-
+gre' superieur ou inferieur. C'est pour cela que des equations
+d’un ordre different ‚ quelque affinire qu'elles paroiffent avoir
+d’ailleurs, representeront toujours des courbes differentes.
+
+ 
+
+CHAPITRE ΙΙΙ.
+
+De la Divislon des Ligszes courbes alge‘briques etz Ordres.
+
+47. COMME il y a une νει-1616 infinie de lignes courbes
+ainfi que de fonGtions ‚ il sera impoffible d’en aequeris la con-
+noiffance ‚ ὲι moins qu'on ne fasse de cette multitude infinie
+des class'es bien distineres ‚ & qu'on n'aide ὅ( dirige, par ce
+moyen, l’esprit dans leur examen. Nous avons deja divise les
+courbes en alge'briques & en transcendantes; mais ces deux di·-
+vifions, ὰ cause de la varie'te' infinie des courbes, ont besoin
+d'une subdivifion ulterieure. Au reste, nous ne confiderons
+pour 16 pre'sent que les courbes alge‘briques, qu’il s’agit ici de
+class'er de la maniere la plus avantageuse. 11 faut donc d’a- ff
+bord fixer les carafi'reres qui les distinguent, afm de rapporter
+ὲ la meme claffe celles qui presentent 16 meme carafirere,
+· δε ἐι une autre celles qui en presentent un different.
+
+48. Les &naereses distineri& de ces differentes claffes ne
+peuvent donc se tirer d'ailleurs que des fonRions ou equa-
+tions qui representem la nature des lignes courbes, parce
+qu’1l n'y a pas encore d'autre moyen d'arriver ἐι la connois-
+sance des courbes , ὃ( qu’aucun autre comm ne peut s'appli-
+buer ἐι tontes les courbes algebriques. Or, on peut distribuet
+de plusieurs manieres, en differens gentes ‚ les fonffions & les
+e'quations entre deux coordonne'es, comme nous l’avons fait
+dans 16 premier livre. Le point de vue qui se presente d'a-
+bord, & qui paroit 16 plus favorahle pour la divifion des
+lignes courbes en differentes classes, est dessconfiderer les
+fonffions sous 16 rapport de leur multiformite. 11 s’ensuivroit
+

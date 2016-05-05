@@ -1,0 +1,65 @@
+218 DE LA MANOERE DE TROUVER nzs COURBES
+
+droites menees par le point C, trouver celles dans lesquelles
+
+la somme des quarre's CM2—l-CN2 est une quantit& constante,
+Ou = αα. Puisque CM—l- CN=P & que CM.CN=Q,
+on aura CM³÷ CN2=PP-— 2 Q,· il faudra donc que
+
+PP—zQ-zzcza‚ ou que Q: PP—²‘²‘¹
+
+ 
+
+. Ainfi, ὲ cause
+
+ 
+
+ 
+
+2
+de 1³:22} &c de QzNng, on aura ²22³< :MZALzz— zaa,
+8: par consequent ΝΞξΛῑῙ---α-αέἱ ,· e'quation qui ne ren-
+
+ferme aucune contradiffion, par la raison que L est une fonc-
+tion de n -1— 2 dimensions ‚ M une fonffion de n-}-1 di-
+mensions, 8< Nune f0n&i0n de 72 dimensions des variables
+
+x &y· Ayant donc pris {our L 8< pour M de telles fonfflons ,.
+
+[Μ M a α
+
+on aura N = π - ἶ-ἰ-,· ἀόῂ resulte pour les courbes qui-
+
+satisferont ὲ la question, l’equation ge'ne'rale ;
+
+M M a a L
+
+2L (ζ
+OU
+
+2L²(x²—l-y²)—-2LM(x²—l-y²)—l-M²(x²-l-y²)—2a²L²= 031
+
+L—M-f-
+
+ 
+
+ 
+
+=O²
+
+laquelle ‚ fi M = 0 ‚ donne un cercle dont le centre est' en
+C, ἃ* qui satisfait ὲι la question, comme cela d’aill‘eurs est
+(widem. ’
+
+41 1. Supposons n —l- 1 = 0 ‚ d'e sorte que Msoit une quan-
+tite' constante = 2 la δε L ζ α x -ἢ- &y ‚· nous aurons‘ une
+ligne du quatrieme ordre exprimee par cet-te e'quation:
+
+(ax-l-Cy)³(x²—l—y²—a²)—-2b(oex-l-gy)(x²·†·y²)w÷25²(x²÷y²)*=0‘
+On trouve une autre e'quation du quatrieme ordre, en faisant
+L=xx —l-yy 83 M= 2 (ax—l· Cy)a‚· car alots l’equation
+
+e'ttant divise'e par 2 x x -l- zyy donnera εΔ
+
+(x2—l—y³)²—-2a(oex-†-Cy)(x²-l-y²)-†-2a²(oex-†—G'y)²—a³(x²-l-y²)=0··
+

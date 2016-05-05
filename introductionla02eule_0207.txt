@@ -1,0 +1,58 @@
+PAR LA Corffioxssmczz DE QUELQUES PRopn. &c. 193
+
+deux appliquees qui repondent ἐι chaque abscisse dans l'e'quation P1.V111.1’ig.78.
+yy —— P γ —l- Q = 0. Soit l’absciffe AP=x‚ ὲ laquelle re-
+pondent ⁹deux appliquees PM, ΡΝ. Cherchons d'abord
+toutes les courbes qui aient cette propriete que PM2÷PN²
+soit une quantite constante = α α. Puisque PM-z-PN= P,
+ὅτ PM.PN= Q, on aura PM2÷PN²=PP—2 Q, & on
+
+{³1}ssstOE ὲ la question, fi PP —— 2 Q = aa, ou Q:-
+
+ 
+
+,· ce qui donnera pour les courbes demandees l’equation
+
+ 
+
+ἄπο. Sion fait P=2nx, on aura une
+
+—P -l-
+⁸{egilon cgnique q2ui jouira de la proprie'te dont il est question,
+yy — 2 n xy -ι- 2 n η xx — {aa=0; e'quation ὲι l’Ellypse
+
+dans laquelle les absciffes sont compte'es du centre.
+368⁷. On conclut de 121 une propriete affez belle des Ellypses. ¹³¹· IX. 1³³3· 79·
+
+Α Si on de'crit autour de deux diametres quelconques conjugues
+AB & EF d'une Ellypse un parallelogramme GHIK, dont
+les c6tes touchent l'Ellypse aux points A, B, E, F, les dia-
+gonales GK δε HI de ce parallelogramme couperont en l>
+δε p toutes les cordes MN paralleles ὲ l'un des deux dia-
+metres EF, de maniere que la somme des quarres PM2÷PN²
+ou pM³÷pN² soit toujours constante ἃ egale a zCE2. De
+meme, ayant mene la corde RS parallelement ὲ l'autre dia-
+metre AB, on aura PR2-l- PS²= er² —l- π 8²: 2 CA2.
+Car, en faisant CA=CB=a, CE=CF=b, C Q =t‚
+Qllffz-u, on aura a auu—kb btt=aabb. Mais α :b t: CQ (t)
+:PQ, & CP est ὲ C Q dans unrapport donne', de m: 1, par
+exemple. Ainfi ‚ en subpposant CP =x, Psz, on aura
+
+t x bx
+x=mt &y Ξιι-ι-ἶ, out=— & u=y—— 3. Cesvaleurs
+
+ 
+
+ 
+
+ι · l ,, . m ztzrzxy ‘zbbxx
+suost1tuees donneront lequatlon a ayy— m -4- mm
+
+..τ a cz h b. Soit ᾗ = n, elle deviendra yy— znxy-1- 2n²x²
+
+=-.. b b,- ce qui donne l’equation trouvee ci-deffus‚ qui indi-
+
+quoit que PM2÷PN2 etoit une quantit& constante.
+369. Cherchons ὲ pre'sent les courbes dans lesquelles la Pl.V111.Fig‚-8.
+EULER, Introduffion ὰ l’Anal. infin. Tome ΙΙ. 3 Bb
+

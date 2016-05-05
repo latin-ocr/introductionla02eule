@@ -1,0 +1,40 @@
+1333 εέΝὲΒΑιζ 3‘29
+la fonction z qui etoit uniforme peut devenir multiforme.
+9. Soient P ἃ Q des fonctions uniformes quelconques de
+x & de y, δε l’e'quation {z —Pffl- Q τ- 03 les perpendi-
+culaires elevees a chaque point Q du plan couperont la sur-
+face en deux points, ou ne la rencontreront nulle part; car{
+aura deux valeurs qui seront toutes deux reelles‚ ou toutes
+deux imaginaires. Semblablement ‚ fi P, Q & R de'fignant
+des fonctions uniformes de x δε de y, on a ζ’ —- P {2 ,4- Q ἰ
+——R=0; alors ἶ sera une fonction triforme, δί chaque
+droite QM coupera la surface ‚ ou en trois points, fi toutes les
+racines de l'e‘quation sont reelles, ou seulement en un seul, s’il
+arrive que deux racines soient imaginaires. On fera un raison⁴
+nement semblable, fi ἶ est determine pat une e'quation dans
+laquelle il ait un plus grand nombre de dimenfions. On con·
+noitra facilement de quel 'degre' est la fonffion multiforme ἶ,
+fi <on rend rationnelle l'equation donnee entre x, y ὃ( {-
+
+10. Du reste , il en est des trois coordonnees x,y Sc ζ dans
+une e'quation quelconque qui exprime une sufface, comme des
+deux coordonnees qui entrent dans les e'quations aux lignes
+
+‘courbes3 l’une quelconque peut ὃτι-ε changee en l’autte, δε re'·
+ciproquement. Car d’abord‚ fi on prend pour axe, dans le plan
+AP Q, une autre droite Ap perpendiculaire a ΑΡ, on aura
+alors Ap =y δε p Q ==x,· ὅ( ainfi les deux variables x &y
+auront ete changees l’une en l’autre. On aura une ide'e de
+toutes les autres permutations en achevant le parallelipipede
+re&angle Ap QMffquA. On aura trois plans fixes perpen-
+dicula1res entre eux a confide‘rer‚ savoir ΑΡ Qp ‚ Aqu &
+Αρξπ. La meme e'quation entre x, y ἅ* ἶ, fait voir comment
+se rapporte a chacun d’eux la surface propose'e‚ a laquelle ap-
+partient le point M. Il est aise de voir qu'il y a dans chaque
+plan deux axes qui ont l'un & l’autre leur origine au point
+
+A ,· ce qui donne ..fix-relations differentes entre les trois coor·=
+donnee&
+
+Eurum, Introduc‘lion ἁ l'Anal. infin. Tome ΙΙ. 3T t
+

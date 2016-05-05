@@ -1,0 +1,44 @@
+342 Des SECTIONS Des SURFACES
+
+les‘interseeffions de 13 surface & de ces plens. Si donc on
+prend le premier plan ΑΡ Q determine par les variables
+A P Ξ x, A Q =y, (3 cause que 13 troifieme variable ἶ de'-
+figne 13 distance de chaque point de 13 surface 3 ce plan) ‘11
+
+est clair que, fi on fait {:0‚ on trouvera tous les points -
+
+de 13 surface qui seront fitues sur le plan meme ΑΡ Q,-
+8< que par consequent l'equation resultante entre x 8,( y repre'-
+sentera la ligne que forme l’interse&ion de la surface avec 16
+plan ΑΡ Q. Semblablement , fi on faity=0‚ l’equation entre
+x δε {⁷ exprimere. l’interseffion de la surface faite par le plan
+APR‚· δέ en supposant x=0‚ l'equation entre y ὅ( z donnera
+l’interseffion de 13 surface δε ἀωΡΙ3η AQR.
+
+28. Nous avons de'jssz dit anparavant que 13 surface d’une
+sphere qui a son centre au point A, & dont le rayon =a e'toit
+exprime'e par cette equation xx÷yy÷z z = cz ας je me ser-
+vitui de cet exemple pour eclaircir ce qu'on vient de lire sur
+les interseffions. Soit donc z=0‚ 8( l'e'quation x²÷y²=a²
+exprimera l'interseRion de 13 sphere par le plan ΑΡ ρ“,· il est
+evident qu'ellesera un cercle dont le centre est en A, ὅ( dont
+le rayon ..τ α. Semblablement‚ en faisanty= 0, l'intersec-
+tion de la sphere faite par 16 plan APR sera un cercle re-
+pre'sente par l’e'quation xx ——1- {z = aa. De meme, fi on sup-
+pose x= 0, l'e'quation yy -1- {Z τε α α donnera un pareil
+cercle pour l⁷interse&ion du plan AQR. Tout‘ cela, 313 ve'-
+rite, est suffisamment connu, puisque toutes les setffions d'une'
+sphere faites par des plens qui paffent par son centre sont de
+grands cercles, &est-&dire des cercles qui ont un rayon com-
+mun avec 13 sphere.
+
+29. 11 ne sera pas plus difficile de determinet· les febriens
+de 13 furface faites par d'autres plans paralleles ὲ l'un des
+plans principaux. Concevons un plan parallele au plan APQ,
+& qui en soit eloigne d’un intervalle: ἡ, tous les points de
+13 sur-face dont 13 distance au meme plan ΑΡ Q, laquelle est
+indiquee par 13 variable ἶ, est=1='z‚ seront donc fitues en
+meme temps sur ce plan parallele, 8: formeront par conse-
+quent l'interseRion. On aura donc [equation qui ‘convient ὲ
+cette interseffion, fi on fait dans l'e'quation de la surface
+

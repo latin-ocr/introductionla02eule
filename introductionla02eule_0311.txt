@@ -1,0 +1,55 @@
+TRANscENDAN’rEffi 297
+
+aige‘briques3 mais au lieu d'avoir un cours continu, elle aura
+une suite de points se'pare53 ce qui paroit etablir assez bien
+l'existence reelle de ces sortes de points, qu’on peut en quel-
+que sorte regarder comme conjugue's3 cat, si on ne veut con-
+venir de leur existence, il faudra admettre que 13 courbe
+entiere s'arrete subitement au point B‚· ce qui feroit con-
+traire 3 13 loi de commune, & par consequent absurde.
+
+5 ¹9· Parmi une infinite' d’autres courbes de ce genre3 qu’on
+peut construite parlogarithmes, ily en 3 dont 13 ςοηίὶῑυξὶὶοη
+ne paroit pas auffi facile, & qui peut etse effeffiue'e cependant
+par le moyen d'une substitution convenable. Telle est la
+courbe comprise dans l'equation x'=y‘,· on voit bien sur-le-
+champ que l'applique'e y est constamment e'gale 3 l’absciss'e
+x, de sorte que la ligne droite incline‘e 3 l'axe sous un angle
+demi-droit satisfait ὲ l'equation. 11 est cependant visibie que
+l’equation propose'e 3 une signification plus e'tendue que celle
+ὲ 13 ligne droitey=x; δέ que par consequent celle-ci ne
+peut exprimet tout ce que contient l’autre x' :y‘‚· car on
+peut satisfaire auffi 3 cette derniere, sans que x soit =y. Par
+exemple , fi x z 2 ,y peut etse = 4. L’e'quation proposee
+tenfermera donc, outre 13 droite EAF, d'autres parties.
+‘Pour les trouver, ἃ repre‘senter par consequent en entier 13
+'ligne comprise dans l’e'quation‚ nous feronsy=tx, de sorte
+
+que χ’* = z'x'. En extrayant 13 racine x, nous aurons x‘= ι x
+1
+
+ὅ( x‘*¹=t,· conse'quemment x=tf5² 8< y = [2:‘1’ ou bien, en
+1
+
+faisant 2- 1 Ξῖ, x=(1-÷-{)u &y=(1-÷- L 1⁴4¹. Ainfi
+
+n
+
+13 courbe aura, outre 13 droite EAF, 13 branche RS qui
+convergera vers les dnroites A G & AH comme asympmoes,
+ἃ dont AF sera un diametre. La courbe, au surplus‚ competa
+
+13 droite AF au point C, οὺ AB: BC: e, e designant le
+nombre dont le logarithme est l'unite'. L'e'quation fournit en
+outre une infinite' de points separes, qui avec 13 droite EF
+& 13 coutbe RCS e'puisent tout ce qu'elle renferme dans son
+
+expreffion. Il y 3 donc une infinite' de nombres x ἃ γ, qui pris
+deux 3 deux peuvent satisfaire 3 l'equation x':y²‚· tels sont
+
+ies nombres suivans , en s'en tenant 3 ceux qui sont rationnels:
+
+EULER , Ina-oduc‘lion ἁ l'Anal. infin. Tome ΙΙ. 3 P p
+
+Pl. X1.Fig.103.
+

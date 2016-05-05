@@ -1,0 +1,46 @@
+398 DEL'INTERSECTION
+
+gessome'trie‚ qui traitent du conta& de la splffire par un plan}
+Y ¹42· On de'duit donc de ce qui ρτέεὲάθ une ffigle ge'me'-
+tale, pour reconnoitre fi une surface quelconque est touche'ae
+par un plan, ou par une autre surface. Car, ερῑὲς avoir &li-
+mine' des deux &quations une des variables, il faudra voit fi
+ΓέεῙιιειῑὶοη qui en rbsulte peut &tre de}compose'ze en fffleurs
+fimpleS, ou non. Si elle renferme deux falsteurs fimples imagi-
+naires ‚ il y aura un point de conta& qu’on trouvera, en fai-
+sant l'un δε l'autre faReur = 03 δε fi elle contient deux fac-
+teurs {imples rxssels, δε tous deux ἕξεως entre eux, les furfaces
+se toucheront l'une l'autre suivant une ligne droite. Mais, fi
+cette &quation a deux faReurs non firnples, mais e'gaux , ou
+fi elle est divifible par un quami, alors sa racine e'etant suppo-
+seSe e‘gale ὲ Ζὲῐο fera connoitre la projthion de cette ligne qui
+ffisulte du conta& On voit auffi par-l& que ‚ fi cette &quation
+renfermoit quatre faReurs imaginaireS, les surfaces se touche-
+roient &ciproquement en deux points.
+
+¹43· Pour donner de ce que nous venons de dire une plus
+ample explication, cherchons le conta& du c6ne & d’une
+sphe'zre ‚ dont le centre soit place‘ -sur l’axe du c6ne. [Ἐφη-
+tion de la ΐρὴὲῑε est ζ z÷yy -1- x x = α a, & celle du c6ne
+(f—--U2 ==m x x —{- nyy, pourvu ‚ bien entendu , que le
+sommet du εῶιιε soit &loigmss du centre de la sphe'are de l’in-
+tervallef. Eliminons ici la variable γ, 8( nous aurons:
+
+(f—{)²=naa—--n{{-÷-(m—-n)xx
+
+pour la projeRion de l'interseffion sur le plan des coordonne'es
+x ἃ {- Soit d'abord le c6ne droit ‚ ou m = n, nous aurons:
+
+-, fssw(n(1÷n>-2a-nff>
+³ *- *--†——-.
+C’est pourquoi, fi f=a χίζι-ὶ-η), οη aura doublement
+
+ 
+
+{² Vh ÷ ῃ),- & pat constsquent le contaasera line'ffaire ‚ c’est-
+
+a-dire qu’il se fera par un cercle, dont la projeffion sur le
+
+plzjn qui paffe par saxee, est une ligne droite perpendiculaire au
+meme axe.
+

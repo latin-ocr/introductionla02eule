@@ -1,0 +1,42 @@
+ΡΙ. vm. Fig. 68.
+
+178 Des Counsssss QUI ONT
+
+ 
+
+CHAPITRE XV.
+
+Des Cozzrbes qui om un ou plzzsteurs DiametreS.
+
+336. Nous avons vu anparavant que toutes les lignes du
+second ordre avoient au moins un diametre orthogonal , qui
+partageoit la courbe entiere en deux parties semblables ὃς
+e'gales. La parabole, par exemple, n'a qu’un diametre de cette
+espece3 elle est en consequence composee de deux parties
+egales & semblables3 mais l'Ellypse & l’Hyperbole en ont
+deux qui se coupent l'un l'uutre perpendiculairement au cen-
+tre ε auffi ces dernieres courbes offrent-elles quatre arcs ou
+quatre branclres egales δε semblables entre elles. Quant au
+Cercle, comme toute ligne droite menee par le centre le par-
+tage en deux parties semblables δε egales ‚ il aura une infi-
+nite de parties e'gale83 en effet, les arcs qui sont soustendus par
+des cordes regales, sont en meme temps egaux δέ semblables
+entre eux.
+
+337. Nous nous proposons donc ici d'examiner Ia fimilitude
+de deux ou de plusieurs parties cle la meme courbe, & de rap-
+peler 3 des equations generales ces sortes de courbes qui ont
+deux ou plusieurs parties e'gales entre elles. D’abord , con-
+srde'rons l‘equation entre les coordonnees perpendiculaires
+x &y. Si, apres avoir partage l'espace entier en quatre re'-
+gions de'srgne'es par les lettres Q, R, S, T, au moyen des
+droites AB, EF, qui se coupent perpendiculairement en C,
+on suppose x & y pofitifs ‚ on aura 13 portion de la courbe
+fituee dans la region Q3 fi on fait x politis &y negatis, on
+obtiendra 13 portion de la courbe fitue‘e en R; mais fi on fait
+x negatis, γ restant pofitif, cela donnera 13 partie de la courbex
+fituee en S; δε enfin on trouvera celle fitue‘e en T, en prenant
+negativement l’une 8< l'autre coordonne'e y ἃ x.
+
+338. Les portions fitue'es dans lesregions Q ἃ R seront donc
+

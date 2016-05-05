@@ -1,0 +1,45 @@
+nEercNsssCOUnssss. ¹53
+
+la courbe‚ fi on prolonge mq jusqu'en p, & qu'on mette au
+lieu de x, Ap=p -†—- ι, δῖ au lieu dey, pm=q÷u5 il en
+doit re'sulter pareillernent une e'quation identique.
+
+287. Apres avoir fait cette substitution dans l’e'quation pro-
+posee entre x ἄρ’, tous les termes, dans lesquels ni tni ιι ne
+se trouvent pas, se cletruiront mutuellement3 &- il ne reste-ra
+que ceux qui renferment les nouvelles coordonnees t δε ιι. On
+aura donc une e'quation de cette forme: ·
+
+0=A2÷Bu÷Ct²÷Dcu÷Ezc²÷Fz³÷Gt²za÷Hzu2-4- &a ‚-
+
+dans laquelle A, B, C, D , &c. ‚ sont des quantite's cons-
+tantes, compose‘es des constantes de la premiere equation &
+des quantites p δι q que nous regardons auffi comme cons-
+tantes. La nature de la courbe est donc exprimee par cette
+nouvelle equati0n3 mais elle est rapportee a l’axe m q, sur lequel
+le pointMrneme de la' courbe est pris pour l’origine des
+absciffes.
+
+288. D‘abord il est clair que ‚ fi on fait Mq= εξ 0, on
+aura auffi qm = ιι = 0, parce que le point m tombe sur M.
+Ensuite, comme notre but est de connoitre seulement la tres-
+petite portion de la courbe qui est pres de M, nous le templi-
+rons en prenant pour t des nombres tres-petit53 auquel cas
+qm: u aura auffi une valeur tres-petite3 car il ne s'agit que
+d’un arc Mm presque evanouifl'ant. Mais, fi nous prenons pour
+t δε ιι des valeurs tres—petites, les termes tt, tu, δε u ll, seront χ
+encore beaucoup plus petits, ἃ les suivans 2³, 2²11, ιιιιι, ιιῖ,
+&c.‚ encore plus petits que ceux-ci, δε ainsi de suite3 c'est
+pourqu0i‚ comme on peut omettre des grandeurs tres-petites
+a l'egard d'autres qui sont en quelque sorte infiniment plus
+grandes , il testera l'equation o = At -÷- B u, qui appartient
+a la ligne droite Μμ mene'e par le point M, & qui apprend
+que, fi le point m s'approche tres-pres de M, cette droite se
+confond avec la courbe.
+
+289. Cette dtoite Μμ sera donc une tangente de la courbe
+au point M‚· d’ou l'on peut concluse un moyen de menet
+une tangente μΜΤὲι un point quelconque M de la courbe,
+
+EULER‚ Introduc‘lion ἁ l'Anal. infin. Tome ΙΙ, 3 V
+

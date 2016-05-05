@@ -1,0 +1,51 @@
+EN VERTU n'AUTREs Pnopmntrfss. 223-
+
+une courbe continue que toutes les droites mene'es par le point
+Ccouperont en deux points M& N, de maniessre que l’mter-
+valle MNsoit constant & Ξ 2 c. Toutes ces courbes peuvent se
+rapporter au genre des Concl10'1'des , en substituant ὲ la direc-
+trice E F une ligne courbe quelconque exprime'e par l'efiqua-
+tion z: hp, Or nous avons vu ci-deffi1s que cette &quation
+renfermoit les lignes «nubes, que les droites menbes par 16
+point C ne rencontrent qu'en un seul point. Ainfi ‚ c'omme
+l'intervalle c est arbitram, on pourra, au moyen de chaqne
+
+courbe q: ΛΡ, en de'crire une infinit& d'autres qui auront la·
+proprie'te' qu’on demande.
+
+418. Qu'on prenne, par exemple, ἐι volonte': la courbe
+CE DLF, qui ne doit &tre coupesse que dans Ies points uni-
+
+ques D, L, par toutes les droites memsses par 16 point C¹
+Alms, fi sur chacune de ces droites CL prolonge'es on prend
+de part 8( d’autre du point L des interval-{es &gaux L ΜΞ
+LN= ε,- les points M 8( Ν appartiendront ὲ la combe
+cherchfie. Ainfi donc on pourra <metire d'un mouvement con-
+tinu Ia courbe AMPCQBNR C, que les droites menetes
+
+par 16 point Ccouperont en deux points M & Ν, de mankoe
+que l'inte1valle NINsoit touiours une quantit& constanter-zze.
+
+On doit observet ici que , fi la courbe CEDF est un cercle·
+
+qui pass'e par 16 point C, la courbe de'zcrite sera la‘meme ligne·
+du quatridme ordre, que nous avons trouwsse d'abord 31·t.v414.
+419. Nous avons douc ainfi satisfair ἐι la question qui con-
+fistoit ἐι trouver les lignes courbes A MN, qui fuss'ent cou-
+pe'es par les droites mene'es par 16 point C en deux points M
+ἃ Ν, (16 fagon que CN—-CM ou CM³—2 CM. CA7÷C4N²
+εἴη toujours une valent constante. Βέν61ορροτῑς encore en peu
+de mors 16 cas οὺ Cstff-Js- CM. CN—÷- CN² doit §tre une quan-
+
+tite' constante. On fera donc, dans l'art. 412, η == 13 ce qui-
+donnera cette &quation
+
+aaLL=(xx-÷-yy)(L2-LM-÷—]bl²);
+
+L &tant une fonffipn (16 m -4— 1 ‚ Sc M une fonffion de m.
+dimenfions de x & dey‚· ou bien cette autre-ci:
+
+1³1.1x.1‡5g.37‚
+
+τη. 11{.Fzg,-81.
+

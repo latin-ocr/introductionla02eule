@@ -1,0 +1,52 @@
+DESASYMPTOTESS ¹05
+
+qu³0n soit arrive' 3 un terme non divifible par ιι -— c. Mais, fi
+ce terme e‘toitdivifible par (ιι — c)²‚ on pafferoit outre ‚ jus,
+qu'& ce qu’on en trouver un qui feroit ou non divifible ‚ ou
+divisible par u —- ε,- dans le premier cas, l'e'quation sera ter-
+minee3 & dans le second ‚ on ira plus loin iusqu'& ce qu‚0n
+arrive enfin ἐι un terme qui ne soit plus divifible par (za—c),
+On obtiendra ainfi dans tous les cas une e'quation comprise
+
+dans 13 formule generale (lc - C)³··*·' ψ -l- Mage) '¹‘
+C
+
+{3:02 dans laquelle r sera plus petite que 72—2, q plus per
+
+tit que r δε p plus petit que q.
+
+214. Certe e'quation en renferme trois autres de 13 *forme
+Κ
+
+ 
+
+u -c=L—k, ou une seulement de cette forme & une autre
+de celle-ci τ (ιι -- c)² = g, ou enfinune seule en tour, telle que
+
+(u— c)3 :g Ce dernier cas aura lieu fi {p est plus ‘grand
+que r δε 3q plus grand que 2 r. Mais il peut se faire auffi que
+deux e‘quarions deviennent imaginaire53 & alors elles n'in-
+diqueront aucune asymptote. Au reste, les formes de ces
+
+asymptotes ont ete donne'esK, excepte' celle de 13 derniere
+
+representee par (ιι —- c)'⁷= F Quant ὲ celle-ci, elle sera , fi
+k est un nombre impair ‚ de la forme de'fignee par 13 figure
+trente-fixieme‚ avec deux branches E X & F Y qui s'eten-
+dront 3 l'infini dans les re'gions opposees P 8< S. Mais sl lc est
+un nombre pair, on aura une forme telle'que 13 donne 13
+figure trente—septieme avec deux branches EX ὃς Ὲῖεἱιι meme
+cote de l’asymptote re&ilig11e ΧΥ, ou qui ramperonr ὲι l'in-
+fini dans les regions P & Q.
+
+215. Comme on voit facilement par ce qui nre'cede ce
+qu'il y a ὲ faire pour trouver 13 forme des nsymprores, lorsque
+le premier membre de l’equation contient quatre faPreurs
+fimples egaux ou davantage, je n’irai pas plus loin, Sc je me
+contenterai de terminer ce chapitre par une application des
+regles precedentes ὲ un exemple.
+
+EULER‚ Introdac‘lion ἁ ίἈηαί. infin. Tome ΙΙ. 3 O
+
+Pl. rar-1235&
+

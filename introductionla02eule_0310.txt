@@ -1,0 +1,68 @@
+296 DESLIGNESCOURBES
+8( alors l'applique'e y sera:0,6922005 ‚ comme on l’ensei-
+gnera dans la suite *. Cherchons a pre'sent quelle sera la‘forme
+
+de cette courbe au-delh du point B,· il faudra pour cela faire x
+1
+
+ 
+
+negatis, ce qui donneray z ι, ,· (1ὀὴ 11ι ῑέῖυΙῑε que cette
+
+—x
+
+partie sera compose'e d'une suite de points se'pare‘s les uns des
+autres, Sc qui s'approcheront de plus en plus de l’axe comme
+asymptote. Or ces points tomberont d’un cote} ou d’autre de
+l'axe , suivant que x sera un nombre pair ou impair. Bien plus ‚
+il y aura une infinito de ces points qui tomberont> au - deffous
+de A P, fi on prend pour x une fraRion dont le detnominateur
+
+1
+
+soit pair. Si, par exemplo, on fait κεῖ, on aura en mosne
+
+tempsy= -1- ᾗ & y Ξ —V—Iz‘ La courbe continue MD B
+se termine-donc ssrusquement en B contre la nature des lignes
+
+ 
+
+¹⁸ Voici. en attendant, un moyen de s’en ass‘urer. Je suppose en gomis-al y=X; (X
+&tant une fonfflon quelconque de x, δὲ dont 11 s'agit de trouver la plus petite valent, ou
+la plus grande3 car [a mothode est la mdme pour les deux cas). J’observe que ‚ sx j’aug-
+mente x d'une quantit& quelconque u ‚ qu'on peut d’ailleurs supposer fi petite qu’on vou-
+dra ‚ X devient X7'- X‘u -†- X¹‘1.⁹ 4- X“'1c³ —15- &c.; X‘, ΧΗ, ΧΗ, &tant auffi des fonc-
+tions de x; ὃ( que, (ι je diminue x dela mssme quantit& u, X devient X—X‘u-z-X‘m·
+—X“'u³—{-&c. Or, pour que Xsoit un minimum ou un maximum ‚ il faut qu'il'soit plus
+petit ou plus grand que X—†- X'u -ffi- X'saa -11-X‘s'u3 -{- &0 ‚ ὃ( que X--X'u†X''u²—-
+Xmffl ÷&c.·, mais cela ne peut avoir Heu, {1 mo'xns que X‘ ne scit ;--ο. En effen, X' ne
+peut &tte ni posuis ni nogatist can· s1 ψ X‘ est posnif, -X' est nogatif3 ὃ( au contrait-Q·
+fi -{- X' est Πὲςῑυὲί, --X' est posltif. Or dans ces deux cas la valent de sztombe
+entre deux autres auffi voismes qu'on voudra , l'une plus grande ‚ l’autre plus petite que
+X,· donc il n’y aura ni minimum ni maximum. Donc X‘ ne peut &tre ni pofitif ni noga·-
+ffl} donc ’11 est &gal ὲ zoro. Pour saveir& pre'sent fi la suppofition de X' Σο donne un
+maximum on un minimum , on aura recours au terme multiplic& par le quart& η’ de la
+ἀῑίῖέτεηςα S'il est posuis, on aura un minimum 3 & s’il est ne'gatif‚ on aura un maxi·-
+mum. On suppose ici que ce terme n’a pas disparu ; car autrernent il faudroit recourir
+aux deux termes suivans , & {aste par rapport ὲ ceux-ci les momes raisonnemens que par
+ῐὸΡΡΟΠ ‹fflx deux premiers. Cela pos& , confide'rons l’e'quationy z x³¹ ou l. y: x . lx;
+cn mettant x —†- u ὲ la place de x, la fonffion xlx deviessdra (x 4¹¹) ( l( x ’1-Π) ):
+
+(24) (ΑΨ-(ι 1-9) = (x÷11)(2x ψ ξ - ”’ ÷&c.)=xlx÷u2x÷u
+
+1
+
+’1- L- — ἦ* &c. Done, en vertu de la xbgle que nous venons de2d0nner‚ il fandra faire
+
+u(lxx-†-1)=o‚ oul.x-†- 1:20. Donc lxz—1z—1l.e:l.e-¹. Done
+
+ 
+
+225²
+
+x z ι-1 23¹.. Et s1 on fait attention au sugne du terme multipli& par π’, on verra qu'il
+
+³3st posuif. Dono l’ordonnee qu'x repond ὲ l’absciffe x ζ ἶ est re'essement un minimum:
+
+ι algobriques ἦ
+

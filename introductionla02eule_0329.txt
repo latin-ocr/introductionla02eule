@@ -1,0 +1,42 @@
+RELAT1Fs AU CERCLE. 3¹5
+Ainfi on pourra construite par approximation le seffleur de-
+
+mand& C. Q. F. T.
+533. On peut dcssterminer d'une manffire semblable le finus
+qui divise un quart de cercle en deux parties e'gales.
+
+PROBLEME ῙΙῙ.
+Mener dans un quart de cercle ACB un finies DE, qui en diviſse P1.XII.Fig. 115.·
+
+l'aire en deux parties e‘gczles.
+
+SOLUTION.
+
+Soit l'arc AE=s, BE sera :fg—s, ὲ cause de ΑΕΒ
+={, &l’aire du quart de cercle———ssm Celle du seReurACE
+
+={s;* 1 011 en retranche le triangle CDE=÷fim s.c0ſss‚
+l’espace restant ADE =}s—{ fin. „meost s, dont le double
+doit valoir le quart de cercle. Ainfi on aura ᾧ π--·- s --
+÷fin. 2 5· Donc s—‡ π = ὲ fitz. 25. Soit l’arc s—ssw- = s
+”-· 450=1½ ΟΠ aura 2s = 90O 4- 2u,· il faut donc que u =
+{⁶0st zu & 2u=cofi 2 u. Puisqu'on doit avoir un arc qui soit
+
+(igal ὲ son cofinus, δε que nous l’avons trouve} par le premier
+probl&me ‚ nous aurona 2 η τε 420 ω’ 47” 14‘''‚ & u = 21⁰
+10' 23⁰ 37'''. On aura donc l’atc AE=s=660 10' 23⁰ 37'''
+δε l’arc BE = 230 49' 36' 23⁰2 ll s'ensuit que la partie CD
+du rayon =0‚4039718‚ A D = 0,5960281 & le finus DE
+’Ξ 0‚914771 1. Le Πιεὲιῃθ moyen qui partage le quart de cer-
+cle en deux &galement, divisera donc le cercle entier en huit
+
+parties &galea C. Q. F. T.
+
+534. De mssme que toute droite ment5e par le centre d’un
+cercle le partage en deux e'galernent‚ on pourra auffi menet
+d'un point quelconque de la circonffirence des droites qui le
+divisent en trois parties &gales ‚ ou mtssme en un plus grand
+nombre. Cherchons ὲ le diviser en quatre.
+
+3Rrij
+

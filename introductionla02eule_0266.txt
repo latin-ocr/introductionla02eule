@@ -1,0 +1,47 @@
+252⁷ DEL'INTERSECTION
+
+racines de x donneront , chacune en particulier ‚ de ve'ritables
+interseffions. Or, quoique y ait plufieurs dimenfions dans
+chaque e'quation , on arrive ordilmirement, en eliminant y, ἐι
+une e'quation qui donne pour la valeus de y une fon&ion ra·
+tionnelle‚ & par consequent uniforme de x.
+
+471. Les cas ou quelques-unes des interseffions indique'es
+par le calcul sont imaginaires , ont lieu quand aucune des
+courbes n'a d'applique'e re'elle correspondante ἐι l’absciffe qu’on
+a trouve'e; nous en avons vu un exemple ci-deffus dans le Cerele
+ἃ l? Parabole3 mais il peut se presentet des cas ou une courbe
+donne pour tontes les absciffes des appliquees re'elles , & que
+cependant il ne reponde pas d’interseffions ὲ toutes les ra-
+cines re'elles de x. Prenons pour exemple la ligne du troifieme
+ordre exprimee par l'e'quation:
+
+y3-3c1y2-—l- 2a'2y-6ax2= 03
+laquelle donne pour toutes les absciffes des appliquees reel'les—‚L
+δε meme trois, fi x est plus petit que {V ὲ. Si on combine
+
+avec cette courbe une parabole exprimee par l'e'quation
+yy— zax = 03 cette derniere n’a point d’applique'e re'telfe
+qui re'ponde aux x negatif53 par consequent il n’y a point
+d'interseRions pour les absciffes x negatives.
+
+472. Eliminons y‚· comme la derniere equation-d‘onne
+
+yy= 2 α x, la pretmere se changera en celle-ci: 6 ⁹ ÷6 τ
+ι. x ax
+
+ 
+
+zaxy--6a2x—l-2a2y-—6ax22Q d'ou l’on tire y= Μ, 4, ΖΜ
+
+= 3 x. Mais comme cette e'quation est divifible pary—-3x‚
+en effeEluant la division, on trouve une e'quation sansy, savoir
+2 (ἶ ‘² ’l‘ 2 a x: 03 d’ou x Ξ -μ α. Il devroit donc y avoir une
+interse6³d0n correspondante ὲ l'abscifl'e x: -—— α, ὲ laquelle
+il sse re'pond dans la parabole aucune appliqu-e'e re‘elle3 mais,
+fi 0¹¹ fait x=-—cz dans la courbe du troifieme ordre·⁷ l'equa-
+1³0ss deviemyn- 3 a vy -ι- 2 a ay ω- 6 αξ -- 0 ·‚ d’on resulte
+U'sse applique'e reelle Ty :3 α,· les deux autres valeurs dey
+comprises dans l’equation yy -4- 2 a a :0 font imaginalires 3¹
+ἃ ces a·pplique'es imaginantes qu’on trouve pour ce point, de-
+

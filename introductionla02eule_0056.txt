@@ -1,0 +1,51 @@
+Pl.11.Fig.19.
+
+μ DsssL1GNEs
+
+lete a la tangente, coupe auffi de la meme maniere toutes'les
+ordonne'es m n paralleles a la meme tangente.
+
+90. Par la raison que la droite CLl divise en deux parties
+egales tontes les ordonnees qui‘ sont paralleles a la tangente
+ICK, cette ligne CLl s’appelle ordinairement le DIA-·
+METRE de la ligne dztfizcond ordre ou de lasec‘Yion conique. On
+peut donc menet dans chaque ligne du second ordre une in-
+finite' de diametres‚ puisqu'il n’y a aucun point de la courbe
+ou l'on ne puisse itnaginer une tangente. En effer, quelle que
+soit la tangente donne'e l CK, on n’a qu'a lui menet parala
+lelement une ordonne'e quelconque MN, &⁷ la diviser en
+deux egalement au point L , la droite CL sera un diametre
+de la ligne du second ordre, qui conpeta en deux parties
+egales toutes les ordonnees paralleles a la tangente JK.
+
+91. Il suit auffi de ce qui precede, que, fi une droite leivise
+en deux parties e'gales deux ordonne'es paralleles quelconques
+MN 8< mn, elle partagera de la meme maniere toutes les
+autres ordonnees paraIleles a celles-ci3 car Ia courbe aura
+quelque part une tangente IK parallele a ces ordonnees ‚ δέ
+par consequent la droite dont il s'agit sera un diametre.
+Voila donc une nouvelle maniere de trouver pour une ligne'
+donne'e du second ordre une infinite de diametres : il suffita
+de menet a volonte deux ordonne'es ou cordes M N& m ιι
+paralleles entre elles ‚ de les diviser en deux &galement aux
+points L &⁷ l‚- la droite qui paffera par ces deux points ,· di-
+visera semblablement tontes les autres ordonnees paralleles a
+celles-ci, on aura par ce moyen un diametre3 & , fi par Ee
+point C, oh le diametre prolonge': rencontre la courbe ‚ on
+mene une droite JK parallelement aux ordonne'es', cette droite
+touchera Ia courbe au point C. ⁴ * ’
+
+92. Nous avons ete conduits a cette propriete par la‘ fimij'e
+confideration de la somme des racines dey dans l'equation: ’
+
+(εκ-Ι-γ) ὣκκ-ἦ-ζκ-ἱ-α, ·
+yy -{- ζ
+
+y -ὶ- ———-—- = 0.
+Mais il est constant, par la meme equation , que le produit
+
+ζ
+des deux racines PM. PN— ὃ x ’τ ζ G x ÷ ‘⁴ . Certe expreffiou
+
+ 
+

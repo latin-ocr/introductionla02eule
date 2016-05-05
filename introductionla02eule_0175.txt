@@ -1,0 +1,37 @@
+Des L10N2scouanxzs. 161
+
+etoient des constantes, comme l’exige la nature des lignes du
+troifieme ordre ‚ l’equation auroit trois fa&eurs de 13 forme
+oe(x —p) —4- G(y — q), & appartiendroit par consequent ὲ
+un systeme de trois lignes droites. Ainfi un point triple ne peut
+appartenir aux lignes d’un ordre inferieur au quatrieme‚ ni les
+lignes du cinquieme ordre·ne peuvent avoir plus d'un point
+triple3 car autrement une droite poutroit couper un'e ligne du
+cinquieme ordre en fix points. Mais rien n’empeche qu'une
+ligne du fixieme ordre n’ait deux point triples.
+
+302. Si l'e'quation est de cette forme : P (x —p)* —4- Q
+(x—p)³(y-q)÷R (x-p)²(y-q)²-†-S (x‚—F)(y-q)² -÷- T
+
+y — q)÷ = 0 ‚ la courbe aura en llIun point quadruple. La
+courbe 13 plus simple qui puisse avoir un point quadruple, ap-
+partiendra donc aux lignes du cinquieme ordre3 ἃ deux points
+quadruples ne peuvent convenit qu'aux lignes du huitieme
+Qudne, ou d'un degre' plus eleve'. On pourra afligner d’une ma-
+niere semblable les equations ge'ne‘rales des lignes qui auroient
+en Mun point quintuple‚ ou multiple quelconque.
+
+303. Mais fi Mkest un point double, ou triple , ou un autre
+multiple , la courbe aura aurant de branches qui se couperont
+ou fe toucheront en M; δέ fi le nombre des branches qui se
+coupent est moindre, c'est une preuve qu’il y aura un ou plu-
+fieurs points conjugues‚ qui se re'uniront au point M: l’etat
+de la courbe pourra etre connu pat ce qui 3 ete dit ci-deflus.
+On e'crita par-tout dans les fonflions P, Q , R, S &a p 8( q
+au lieu de x & dey, & t δέ u au lieu des faRetirs x—p δε
+y — q ‚· on aura par ce moyen les e'quations qui servirent ἐι
+de'terminer 13 nature de la courbe, δε 3 trouver les tangentes
+des branches qui se coupent en M.
+
+Ennii, Introduc'lion ἁ l'Anal. infin. Tome II. 3 X
+

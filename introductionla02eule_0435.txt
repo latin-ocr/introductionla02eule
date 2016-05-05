@@ -1,0 +1,40 @@
+ετ ECLAtn-clssEMssNs. 421
+
+de points; ou, ce qui revient au meme ‚ sur ce que deux
+equations compleres, l’une du degre m, ἃ l’autre du degre n,
+qui renferment deux inconnues x &y ‚ etant domities, fi on
+elimine une de ces inconnues , l’e'quation finale‚qui ne contien-
+dra plus que l’autre inconnue, sera du degre mn, La de'mons-
+tration generale de cette propofition se trouve dans plusieurs
+ouvrages ‚ & je ne la donne ici que pour evitet au le&eur
+qui ne la connoitroit pas, la peine de la chercher ailleurs.
+
+Soient deux e'quations compleres en x 8( en y, l'une du
+degre m, 8< l’autre du degre': n‚· fi on suppose la premiere
+resolue par rapport ὲκ, 6116 fournira un nombrem de racines
+a, b, c, d, ἃς. qui seront chacune des fonffions de y,· fi on
+substitue succeflivement ces valeurs de x dans la seconde
+e'quation‚ on aura-un nombre m d’e'quations en y. Mais ‚
+comme l'equation finale doit evidemment renferrner toutes
+les racines que les m e'quations en y, qui resultent des
+substitutions succeffives de a , b, c, d, &c. pour x, penvent
+fournir, elle doit donc avoir pour fafiteurs ces m equations.
+Elle aura donc pour un de ses termes an. bn. c'¹. dn. ἃς. Or il
+est ‘vifible que la plus haute puiffance de y se trouve dans ce
+terme3 mais comme dans la premiere equarion , le produit
+a. b. c. α’. &c. exprime la quantite independante de x, il
+est clait que ce produit ne contient point de termes ‚ dans
+lesquelsy soit 616νὲ ἐι une puiffance supe'rieure ὲ m. Donc
+an. [νη. cn. δίε. ou (a. b. c. d. &c.)'f‚ ne donnera point poury
+une puiffance superieure ἐι m n. Donc l’e'quation finale eny
+ne s’elevera pas ἐι un plus haut degte que celui qui est de'signe
+par mn.
+
+CHAPITRE DERNIER DES SURFACES.
+
+IL resteroit ὲ de'terminer les rayons de coutbure des sur-
+faces courbes; mais apres ce qui a e'te dit dans ce Tame, sur
+la nature de ces surfaces, & dans le chapitre XIV sur la
+courbure des lignes courbes‚ cette question ne peut plus pre'-
+senter de difficulte re'elle. Au reste, voici sur cela des
+

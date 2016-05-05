@@ -1,0 +1,47 @@
+DESLIGNESCOURBES. 233
+
+impoffible. Anni, dans toute equation ἐι une courbe, les lignes
+constantes α , b , c, Sec. , formeront par-tout avec les variables
+x &y un meme nombre de dimenfions, ὲ moins que par ha-
+sard une des lignes constantes ne soit exprimee par l’unite ou
+par un autre nombre abstrait. Il suit de cette remarque que,
+s'il ne se trouvoit aucune ligne constante dans l'e'quation‚ les
+variables x δε y completeroient elles seules dans chaque
+terme un meme nombre de dimenfions3 & que par consequent
+elles formeroient une fonElion homogene, Mais nous avons vu
+anparavant qu'une telle equation n'appartient point ὲ une
+ligne courbe ‚ mais bien ἐι un systeme de lignes. droites qui
+s'entrecoupent reciproquement au meme point.
+
+436. Examinons donc une equation qui, outre les deux
+variables x Scy, renferme une ligne constante α, de maniere
+que les trois lignes α , x &y‚ forment par-tout dans l'equation
+le meme nombre de dimenfions. Une e'quation de cette na-
+ture ‚ suivant la valeus qu'on jugera ἐι propos de donner ὲ la
+constante a , exprimera une infinite de courbes qui ne diffe-
+reront entre elles que par la grandeur, & qui d'ailleurs seront
+entierement semblables. Ainfi toutes les courbes qui sont corn-
+prises de cette maniere dans une meme equation‚ sont regar-
+dees avec raison comme etant d’une meme espece & sembla-
+bles les unes aux autre83 & on ne remarquera entre elles
+d'autre diffe'rence que celle qu’on conqoit exister dans les
+cercles de differente grandeur.
+
+437. Pour mieux faire sentir cette fimilitude‚ nous pren⁴
+drons une equation determinee‚ qui, outre les variables x <Sc
+y, renferme une seule ligne constante cz, que nous appellerons
+Pammene,- celle-ci ‚ par exemple ι
+
+,γῐ-Ζκῑ-ὶ-αγγι-αακ-ὶ-ιααγε-ο,
+
+Soit A C= a la valeur du parametre , δε A MB la ligne P1.1X.F1g.88;
+
+courbe exprime‘e par cette equation‚ en prenant la droite AB
+
+pour axe ‚ & en supposant les coordonnees A P =x ἃ P M
+
+=y. Donnons ὲι present au parametre a une autre valeur quel- Pl.1X.Fio.80:
+
+conque oa⁴c=.a, ὃ( soit a m b la courbe representee alors par ὃ ‘
+Eum, Introdufflion ἁ l'Anal. izfin. Tome ΙΙ. 3 (ἒς
+

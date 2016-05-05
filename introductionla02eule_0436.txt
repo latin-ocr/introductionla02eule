@@ -1,0 +1,42 @@
+422 NOTES
+
+&clairciffemens tire':s du Journal des ffiances de I'Ecole nor-
+male. Soient x,y& {les coordonne‘es d'un point quelconque:
+fi, dans l‘essquation de la surface ‚ on met x—÷- x', 3 la place
+de x‚y —3-y' ἐι 13 place dey,-&{-!-{'}1 13 place de z, δε
+qu'on retranche l’e'1quation qui en rffl'ulte de 1⁹&quation primi-
+tive, tous les termes ind&pendans de x'‚y' & ζ’ dispar0i11-0m‚
+ἃ ron aura une &quation de cette forme :
+
+{'=p x'-÷- qy‘-4-rx'²-{- s x'y'—}- ty'²÷ &c3
+
+p, q, r, s, t, &c. &tant des fonffions connues des coordonntssaes
+
+x, y, ἅν ἶ, qui appartiennent au point que l’on confideere.
+Mais sezquation ge'me‘rale d'un plan quelconque est
+
+z=A÷Bx÷Cy·
+
+Si on change-dans cette &quation z en z -ι- ζ’, x en x —4- x',
+&y eny ÷y'‚ on trouvera pour ζ’ cette autre expreffion z
+
+ξε Bx'-÷- C y'-
+Comparant cette valeur de ζ’ avec la ptemikrffi on aura:
+B = pi C= q.
+
+Ainfi on aura les valeurs de A, B & C, & par conse'quent la
+pofition d'un plan tangent ὲ un point quelconque de la sur-
+face, au moyen des coordonne'es de ce point. Rapportons ὲ ce
+plan les coordonne'es de la surface‚ que nous supposerons tou-
+jours perpendiculaires entre elles , & fixons au point de con-
+ta& l’origine des nouvelles coordonne'es‚ en nommant x‘',y⁰
+les coordonnbes dans le plan tangent, &fla coordonnee qui
+lui est perpendiculaire, δέ ῐέάυἰΐωπ en se‘rie la valeur de ζ’
+d'une mauideoe analogue ὲ ce qui 3 ἐπέ ρι’3ῑίεῑυὲ pourles lignes
+courbes‚ on arrivera ὲ une valeur de ζ’, qui sera de cette
+forme:
+
+,ζ’-τ ax⁰²÷ by⁰²÷ &c3
+
+car, par 13 nature du plan tangent, les termes multiplirks pat
+

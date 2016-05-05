@@ -1,0 +1,46 @@
+UN ου Ριυςιευιῐε ΒιΑΜὲτιιΕε. ¹87
+
+diametres. De plus, comme nous avons vu ci-deffus qu’xl y
+avoit des courbes qui, sans avoir de diametres , avoient deux
+parties semblables, il y aura de meme des courbes qui seront
+compose'es d’un plus grand nombre de parties semblables &
+egales, ἃ qui manqueront cependant de diametres.
+
+356. Commencgons par un cas que nous avons de'ja traite,
+ἃ qui est celui ou deux parties egales ΑΜΕ, BKF, sont
+fituees a l’oppofite l'une' de l'autre3 car fi une courbe est corn-
+posee seulement de deux parties e'gales ‚ il est ne'ceffaire
+qu'elles soient opposee53 ce qui se comprendra mienx, quand
+nous examinemus un plus grand nombre de parties egales. Sup-
+posons donc ‚ comme aupai‘avant ‚ C ΜΞ ἴ, & l’angle
+A CM = s‚· il est clair que la meme valeur de ζ doit con-
+venit aux angles s ὃ( 71· 4- s ,· car en faisant ACM= 7r-4-s,
+ἶ deviendra = CK,· mais on doit avoir CK = CM; il faut
+donc chercher une expreffion commune aux angles s Sc 7t÷s5
+Ι telle est tang. s,· car on a tang. s = tang. (71-1-s). L‘equation
+Z=0 representera donc la courbe que nous cherchons, fi Z est
+une fonffion de z ὃ( de tang. s, ou une fonffion de xx—t-yy
+
+& de Ξ. Si nous faisons ἶ = t, nous aurons xx-4-yy :3¹3¹
+
+(ι-ὶ-ῑῑό. Donc Z devra etrje une fonRion de t & dey²(1-}-tt)‚
+εἐίὶ-ὲ-ἀίτε , de t δε de y y ‚· d'ou resultent les memes equa-
+tions que nous avons trouve'es ci-deffus.
+
+357. Mais, pour evitet les frafifions qui entrent dans l’ex-
+preffion des tangentes , nous pourtons traiter la meme question
+au moyen des finus & des cosmus; car, puisque fin. 25 ἒβη.
+2(7r—÷-s) δε cofi zs==c0s. 2(7r-}-s)‚· on obtiendra ce qu'on
+cherche,> fi on suppose Z une fonffion quelconque rationnelle
+de ces trois formules {,sz'n. 25 & cos. 2s, ou de xx-4-yy,
+2xy & xx ——yy. Remarquez a cette occasion que , fi l’une
+des expreffions sin. 2s & coſs 2s mamque, la courbe aura en
+outre un diametre. La solution de la question revient donc a ce
+qu’on prenne pour Z une fonfifion ratio'nnelle de xx , yy &xy,·
+d'ou re'sulte l'e'quation de la forme suivante :
+
+0=oe÷Cx²÷yxy÷d⁸y²÷ex4÷Zx³ y÷nx²y²÷6xyg÷1j*÷&c.
+3 a ¹1
+
+Pl. V111.1=;g.73.
+

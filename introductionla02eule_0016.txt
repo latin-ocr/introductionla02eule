@@ -1,0 +1,54 @@
+Pl. 1. Eg. 2.
+
+t
+
+-» ‘Des LiGNEs couniens
+
+n.-
+
+fi le point P tombe sur le point A, l'intervalle ΑΡ, devenant·
+nul ‚ representera la valeur de x=03 mais plus le point P
+s'eloignera du point A, plus la valeur determinee de x repre'-
+sentee par l’intervalle ΑΡ deviendra grande. ¹
+
+On appelle ces intervallesAP, ABSCISSES.
+
+Ainfi les absciffes representem les valeurs determinees de·
+la variable x.
+
+3, Or, comme la droite inde'finie R S s’etend ὲ l’infini de
+part δί d'autre du point A, on pourra auffi couper de part &
+cl'autre tontes les valeurs de x. Mais, fi nous prenons les va-
+leurs positives de sc„ en allant sur la droite depuis le point A,-
+les intervalles Ap fitue‘s sur la gauche representeront les vae
+leurs negatives de x. En effet, puisque plus le point P s’eloigne
+du point Avers la droke, plus est grande la valeur de x re-
+presentee par l’intervalle AP,· reciproquement‚ plus le point
+P s’eloigne vers la gauche, plus la valeur de x est diminue'e3
+
+ὃς, fi P tombe sul: Α, la valeur cle x devienrzo. C'est pour·-
+quoi, fi le point P est recule davantage vers la geuche ‚ les
+
+valeurs de x deviendront plus petites que zero ‚ c est-ssi-dire,
+seront negatives ‚ &les intervalles A p pris sur l‘a gauche de-
+puis le point A, representeront les valeurs negatives de x, fi
+les intervalles AF, fitue's ὲ la droite ‚ sont censes representet
+les valeurs pofitives. Au reste ‚ il est indifferent de prendre du
+cete' qu'on voudra les valeurs pofitives de x,· car le εόῑέ op--
+pose renfermera toujours les valeurs negatives,
+
+4. Puisqu’une ligne droite inde'finie est propre ὲ representer‘
+une quantite' variable x ., cherchons ὲι pre'sent une manieretres-
+commode de representet ge'ome'triquement une fonEtion quel-
+conque de x. Soit y cette fonfihon de x,· laquelle par conse-
+quent recevra une valeur determinee, fi on substitue pour x
+une valeur donnee. Ayant pris une droite indefinie RAS
+pour representet les valeurs de x, il faudm, pour chaque va-
+leur determinee ΑΡ de x, e'lever sur cette ligne une perpen÷= -
+diculaire PM, &gale ὲ la valeur correspondante de y ‚- c'est-ei-
+dire que ‚ fi la valeur de y est pofitive ‚ il faudra la placer au-
+dessus de RS‚· mais , fi la valeur de y devient negative, il
+faudra la placer perpendiculairement au-dess'ous de la droite·
+
+⁷ κ
+

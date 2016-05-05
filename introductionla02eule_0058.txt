@@ -1,0 +1,51 @@
+ω. Fig. 24:
+
+ml ,Fig. 20.
+
+num-,4221
+
+44 οῖς LlGNES
+
+concours de ces deux pointS‚ & le reelangle PM.PN de-
+viendra le quarre' de P M ou de PN,· ce qui donne une nou-
+velle propriete des tangentes. En effet ‚ supposons la droite
+ch qui touche la ligne du second ordre au point C, & me·-
+nons tant de lignes que nous voudrons PMN, pmn ‚ papest-
+leles entre elles, ὃ( qui par conse'quent faffent toutesxavec l'a
+tangente un meme angle ‚ nous aurens ‚ pat la propriete qui
+vient cl’etre trouve'e :
+
+ΡΟ2 :PM.PN::pC² :pm.pn;
+c’est-ii-dire, que, quelle que soit l⁷0rdonnee qu’'on mene ὲ la
+tangente sous un angle donne, le rapport du quarre' de Pa
+
+droite ΟΡ au refilangle P M>< ΡΝ sera cm1stant.
+
+95. ll suit de-l‘a en meme temps que ‚ fi dans une ligne du
+second ordre on mene un d'iamerre quel'conque CD, qui coupe
+en deux parties egales tontes les cordes MN, m n, & que ce
+diametre rencontre la courbe en deux points C& D ,. 0n=
+aura z,
+
+CL.LD:LM.LN::Cl.lD :sm-ln·-
+
+Mais, comme LM= LN& lm=ln, on aura ΖΜ2 :lm⁵¹
+:z CL. LD : CtJD‘, ou le quarte de la demi-ordonnee L Λ
+sera continuellement au refirarngle CL.LD dans un rapport
+constant. Ainfi ‚ en prenant le diametre CD pour axe, les
+demi-ordonnees LM pour applique'es‚ on trouvera l'e'quation
+aux lignes du second ordre3 car, soit lev d-iametre cD Ξ a ,
+l’absciffe CL=x, & l’appliquee L M=y, LD sera a—x,
+& on· aura y² ἐι α x— xx dans un rapport- constant, que je
+supposerai celui de lz ὲ l< : ce qui donnera pour les lignes du
+
+second> ordre l'e'quation yy = ἐ (ax — x²)f
+
+96. Les deux propriete's des lignes du second ord're , que
+nous avons dela trouve'es‚ pourtont nous en faire decouvtir
+plusieurs autres. Supposons dans une ligne du meme ordre
+deux ordonnees AB δε CD paralleles entre elles, & ache- ἱ
+vons le quadrilatere A CD B ,- fi nous menons par un poi-nt
+quelconque Mde la courbe une ordonne'e MN parallele ὲ ΑΒ
+& ὲ cD, & qui coupe les- droites A C & BD aux pointsR
+

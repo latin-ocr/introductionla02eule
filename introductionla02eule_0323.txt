@@ -1,0 +1,42 @@
+RELATlFSAuCERcLE. 309
+
+Ο l ,υ st r lt lt lt Ιι Ι ΙΙ ‘t ΙΙ
+57 17 44 48 22 29 21 2
+
+son finus exprime en se'ries telles que nous les avons de'velop-
+pe¹es dans la premiere seffion z
+
+= 0,84147098480514
+&
+
+son cofinus = 0,54030230584341;
+
+& le premier de ces nombres divise par le second donnera Ia
+tangente de 57⁹ 17' 44⁰ 48''' 2.2.⁰‘l 29“'¹' 21‘''“‘ &c.
+
+531. Au moyen de ces principes prelitninaites , qui peu-
+vent nous servir pour compater les arcs circulaires avec leurs
+finus & leurs tangentes, nous pourrons resoudre un grand nom-
+bre de questions relatives a la nature du Cercle. D’abord il est
+clair que tout arc est plus grand que son finus, a moins qu'il ne
+soit e'vanouiffant3 mais dans ce dernier cas son cosmus=13d0nc
+γ le cosmus est alors plus grand que l'arc ε au contraire le cofinus
+d’un angle droit=03 & par consequent est plus petit que l'arc
+auquel il appartient. 11 suit de-la qu'il y a entre 00 ὅ( 900 un
+arc egal a son cosmus ‚ & que nous nous proposons de trouver
+dans le probleme suivant:
+
+PROBLEME Ι.
+
+Trouver l’arc de cercle qui soit e'gal ἁ fim costnus.
+
+SOLUTtoN.
+
+Soit s l’arc cherche ‚ on aura s = coſs s. On ne voit gnere
+de moyen plus commode pour obtenir la valeur de s que d’em-
+ployet la tegle appele'e defauffie position. Mais pour cela il faut
+deja en connoitre une valeur affez approchee, qu'on peut au
+reste obtenir par une fimple conjefture3 car sans cela il faudra
+substituer trois valeurs ou plus a s, ἃ ramener pareillement le
+cosmus ὲ la meme unite. Supposons s = 300, 8< ramenons cet
+

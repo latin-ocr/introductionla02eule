@@ -1,0 +1,44 @@
+384 Des svah-Aeas
+
+generale des furfaces du second ordre ὲ la forme la plus
+{imple ‚ cette derniere embraffe toutes les especes auffi bien
+
+que la generale. Ainsi l’equation generale des surfaces du se-
+cond ordre etant:
+
+nes-ff-Cyz÷yxz÷ofy²÷2x91÷Cx²÷nz÷by÷tx÷n=Q
+
+cherchons l’e'quation entre les trois autres coordonnees p, q
+& r, que nous supposerons se couper re'ciproquement au
+
+meme point que les trois premieres. Pour cela , conforme'-
+ment ὲ l’art. 92 , il faudra faire:
+
+x: fimf-l<- ms, ''l-‘fin-kfinffl· cofin)÷q(cos. k.stn. m ÷firz. k. coſsm. cos.n)—r.fin. k.sin. n
+
+yz-pffim cosn2÷c0fi1<stn.m.c0s.n)-q(gcn.kfinan-coss< cofim.c0s.n)-r.00s,z<‚fin,n
+
+{z-—p.fisz.nz2firl.n-†-q.coſs m.fin.n†r.co]1 η.
+D'ou resulte cette equation:
+
+Ap²÷B q²÷Cr²÷Dp q÷Ep r-l-qu-1—Gp—1-H q÷Ir÷K=0.
+
+114. On pourra ὲ present determinet ces angles arbi-
+traires k, m & n, de maniere que les trois coefficiens D, E
+& F disparoiffent. Car, quoique 16 calcul devienne trop long
+pour effeffioer la determination 6181116116 de ces angles3 fi
+pourtant quelqu’un pouvoit douter que cette elimination don-
+nfit toujours une valeur re'elle pour ces angles ., il devra ac-
+corder au moins que les deux coefficiens D ἃ E peuvent
+&tre rendus egaux ὲ zero. Or, cela fait, la pofition du troi-
+fieme axe, auquel ies ordonne'es r sont ρει-3116163 dans le plan
+perpendiculaire aux ordonne‘es p, peut etre facilement change,
+de maniere que le coefficient F s'evanouiffe auffi. Car il n'y
+aura qu’e‘1 faire q:- tfitz. i÷u.c0s. i & r :nosti—usim&
+Sc, au lieu du terme qr, on aura 16 terme t u, dont le coeffi-
+cient poutra etre rendu egal ὲ zero, ἐι l’aide de l'angle i. Par
+ce moyen l'e‘quation generale des -surfaces du second ordre
+prendra donc cette forme:
+
+Ap²
+

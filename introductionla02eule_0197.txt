@@ -1,0 +1,45 @@
+UN ου PLUSIEURS ΒῐΑΜὲτιιεε. 183
+
+angles droits ‚ ou l’angle A CE sera une partie aliquote de 180
+degres, ou de la demi-circonfe'rence que nous supposerons
+
+= π.
+347. Si l'angle ACE= 900= ἑ π, ce sera le cas de'ja
+
+traite', oh 13 courbe 3 deux diametres perpendiculaires entre
+eux. Occupons-nous de nouveau (16 13 recherche de ces sortes
+de courbe53 mais employons une methode differente (16 'lei pre-
+miere, & qui puiffe s’appliquer e'galement ἐι 13 recherche d'un.
+plus grand nombre de diametre's. Soit donc une courbe qui
+ait deux diametres AB & EF‚· prenons sur sa circonference
+un point quelconque M, 8< ayant mene du centre Cla droire
+CM, supposons—la = ζ ,- faisons en meme temps l'angle
+ACM= s, & cherchons une equation entre ἶ δε s. On con-
+goit d’abord que la droite AC etant un diametre , il faut que
+z soit une fonfflon de s qui reste 13 meme ‚ fi on met — s 3
+13 place de s,· car ‚ en supposant l'angle A CM=s egal ἐι
+l’angle ne'gatif ACm‚ la droite Cm doit &tre = CM. Or cos.
+s est une fonfflion de s qui reste la meme, lorsqu'on met ——s
+au lieu de s. La condition demandee sera donc templie ‚ fi z
+est une fonfifion quelconque rationnelle de cos. s. .
+
+348. Soit l'abscisse CP=x Sc l'appliquee PM=y, on
+aura {²5s (xx÷yy), & cos. s = ξ. Soit Z = 0 l'equation ὲ
+13 courbe‚ dont 13 droite CA est un diametre3 Z devra erre
+une fonffion rationnelle de ἶ 8( (16 -Ξ, ou de Ξ 8( (16 x,· ou eno
+
+fin , pour n'avoir que des quantites rationnelles , (16 xx —4- γγ
+& de x. Mais fi Z est une fonRion de xx÷yy & de x, il seia
+auffi une fonfflon de yy ὅ( de x. Car soit xx -4—yy=u; puis-
+que Z doi‘t etre une fomffion de x ἃ* (16 u ‚· en faisant nxz-exse,
+de sorte que t=yy‚ Z deviendra une fonffiion de t 8( (16 2 3
+c'est-assz-dire, deyy & (16 x. Toutes les fois donc que Z sera une
+fonffion rationnelle de yy & de x, 13 droite CA sera un-diam
+mette de 13 courbe3pr0pr'1e'te ‚ qui est 13 meme que nous avons>
+trouve auparavant appartenir aux courbes qui n'ont qu'un
+diametre.
+
+849. Mais la courbe demandee doit en avoir deux AB <Sc
+
+pnvm. Fig.7:>,
+

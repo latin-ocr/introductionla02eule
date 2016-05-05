@@ -1,0 +1,44 @@
+nEsEQUArroNs. 281
+
+encore reconnoitre ὲ la nature des lignes de ces deux ordre53
+car, comme les lignes du troifieme ordre sont coupees par une
+droite en trois points ‚ il est e'vident qu'elles seront coupe‘es
+en fix points par deux droites , qui prises ensemble forment
+une espece de lignes du second ordre.
+
+498. En appliquant aux ordres plus eleves & ce que nous
+·avons expose auparavant sur l’e'limination‚ ἃ 16 raisonne-
+ment que nous venons de fonder sur l'intetseffion des lignes
+droites , on verra qn’on peut construite les equarions du neu-
+vieme degre' par les interse&ions de deux lignes du troifieme
+ordre, & celles qui ne paffent pas 16 seizieme degre par les
+interseffions de deux lignes du quatrieme ordre3 & en ge-
+ne'ral par le moyen de deux courbes , dont l'une est de l'ordre
+m & l'autre de l'ordre n, on pourra construite tontes les e'qua-
+tions quine surpaffent pas la puiffance mn. Ainfi‚ pour construite
+une equation du centieme degre'‚ on aura besoin ou de deux
+lignes du dixieme ordre , ou de deux lignes dont l'une soit du
+cinquieme & l'autre du vingtieme ordre; ainfi de suite, en de-
+composant 16 nombre 100 en deux faereurs. Mais file plus haut
+exposant de l’e'quation ὲ construite est exprime' par un nombre
+premier ou par un autre qui n'admette pas une decompofition
+en faReurs affez commode, on substituere, ὲ la place de celui-
+ci‚ un autre nombre plus grand qui ait des faffleurs convena-
+bles; car les deux courbes qui peuvent servir ὲ la construe-3
+tion des equations d’un degre plus e'leve‘‚ sont egalement
+propres ὲ celles des equations d'un ordre infe'rieur3 ainfi on
+pourra pour une equation du trente-neuvieme degre' employer
+deux courbes, l'une du fixieme ordre 8( l’autre du septieme‚
+parce qu'avec ces deux courbes on peut construite une e'qua-
+tion du quarante-neuvieme degre'3 ὃ( que cette construffion
+doit etre regarde'e comme plus simple que fi on employoit une
+courbe du troifieme ordre, & une autre du treizieme.
+
+499. On voit par-131 qu'on peut affigner les racines reelles
+d’une equation quelconque de plufieurs tuameres, ἃ* meme
+d'une infinite de manieres ‚ par les interseffions de deux
+courbes. Mais de cette infinite de manieres il faudra cboifir
+cesse qui supposera les lignes courbes les plus {imples & les
+
+EULER,In1roduc7ion dl'Anal. infin. Tome ΙΙ. 3N n
+

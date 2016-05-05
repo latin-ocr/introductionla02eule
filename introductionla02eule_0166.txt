@@ -1,0 +1,44 @@
+Pi. vnffiig. 55:
+
+πμ DsssAFFEc‘r'x'oNs
+
+ 
+
+CHA‘PITRE XIII.
+¹Des Affec‘lions des Lignes Combe&
+
+285. Nous avons determine ci-dess‘us la nature des bran-
+ches infinies en affignant une ligne droite ‚ ou une courbe
+plus fimple , qui se·c0nf0ndit avec 13 courbe propose'e 3 une
+distance infinie3 nous nous proposons de meme, dans ce cha-
+pitre‚ d'examinet une portion quelconque de la courbe con-
+fide're'e dans un espace fini, & de chercher 13 ligne droite,
+ou la courbe la plus fimple, avec laquelle elle puiffe se con-
+fondoe, au moins dans un espace tres—petit. D'abord il est clair
+que toute ligne droite qui touche la courbe en un point, se
+confond avec elle en cet endroit, ou qu’elle a avec elle au
+moins deux points communs. Mais on peut auffi affigner d'au-
+tres courbes qui se confondent plus exa&ement avec la por-
+tion donnee de la courbe propose'e‚ & la baisent en quelque
+sorte. On connoitra tres-bien par-l& l'etat de la ligne courbe
+pour chaque point avec ses diffe'rentes affthions.
+
+286. Soit donc proposee une e'quation quelconque entre les
+coordonnees x & y pout une courbe quelconque. Donnons 3
+l'absciffex une valeur de'termine'e AP=p‚ & cherchons celle
+de l’appliquee qui te'pond 3 cette absciffe3 s'il y en 3 plusieurs,
+nous en prendrons une 3 volonte' PM=q‚- le point M ap-
+partiendra ὲ 13 courbe ‚ ou sera un point par ou elle paffera.
+Mais alors, fi dans l’e'quation propose'e entre x & y on ecrit
+
+p au lieu de x & q au lieu de y, tous les termes de l’equation ·
+
+se detruiront mutuellement‚ de sorte que le reste sera nul. A
+present, pour connoltre 13 nature de cette portion de 13
+courbe qui passe par le point M, menons de ce point M 13
+droite Mq parallele 3 l’axe A P que nous prendrons maime-
+nant pour axe3 δε faisons cette nouvelle abscisse M q= t
+& l'appliquee qm = u. Comme le point m appartient auffila
+
+a
+

@@ -1,0 +1,44 @@
+80 DELARECHER-CHE Ἴ
+dont il s’agit‚ 3 l'origine des abscifl'es feroit finie, savoir Ξ·
+yl(x²-1—y³),· ce qui est contre l'hypothese. C'est pourquoi, fi
+une courbe 3 11118 1113118118 qui s’e‘tende 3 l’infini ‚ il‘arrivera
+qu’a une abscisse quelconque finie re'pondra une applique'e
+re'elle infinie, ou qu'& une abseiffe infmiment grande repon-
+dra une applique'e re‘elle soit finie, soit infinie. C'est donc 811
+partanr de ce principe ‚ qu’on pourra procedet 3 13 recherche
+des branches infinies des courbes. .
+167, Soit proposee une equation algebrique d’un degre'
+indetermine n entre les coordonne'es x &y‚ & examinons 3
+part les termes (13115 ’18133815 185 ν31131)185 x & y ont un
+nombre n de (11111811110115, savoir, oey'²—{—- Cyn-“x -÷- yyn—2x2·
+—†- &yn—{xz -ε- ..... -1- ἕχ”,· cette expreffion pourra etre
+de'coxnpose'e en faReurs fimples de 13 forme Ay÷B x, reels
+ou imaginantes ; fi elle renferme des faffieurs imaginaires ‚ ils.
+seront en nombre pair, 8( deux combines ensemble donneront
+un faetent double reel de la forme A²y²—2AB xy cos] φ( 4-
+B²x². Or un 181ξ3ξ18111, lorsque x ouy ‚ ou l'un ou l’autre est
+suppose‘ infini = 00 ‚ aura toujours une valeur infinie Ξ 00²,
+parce que 18 terme 2ABy x.c0s. φ est toujours plus petit que
+13 somme des deux autres A²y² -4- B²x², & que d'ailleurs
+ni A ni B ne peut etre zo. Le safreur de 13 forme A³y² -‘·.'
+
+2 A B xy.c0s φ -4- B²x², lorsqu'on suppose ou x ouy, ou “
+
+1’1111 ὃ( 1’311118 infmi, ne peut donc erre e'gal 3 zero ‚ 1113 11118
+quantite finie, ni meme 3 13 quantite infinie 00 , puisqu'elle
+est = 00², quantite infiniment plus grande que 00.
+
+168. Donc, s1 13 partie superieure de l'equation ayn-{-
+ἔχη- ¹x -4— 7yn - ²x² -4- ..... —4— ξ x’‘ ne renferme aucun fac-
+teur fimple re'e13 ce qui, 3 13 verite, ne peut arriver, 3 moins,
+que n ne soit un nombre pair, elle sera alors composee seule·-
+ment de faffleurs doubles de cette forme A²y² — 2 ABxy.·
+cof φ -÷- B²x². Ainfi, en supposant ou x ou y, ou l'un &
+l'autre infmi ‚ cette expreffion recevra une valeur infinie
+π 00⁸3 elle ne peut donc etre e'gale ni ὲ une quantite': finie ,
+ni 3 aucune quantite infinie 00⁷³, dont l'exposant m feroit
+moindre que n. Les autres membres de l'equation dans les-1
+quels les variabkes x &y ont de plus petites dimenfions, don-
+
+nant
+

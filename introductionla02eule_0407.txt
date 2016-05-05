@@ -1,0 +1,42 @@
+DE L’INTERSECTloN DE DEUX SURFACES. 393
+
+ 
+
+C H A P I T R E V I.
+De l'Intezsec‘Yion de deux S arsaces,
+
+131. ΟΝ 3 dei& expose' ci-deffus 13 maniere de trouver
+quelle est la nature de 13 seffion faite par un plan quj' eoupe
+une surface quelconque. Car 13 courbe qu'elle forme etant
+tout entiere dans 16 meme plan 03 13 seffion est faite ‚ nous
+avons pris auffi dans ce plan deux 60οῑ(1033665, dont 13 re-
+lation exprime, suivant l'usage‚ la nature de 665 courbes3 &
+nous en avons par-151 ramene la connoiffance aux regles ordi-
+naires. Mais, fi 13 surface coupante n'est pas plane, comme
+alors la seffion ne sera pas dans un seul plan, deux coordon-
+nees ne suffiront plus pour en exprimet 13 nature3 81 il faudra
+recourir ὲ 33 autre moyen pour renfermer 665 dernieres sec-
+
+tions 61335 des e'quations qui puiffent indiquer 13 veritable po-
+fition de chacun de ses points.
+
+132. Or on peut determinet 13 fituation des points qui ne
+sont pas dans un meme plan, 3 l’aide de trois plans perpen-
+diculaires entre eux ‚ en affignant 13 distance de chaque point
+ὲ chacun (16 665 plans. Ainfi trois variables seront necess'aires
+pour exprimet 13 nature d’une courbe qui-n'est pas fitue'e dans
+un meme plan, en sorte que, fi on en prend une 3 volonte ,
+il en doit resultet pour les deux autres des valeurs determi-
+ne‘eS. Pour templir 66 but, une seule equation entre les trois
+coordonnees est donc insuffisante ‚ parce qu’elle exprimeroit
+13 nature d’une surface entiere3 c'est pourquoi on aura besoin
+de deux equastons, par 16 moyen desquelles, fi on attribue-2¹1
+une variable une valeus donne'e , les valeurs des deux autres
+se trouvent en meme temps determinees.
+
+133. La nature d'une courbe, lorsqu'il n'est pas constant
+qu'elle soit fituee dans un meme plan, est donc tres-bien ex-
+primee par deux e'quations entre trois variables‚ telles que x,
+
+EULER,Introduffiotzdl'Atzal.infin. Tome ll. 3Ddd ’
+

@@ -1,0 +1,43 @@
+308 SoturroN DE QUELQUES Pssonrfiusss
+
+x 3,5362738827928158479612932113
+
+&‚ {i l’arc propos& est exprime en secondes, ou qu'il soit
+ε 17¹¹, on trouvera le logarithme de sa longueur, en retran-
+chant du logarithme de n celui-ci :
+
+5‚3144251331764594804700600095 V
+ou, en aioutant au logarithme du nombre n:
+
+4,68 5 574866823 540519529939990‚
+
+& diminuant de 10 la carafiteristique de la somme. ⁷
+
+530. Reciproquement, on pourra convertit le rayon & ses
+autres parties quelconques‚ telles que les finus, tangentes δε
+secantes, en arcs, & exprimet ceux-ci selon la maniere
+accoutumee en degre's‚ minutes δε secondes. Soit ζ une de
+ces lignes exprimee en unites entieres & decimales du rayon,
+prenons son logarithme avec 10unite's de plus ὲ la caraabris-
+tique, ainfi qu’on a coutume de representet· dans les Tables
+les logarithmes des finus ‚ des tangentes & des se'cante33 cela
+fait, il faudra soustraire de ce logarithme:
+
+⁴42685574866823540519529939990;
+
+ou y ajouter 5‚3144251331764594804700600093 on aura
+dans ces deux cas le logarithme dont le nombre correspon-
+dant donnera l’arc exprime en secondes; mais dans le 'second
+cas, la carabteristique doit etre diminue'e d'une dixaine. Si on
+veut sav-oir quel est l’arc -de cercle e'gal au ray0n‚ on pourra
+le trouver plus facilement, sans employer les logarithmes,
+par la tegle de Trois; car on a π : 1800:: 1 : l’arc dont i}
+s'agit. On trouve pour cet arc exprime en degre's:
+
+5722957795130823208767983
+pour le meme arc exprime en minutes:
+3437274677078493925260788;
+ἃ enfin , fi on veut l'avoir en secondes , il est =c³2
+20626428062470963551564728.
+Cet arc exprime ‘a la mamere ordinaire contiendra:
+

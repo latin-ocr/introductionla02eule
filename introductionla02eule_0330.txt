@@ -1,0 +1,41 @@
+316 SOLUT10NDE QUELQUES PnonLeMsss
+
+PROBLEMEIW
+
+P1.X11.Fig. 24. Etant donne* le demi-cercle A E D B, lirer clu point A une corde
+AD qui cliwse ejz deu'x parties &galas sa fiafczca.
+
+SOLUTION.
+
+Soit Fare cherche' A D z s ,· ayant mene} 16 rayon CD;
+on aura l’aire du seffleur A CD Σὲ s ,· fi on en retranche le
+triangle A C D z: ὲ A C.D E :ag-,sim s, ’11 restera le seg·
+ment AD-z—{s—'gfim s, qni doit &tre e'gal au demi-cercle
+AD B , mais l'aire du demi—cercle = ὲ π,· donc s ——fim s
+Ξ ὲ π = 900, & par conse'quent s — 900 :sim s. Faisons
+s—90O zu, nous auronsfin. s = cos. u & partant u Ξ cos. u.
+On aura donc d'abord par 16 premier probffime u = 420 20'
+47“ 14'‘', & e'nsuite s Ξ ὲ l'angle ACD==1320 20‘ 47⁰ 14'0,
+& l’angle B CD=470 39' κί’ 46”ῗ’. La corde A D sera
+=1‚8295422- C.Q. F. T.
+
+535. On peut donc (ἐρεῖ-ετ ainfi dans un cercle un seg-
+ment, dont la surface soit le quart du cercle entier3 or on sait
+que le segment &gal ὲ la moitie': du cercle est le demi-cercle
+lui-mfime, ἃ que sa corde est 16 ἀίᾱῑῐιὲῐτε. On peut trouver
+d‘une manie‘m: semblable un segmem qui soit 16 tiers du cer-
+
+cle entier. Ce sera l’objet du probleme suivant.
+
+PRossLssMEV„
+
+P{.X11.Fig.115‚ D'zm point A de la circonfh'rence tirer deux cordes A B , A C ,
+qui divisent l 'aire du cercle en trois parties e‘gales.
+
+SOLUTION-
+
+Soient le rayon du cercle=1‚ la demi-circonf&rence = π,
+8( l'arc A Β ou A C: s ; on aura l'aire du segment A ΕΒ
+ou A F C: ὲ s -ὲ fin. s, mais celle du cercle = 7r,· donc,
+ὲ cause que l’aire du 'segment A ΕΒ doit &tre le tiers de celle
+

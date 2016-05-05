@@ -1,0 +1,42 @@
+282‘ Des COURBES QUI ONT
+
+la droite A C pour dtamen-e, il est ne'eeffaire que la partie qui
+est clu-dela en ait un auffi GC, qui faffe au meme point C avec
+E C un angle G GE: A CE. Par la meme raison que G C
+est un diametre ‚ il devra y en avoir un autre lC qui feta
+l'angle GCI=GCE, & qui sera de meme espece que EC.
+La droite LC sera auffi un diametre‚ fi on prend l’angle
+XC L =l C G,· δε en continuant ainfi , on trouveta de nou-
+veaux diamettes‚ jusqu’a ce qu'on en ait un qui tombe sur le
+premier A C,· ce qui arrivera toutes les fois que l'angle ACE
+aura un rapport rationnel ἐι l'angle droit.
+
+345. Α moins donc que l'angle ACE n’ait un rapport ra-
+tionnel ἐι l’angle droit, le nombre des diamettes sera infini, γ
+δέ la courbe sera un cercle; en effer toute droite menee pat
+le centre d’un cercle en est un diametre orthogonal3 car nous
+restreignons ici la denomination de diametre aux seuls qui sont
+perpendiculaires aux ordonne'es‚ comme e'tant les seuls qui
+partagent la courbe en deux parties semblables δε egales. On
+comprend par-la qu’aucune courbe algebriq'ue ne peut avoir
+deux diametres paralleles entre eux3 car, s'il en e'toit ainfi, par
+les raisons que nous venons d'alleguer‚ elle en auroit une
+infinite d’autres pareillement paralleles ὃ( egalement dis-
+tans Fun, de l’autre ; & par consequent il y auroit une ligne
+droite quivpourroit rencontrer une telle courbe en une infi-
+nite de point53 propriete quine convient point aux courbes
+algebriques. -
+
+346. Amfi, tontes les fois qu’une ligne courbe aura plu-
+fieurs elimenes, ils se couperont tous reciproquement dans
+un meme point C, <Sc formeront entre eux des angles egauX.
+Ces diametres seront alternativement de meme espece3 carle
+diametre CG sera de meme nature que CA, & l’e'quation ὲ
+la courbe qui convient au diametre CG pris pour axe, s’accor-
+dera avec l’e'quation ὲ la meme courbe rapportee au diametre
+CA confide're' comme axe. Les diametres alternatifs CA, CG,
+CL, &c. seront donc e'galement affeete's ὲ la courbe, &, par
+la meme raison ‚ les diametres CE, CI, &c. appartiendront
+semblablement ὲ la courbe. C’est pourqu0i‚ fi le nombre des di-
+r metres est fini, l'angle A C G sera une partie aliquote de quatre
+

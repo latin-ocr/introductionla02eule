@@ -1,0 +1,54 @@
+DE CHAQUE ORDRE DE LIGNES. 37
+
+tient d'unite's; de sorte que, fi le nombre des points don-
+nes est moindre, on peut alors faite passer pas ces points une
+infinite' de lignes de l’ordre n.
+
+81. A moins q)u'on ne propose un nombre de points plus
+n n÷3
+nite de lignes Ee l'ordre ri qu’on pout-ra faire passer paj— c)es
+11- n 3
+
+grand que
+
+ 
+
+‚ il y aura toujours une ligne ou une infi-
+
+ 
+
+point53 savoir une, fi le nombre des points donnes: 2 ,
+
+& une infinite, s'ii est moindre. Au reste, de quelque ma-
+niere que ces points soient disposes‚ la solution ne deviendra
+jamais impossible3 cat la determination des coefficiens α, ζ,
+32, ὣ, ἃς. n'exige jamais la resolution d'une equation du
+second degre ou d’un degre superieur‚ mais s’acheve toute
+entiere par des equations fimples; on n’auta donc jamais de
+valeurs imaginaires pour les quantites α , ἕ, 7¹> ἃς. , ni de
+valeurs multiformes: c’est pourquoi on aura toujot1rs une ligne
+reelle qui paffera par les points propose53 ὃς cette ligne sera
+unique, fi on propose autant de points que l'e'quation ge'ne·
+rale peut recevoir de determinations. „
+
+82. Comme la pofition de l'axe est arbstraireJla determi-
+nation des coefficiens deviendra plus facile ‚ fi on fa'it passer
+*l’axe pat un des points donnes ‚ & qu'on y place en meme
+temps l'origine A des absciffes3 car en supposant x: 0 , on
+devra avoir y: 0, ce qui fait voir tout de suite que dans Γέ-
+quation gene'xale :
+
+ozae÷Cx÷⁶yy *4- sx2-ff-2xy-4-Zy2-4-nx2-†-&c.‚
+
+α devient = 0. On peut ensuite faire auffi passer l'axe par un
+autre point propose‘3 par ce moyen le nombre des quantite‘s,
+qui fixent la position des points donnes, sera diminue. Enfin,
+au lieu d’appliquees perpendiculaires ‚ on peut choifir des ap-
+plique‘es obliques , de maniere que celle qui passe pat l’origine
+des absciffes, paffe en meme temps par un autre point donne'33
+car il n’y a pas plus de difficulte pout connoitre δε construite
+la courbe, lorsque les appliquees sont incline'es ὲ l'axe , que
+lorsqu'elles sont perpendiculaires.
+
+8 3. Si pour trouver une ligne du second ordre , qui pass'e 1‘1-11.Fig-18.
+

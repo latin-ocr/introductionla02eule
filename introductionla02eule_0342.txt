@@ -1,0 +1,44 @@
+328 Dus SURFAcEs Des CORPS
+
+surface qui fut sphe'rique dans un endroit, Sc qui dans un autre
+fut conique, ou cylindrique, ou plane. Nous excluonsici ab·
+solument les surfaces irreguliere53 δε nous ne confiderons que
+les ffiguliieres, dont 13 nature est exprimee constarnment par
+la meme equation. Car, apres avoir traite celles-ci ‚ il sera fa-
+cile de poster un jugement sur celles qui sont irre'gulieres, puis-
+que ces dernieres sont compose'es de parties de differentes
+suffaces regulieres.
+
+7. La premiere divifion des surfaces te'gulieres est en alge·
+briques 8( en transcendantes. Or on appelle surface alge'brique,
+celle dont 13 nature est exprime'e par une e'quation algebrique
+entre les coordonne'es x, y ὅ( {5 ou pour laquelle ἶ est egel 3
+une fo‘nElion algebrique de x ὅ( dey. Au contraire, fi ,ἶ n’est
+pas une fonSlion alge'brique de x ὅ( de y, ou s’il entre dans
+l'e'quation entre x,y ὃ( ζ, des quantite's transcendantes‚ comme
+des quantite's qui dependent des logarithmes δε des arcs de
+cercle3 alors 13 surface dont 13 nature est exprimee par une
+telle equati0n‚ sera transcendante. Telles seront les surfaces
+exprimees par les equations ζῇς-κλύω· z=y³⁶; {zyfim x.
+Au reste, on congoit facilement qu’il faut traiter les surfaces
+
+alge'briques avant de passer aux transcendantes.
+8. Ensuite‚ pour connoitre la nature de 13 surface, il »fau-
+
+dra sur-tout faire attention ὲ 13 qualite' de 13 fonffion ζ, de
+x ἃ de y, eu e'gard au nombre de valeurs qu’elle renferme.
+Ici se presentent donc d’abord les surfaces pour lesquelles ζ est
+egal 3 une fonffion uniforme de x ἃ de y. Soit P une telle
+fonGlion ou une f0n&ion rationnelle de x 8< de y ,· fi on a
+l'equation ζΞΡ, il y aura un point unique de la furface qui
+re'pondra 3 chaque point du plan Q,· ou, ce qui revient au
+meme , toute droite perpendiculaire au plan APQ rencon-
+trera 13 surface en un seul point. Dans ce cas, aucune valeur
+de 13 droite QM ne pourra devenir imaginaire3 mais toutes
+ces droites indiqueront des points te'els dela surface. Cepen-
+dant cette diverfite de fonffions n’e'tablit pas une variete
+effentielle entre les surfaces3 car elle depend de 13 pofition
+du plan ΑΡ Q, qui, comme celle de l'axe, est arbitraire3 de
+sorte que, s1 13 meme furface est rapportee 3 un autre plan ‚
+la
+

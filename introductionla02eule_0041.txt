@@ -1,0 +1,52 @@
+Des LIGNES COURBES ALGian. 27
+
+un termes ε & l'e'quation generale qui comprend toutes les
+lienes courbes du fixieme ordre, aura vingt-huit termes ‚ &c
+3ἰῖίί des autres suivant 13 loi des nombres triangulaires. Ainfi
+l’e‘quation generale pour les lignes de l’ordre n contiendra
+(rt-4· ¹ ) (nd-2)
+
+1 2
+peut determinet 3 νοῙοηῑέ. .
+
+58. 11 ne faut pas croire que chaque determination diffe-
+rente des constantes produise des courbes differente53 car
+nous avons vu dans le chapitre pre‘ce‘dent qu’on pouvoit avoir
+pour une meme ligne courbe, en changeant l’axe & l'origine
+des absciffes, une infinite d'equarions differentes3 ainfi 13
+divetfite des equations qui appartiennent au meme ordre, ne
+mene point 3 13 diverfite' des courbes indique'es par ces e'qua-
+rions. C'est pourquoi dans l'e'numeration des gentes ἃ des
+especes du meme ordre ‚ que l'on deduit de l‘e'quation gene-
+rale ‚ il faut bien prendre garde de rapporter la meme ligne
+courbe 3, deux especes‚ ou 3 un plus grand nombre.
+
+59. Puisque l’ordre de l'equation propose'e entre les coor-
+donnees fait connoitre celui de la ligne courbe3 e'tant donnee
+une e'qua‘tion alge'brique quelconque entre les coordonnees x
+&y, on saura tout de suite 3 quel ordre il faudra rapporter
+la courbe representee par cette equation. D’abord‚ fi l'equa-
+tion est irrationnelle , il faudra 13 delivrer de son irrationna-
+lite', δε, s’il y 3 des fra&ions‚ il faudra de meme les faire
+disparoitre3 cela fair, le nombre le plus grand des dimenfions
+que forment les variables x &y , indiquera l’ordre auquel
+appartient 13 ligne courbe. Ainfi 13 courbe que donne cette
+equationy — ax=0 ‚ sera du second ordre3 mais 13
+courbe ren erme'e dans cette e'quation yy= xffcffi —x²) ,
+laquelle, debarrasse'e de son irrationnalite‘ ‚ devient du qua-
+trieme ordre , sera du quatrieme ordre3 δε 13 ligne courbe que
+
+a3—-axx
+
+termes ‚ ὃς autant de lettres constantes ‚ qu’on
+
+ 
+
+fournit cette equation y= sera du troifieme ordre,
+
+aa xx
+parce que l'e'quation, apres qd-'on 3 fait disparoitre les frac-
+tions‚ devient a ay -÷- x xy = αἶ -- α x x, oir‘le terme x-'y
+renferme trois dimenfions. D .
+3 ¹!
+

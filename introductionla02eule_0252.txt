@@ -1,0 +1,60 @@
+238 Da LA Sinum-runa ET DE L’Afmmrfi
+
+donner une idee plus nette de ce que nous venons de dire
+de la similitude & de l’affinite , nous l’eclaircirons par quel-
+ques exemples tires des courbes les plus connues.
+
+445. Soit donc la courbe donne'e un cercle rapporte a'u'
+
+diametre ‚ dont la nature est representee par l’equation y² =
+
+2 c x -- x2. Faisons x εξ & y = ἒ , l’equation resultante
+
+entre X ἃ Y comprendra toutes les courbes semblables; on
+1⁷? 2cX XX
+
+aura donc — = —- -— ou YY=2ncX—XX‚· d'ou
+
+7171 71 7171
+
+il suit que toutes les courbes semblables au cercle sont elles-
+memes des cercles , dont les diametres 2 n c different entre
+eux ‚ comme on voudra. Mais, pour trouver les courbes qui
+
+ 
+
+ont de l’affinite avec le cercle, il faudra faire x = ῘΞ &y=⁴—-
+
+Y 1'1' 2cX XX 4
+——,&onaura-= —-—- oum²Y·=2mn²cX-‹
+
+ 
+
+71 nn m mm
+n n X X ,- equation generale a l’Ellypse rapportee ὲ l’un des
+axes principaux. On voit par 13 que toutes les Ellypses sont
+des lignes courbes qui ont de l'affinite avec le cercle3 δε qu’il
+en est de meme de toutes les Ellypses compare'es les unes
+aux autres. On congost, par 13 meme raison, que toutes les
+hyperboles jouiffent de la meme propriete'3 & les ellypses,'
+auffi bien que les hyperboles‚ dans lesquelles les deux axes
+principaux ont entre eux le meme rapport, seront des courbes
+respefilivement semblables.
+
+446. Quant ὲ 13 parabole exprime'e par l’equationy²=cx,'
+il est clair que toutes les courbes qui lui sont semblables sont
+aussi des paraboles'3 & que par consequent toutes les paraboles
+sont semblables entre elles. Mais ‚ pour avoir les courbes qui
+
+. γ
+ont de l’affinite avec la parabole ‚ nous ferons y = ἶ δίχ’-τ·-
+
+⁴} ‚· ce qui donnera l’equation ΥΞ = 1²25 X, laquelle, represens
+
+m m
+
+tant auffi cles paraboles‚ fait voir manifestement que les courbes
+qui ont de l'affinite avec la parabole , lui sont en meme
+temps semblables, en sorte que dans ce cas la similitude a une
+fignification auffi e'tendue que l'affinite'. La meme chose 3 lieu
+

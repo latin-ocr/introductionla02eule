@@ -1,0 +1,42 @@
+34 Des PRINCIPALES Pnopmtrts
+
+73. Le nombre des interseffions qu'une ligne droite quel·
+conque fait avec une ligne donne'e‚ ne pourra donc determinet
+l'ordre auquel une ligne courbe appartient. Car, file nombre des
+intersefifions: n, il ne s'ensuit pas que la courbe appartIenne
+a l’ordre n; mais elle peut etre rapportee aussi a quelque
+ordre supe'rieut ι il peut se faire meme que la courbe ne soit
+pas alge‘btique‚ mais transcendante. Ce cas excepte, on peut
+toujours affirmet en toute surete' qu’une ligne courbe‚ qui est
+coupe‘e par une droite en n points ‚ ne peut appartenir a aucun
+ordre interient de lignes. Ainfi, lorsqu'une droite coupe dans
+quatre points une courbe proposee‚ il est certain qu’elle n’ap-
+partient ni au second, ni au ttoifieme ordre3 mais doit-elle
+erte rapportee au quatrieme ordre, ou a un ordre supe'rieur‚
+ou bien est-elle transcendante ἓ C'est 66 qu'on ne peut (16-
+cider.
+
+74. Les equations generales ‚ que nous avons donnees pout
+les lignes de chaque ordre , contiennent plusieurs quantites
+constantes arbitraires ,qui determineront entierement la ligne
+courbe ‚ fi on leur donne des valeurs determinee33 δε elles se-
+ront de'crites sur un axe donne ‚ de maniete que toutes les au-
+tres courbes‚ qui etoient renfetme‘es dans la meme e'quation
+generale, se trouvent par—la exclues. Ains1‚ quoique l’equa-
+tion du premier ordre 0 Ξ α -1- Cx ÷yy ne convienne
+qu'a la ligne droite‚ on peut variet 3 son e'gard‚ d’une infi-
+nite‘ de manieres, la position de l’axe, suivant 13 diverfite in-
+·finie des valeurs qu'on peut donner aux constantes a, G, γ.
+Mais, des qu'une fois ces quantite's constantes ont une valeur
+de'tetmine'e‚ 13 pofition de la ligne droite est fixee3 ὃ( il n'y
+en 3 plus aucune autre qui puiffe satisfaire a l’equation.
+
+75. Certe equation 0=oe÷Cx÷yy pourtoit paroitre
+susceptible de trois determination5‚ ἐι cause des trois cons-
+tantes arbitraires a, C δε γ. Mais on sait par la nature des
+equations‚ que pour qu'elle soit de'termine'e‚ il suffit de con·
+noltre le rapport entre ces constante5‚ c’est-a-dire le rapport de
+deux d'entre elles a la troifieme 3 ainsi cette e'quation sera seule-
+ment susceptible de deux determinations. En effet,s1 on de'ter-
+mine ζ Sc γ par-la lettre α, de mansere que εῖτ-*3, & γε ια,
+

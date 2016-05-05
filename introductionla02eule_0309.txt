@@ -1,0 +1,43 @@
+TRANSCENDANTES. 295
+
+poffible d'en trouver seulement deux qui soient contigt153
+cependant en premant de suite deux a deux les points qur 1ont
+srtues du meme cote de l’axe‚ ils seront fi voifins l’un de
+’ l'autre‚ que l'espace qui les separe est plus petit qu'aucune
+quantite affignablffi cnr on congoit qu'entre deux valeurs de
+l’absciss'e fi voifines qu’on voudra, on peut inse'rer non pas une
+fraffion, mais-nne infinite d'autres dont les denominateurs se-
+ront impairs ‚ Sc qui donneront chacune naiffance ἐι des points
+appartenans ὲ l’e'quation propose'e. Certe suite cle points presen-
+tera donc l'apparence de deux lignes droites paralleles εὶ l'axe,
+& quien sont e'loigne'es de part ὅ( d'autre d'un intervalle=1;
+caril estimpoffible d'imaginer surceslignes aucun espace oh l'on
+ne puisse affigner, je ne dis pas un seul point ‚ mais des points
+sans nombre, par le moyen de l'e'quation y:(—1)³‘ qui les
+contient tous. Cette meme anomalie se retrouve dans l’equa-
+tion y =(—a)'‚ 8( dans les autres semblables, ou une
+quantite negative est eleve'e ὲ une puiss'ance indeterminee. ll
+etoit donc ne'ceffaire d'exposer ici ces especes de paradoxes,
+qui ne peuvent avoir lieu que dans les courbes transcen-
+dantes.
+
+518. C’est donc ἐι ce genre de courbes dependantes des
+logarithmes qu’appartiennent toutes les e'quations dans les-
+quelles se rencontrent non-seulement des logarithmes , mais
+encore des exposans variables3 parce qu’en pafl'ant des loga-
+rithmes aux nombres on artive ὲ celles-ci. C'est pourquoi on
+a coutume d'appeler ces courbes exponentielles. Telle sera donc
+la courbe renferme'e dans l'e'quationyzxss ou dans celle-ci
+ly=xlx. En faisant xxo, on auray=13s1 x=1, y
+sera: 13s1x= 2‚y sera = 43 fi x=3,y sera -—-z7, ἃς.
+
+On conclusa de Ιὲι que B DM exprimera la figure de cette P1.X1.F30.102‚
+courbe rapportee ὲ l'axe ΑΡ, de maniere qu'en prenant A C Β
+=1, on ait auffi AB: CD = ι. Les applique'es qui tom-
+
+bent entre A ὃ( Β seront plus petites que Punite-3 car , fi on
+
+fait x= ξ, on auray = {If—2 == 0, 70710683 & la plus petite
+
+de toutes se trouvera en prenant l’absciffe x= ξ =o‚36787944‚
+

@@ -1,0 +1,51 @@
+290 'Des LtoNEs COURBES
+
+que de x etant donne'e en nombre, on cherchera son loga-
+rithme hyperbolic111e3 on prendra dans le cercle, dont le
+rayon Ξ 1 ‚ nn arc e'gal ὲ ce logarithme3 8< son cosmus ex-
+prin·;era 13 valeus de l'appliquee γ. Par exmnple, sl on suppose
+x= 2 ‚ ou 2y Ξ 2÷V‘¹ -†- 2-y⁸-1 , on auray=c0s A . l 2
+:cos A.0‚6931471805599. Or cet arc egal 3 lz, 3 cause
+que l'arc Ξ 321415926535 ἃς. est de 1800 ‚ se trouve erre
+par 13 tegle de Trois, de 390 42' ‘5 1'‘ 52⁸7 9¹¹¹. Son cofinus est
+o‚769238901354‹,8 ‚ & donne en nombre la valeur de l’ap-
+pliqueey correspondante 3 l'absciffe x: z. Puisque ces sortes
+d'expreflions sont composees de logarithrnes & d’arcs de cet-
+cles‚ c'est donc avec raison qu’on les rapporte {tl'espece des
+transcendentes.
+
+5 12. Parmi les courbes transcendantes, celles qui occupent
+le premier tang sont donc representees par des equations qui
+
+renterrnent ‚ outre des quantites alge'briques ‚ des logarithmes3
+
+x
+
+& 13 plus fimple est contenue dans cette equation l {z —b— ou
+
+x = b.l{,· il est indifferent quelle espece de logarithmes on
+
+emploie, puisque par la multiplication de 13 constante b on peut
+ramener au meme les diffe‘rens systemes de logarithmes. Sup-
+posons donc que 13 lettre ldefigne les logarithmes hyperboli-
+
+ques‚ la courbe representee par l’equation x=bd ἕ est vulgai-
+
+rement connue sous 16 nom (16 LOGARITHMIQUE. S‘ssait e le nom-
+bre dont le logarithme=1, ou e= 2‚71828182845904523 536028,
+
+on aura eb Ξ 3 ouy=c1e⁶‚ e'quation tres-propre ὲ faire con·
+
+a>
+noitre 13 nature de 13 courbe dont il s'agit. En effer, fi on sub-
+stituesucceffivement&xdesvaleurs en progreffion arithmetique‚
+les appliquees y auront des valeurs en progreffion geometri-
+que. Mais , pour rendre 13 construfflon plus facile, nous ferons
+
+(Ξ m²¹ & b = n ες ce qui nous donnera l'e'quationy = a 772⁰ ‚
+
+oh m peut fignifier nn nombre quelconque ¹posltif plus grand
+¹que l'untte. Si donc on fait:
+
+ 
+

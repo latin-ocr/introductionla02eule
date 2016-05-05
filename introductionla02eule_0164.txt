@@ -1,0 +1,42 @@
+'¹50 DELAFtotJRE
+
+Ia ligne d-roite qui rencontre la courbe en ce point est censee
+ia couper en deux points; s‘il atrivoit qu'une autre branche
+passat par ce noeud, cette interseffion donneroit naiffance ὰ
+un point uitale ,· ἃ le point feroit quadrupla, fi deux points
+doubles se reuniffoient3 ce qui fait connoitre la nature δε la
+generation des points multiples. L'ovale e'vanouifl'ante‚ ou le
+point conjugue'‚ seta donc auffi un point double3 il en sera de
+meme d’une pointe qui re'sulte d’un point conjugue re'uni au
+reste de la courbe.
+
+283. Si l‘equation entre l’appliqueey & l’abscisse x est cu-
+bique ou d’un degre plus e'leve, de sorte que y soit e'gal ὲ
+une -fonfstion multiforme de x,· il re'pondra ὲ chaque abscisse
+aurant d'appliquees‚ que .y a de dimenfions dans l'equation3
+ou bien le nombre en sera diminue ⁴de deux, de quatre, ou
+de fix, δίς. ΙΙ y a donc toujours deux appliquees qui devien-
+nent imaginaires en meme temps , & avant que de le deve-
+nir, elles deviennent egales entre elles. Ce passage des ima-
+ginaires aux re'elles donne lieu ὲ plusieurs varietes qui se
+trouvent parmi celles que nous venons d’expliquer‚ ou qui
+en sont compose'es. Au surplus, en cherchant pour un affez
+grand nombre d’absciffes tant pofitives que ne'gatives toutes
+les valeurs correspondantes de l’appliquee, on connoitra fa-
+cilement le cours &la figure de la courbe‚ en la faisant pas-
+ser par les points qu'on aura ainfi trouves.
+
+284. Eclairciffons tout cela par un exemple‚ dans lequel,
+quoiqu'il soit tire' d’une e'quation d’un degre plus e'leve, Γερ-
+ἓΙίᾳυόε est cependant exprime'e par des racines quarre‘es, Soit
+
+one :
+
+2yzss3l(6x—xx)sstl(6x÷xx)ssvs(36-xx)2·
+
+equation, ou ὲ chaque absciffe doivent repondre huit appli-
+que‘es. Il est &vident que, fi on fait l’abseiffe x ne'gative ‚ l'ap-
+pliquee sera imaginaire3 la meme chose aura lieu, fi l'absciffe
+est prise plus grande que 63 ‹ie-131 il suit que toute la courbe
+est renferme'e entre les limites x = 0 & x = 6 3 donnons donc
+

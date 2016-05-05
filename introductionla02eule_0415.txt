@@ -1,0 +1,36 @@
+DEDEUXSURFACE& 401
+
+le point M, la tangente en ce point de la seffion qui en re'-
+suste, sera fituee dans le plan tangent. C’est pourquoi‚ fi nous
+trouvons au point M les tangentes de deux de ces seffions, {e
+
+plan forme parces deux droites devra toucher la surface meme
+au point M.
+
+gent avec le plan ΑΡ Q,· & fi on mene du point Q sur Si*
+
+la perpendiculaire Q R, on aura Q R est ὲ Q M comme le
+finus total est ὲ la tangente de l'angle MR Q, qui marqne
+l’inclinaison du plan tangent sur le plan A P Q.
+
+149. Supposons que par la methode des tangente5‚ que nous
+avons donne'e anparavant , on ait trouve les soutangentes
+
+QS=s & QT=t,· on aura PT=z—y & PX=s-—³—y
+
+t 2
+d’ou l’on conclut A X = x -Ι- —s-y--s. On connoit donc par-
+
+Ιὲ le point X, οὺ la droite S T trtaverse l’axe AP; δε, parce
+'que l’angle AXS= TSQ, la tangente de cet angle sera
+
+zp- ce qui fait connoitre la pofition de l’intetseftion du
+plan touchant avec le plan ΑΡ Q. Ensuite ‚ ὲ cause de S T
+
+Ξ »λβ s -4— tt), on aura Q R ='s(s‘st†n); ἃ, fi on divise
+Q Mpar cette ligne , on trouvera Ιζ tangente de l’angle d’in-
+
+EULER,lmr0duc7i0n dl’Anal. infin. Tome II. 3 Ε e e
+
+ 
+

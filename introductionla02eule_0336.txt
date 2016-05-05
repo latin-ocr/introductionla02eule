@@ -1,0 +1,60 @@
+3²2 SOLUTION DE QUELQUES Pnonm‘zmzs
+558. Proposons-nous la question suivante.
+
+PROBLEME vl11.
+
+Etant donne' zm quart de cercle ACB, trouver l'czrc A E e'galdfit
+corde A E prolonge‘ejusqu'au point F.
+
+SOLUTION.
+
+P1.X111.Fig.118. Soit l'arc AE=s, sa corde AE sera: 2 fin. ξ s, le finus
+verse ADzl—coss-:z .fin.{s ‘fin-gs. Les triangles semblables
+ΑΒΕ, Α CF donneront 2fitz. ὲ sfin. ξεε zfin. {s::1:s.
+On aura par coni‘e}quent s fin. ὲ s= 1. S—oient donc les sup-
+pofitions suivantes r
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+s=700 ,5:800 s=840 s= 85⁰
+ls=1,8450980 1‚9030900· 1‚9242793< 1‚9294189
+Retranchez1‚7581226 1‚75812261,7581226 1‚7581226
+0,0869754 0,1449674 0,1661567 0,1712963
+l.fin.{s=9‚7585913 9,8080675 9,8255109 9,8296833
+9‚8455667 929530349 9‚9916676 0‚0005:796
+Erreur -ι- 0,1544332 -fl-0,0469650 -ι- 83223 — 9796
+D’oh l’on conclut que s tombe entre les kimites 840 53' 8:
+840 54'. Soit donc
+³:84⁰ 53' s=840 μ’
+ou Ι ou
+s= 5093 1 s= 5094'
+÷s=42026÷ {5:42027‘
+ls= 327069737 3‚7070589
+Retranchez 3‚5362739 325362739
+0,1706998 0,1707850
+l⁰fif²· {s == 9‚8292003 9,8292694
+0‚999900¹ 0‚0000544
+Erreur -1- 998 -— 544
+
+d’oh il suit que
+l'atc s=AE Ξ 84⁰ 53‘ 38⁰ 51¹⁰
+l’arc BE= 500 6533? 9¹¹¹. C. Q F. T.
+

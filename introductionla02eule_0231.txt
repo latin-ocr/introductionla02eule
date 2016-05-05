@@ -1,0 +1,63 @@
+EN VERTU D'AUTRes PROPRtiz‘res. 217
+courbes qui satisfont seront toutes contenues dans cette e'qua-
+
+N(xx—{—yy) ...Μή-ΝΞΟ, ou Maa=N(x²-l-y²··*‘a²)’
+
+aa
+
+oh Μ defigne une fonRion quelconque homogene de n -1- 1
+
+dimenfions, 8( Ν une fonElion homogene de n dimenfions de
+
+x & (16 y, de maniere que 'Il—ff :Q soit une fonc-
+
+ad
+
+tion d'une seule dimenfion de x & dey. Cette equatiQn ren-
+ferme donc tontes les courbes qui, coupe'es seulement en
+deux points M 8( N par les droites qui paffent par 16 point
+C, donnent par—tout pour le re&a11gle CM. CN une quantite
+
+constante = α α.
+
+Μ
+
+409. Puisque N est une fonffion homogene d’une dimen-
+
+s10n de x & de y, 16 cas 16 plus {imple qu'on puiffe obtenir
+
+sera celui οὺ l’on feras‘NL: α x ἶ ζ y
+
+cette e'quation x x -1-yy— a (ω x÷6y)÷aa=0 , laquelle
+appartient au Cercle3 δε, comme on a par 1ὲ l'equation ge-
+nerale (16 cette courbe entre les coordonne'es perpendiculaires‚
+il est evident que 16 cercle satisfait ὲ la question, quelle que
+soit la pofition du point C, comme on 16 sait d'ailleurs par
+les e'le'mens. Il n’y a donc parmi les Sefflons Coniques que
+16 Cercle qui satisfafl'e ὲ cette question3 mais parmi les lignes
+des ordtes suivans on en trouvera une infinite qui satisfetont‚
+& meme tontes celles (16 chaque ordre qui peuvent convenit.
+Ainfi les lignes du troifieme ordre qui jouiffent de cette pro-
+prie'te'‚ seront comprises dans cette e'quation:
+
+tion
+
+ 
+
+ 
+
+,- suppofition qui donnera
+
+axx —4-ny-l-‘yyy— xx-kyy -l--m
+
+a(‹1*x—{r-ey) . aa
+ΟΠ
+
+(aex-l-ey)(x²-l-y2)——a(oex²÷6xy÷yy²)-÷-a²(d*x-l-÷y)=0.
+
+On trouvera d‘une maniere semblable celles des lignes des
+ordres suivans qui pou‘rront satisfaire.
+410. Proposons-nous ὲ pre‘sent cette question. Parmi tontes
+tles lignes courbes qui sont coupees en deux points par des
+EULER, Introduchon ἁ l’Anal. ilfin. Tome II. 3 Ε Εἴ
+

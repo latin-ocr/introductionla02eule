@@ -1,0 +1,45 @@
+Des BRANCHES 1N51N1Es. 81
+
+nant des infinis d’un ordre inferieur ἐι n, ne peuvent e‘galer ce
+plus grand infini ; & par consequent l'e'quation ne peut sub-
+fister, fi on fait ou x ou y, ou les deux infinis. ¹
+
+169. Η suit <le-121 qu’une ligne courbe exprime'e par une
+‹equatlon entre les coordonne‘es x &y‚ dont le membre supe-
+rieur ne renferme aucun faetent simple reel ‚ nffaura au-
+cune branche qui s’e‘tende a l’infini3 ἃ que ‚ par consequent,
+toute la courbe sera comprise dans un espace fini , comme
+l’Ellypse ou le Cercle. C'est pourquoi‚ fi dans l’equation ge-
+ne'rale du second ordre oey² -1- ny÷yxx÷ ἐμή-εχ
+-ξ-ζε 0 , le membre superieur ay2-4- ny -ι- 7 xx, dans
+lequel les variables x &y ont deux dimensiorm, ne contient
+point de fafiteurs fimples te'els, ce qui a lieu lorsque CC est
+p1us petit que 40⁶7, la courbe n’aura dans ce cas aucune
+branche qui s’etende ἐι l’infini ‚ & sera par cette raison une
+Ellypse.
+
+170. Pour mieux e'claircir tout cela , distinguons dans
+toute e'quation propose‘e entre les coordonnees x &y plu-
+fieurs membres, de maniere que le premier membre ‚ ou le
+membre de l’ordre le plus eleve'‚ renferme tous les termes de
+l’e'quation‚ dans lesquels les variables x δε y forment la plus
+grande dimenfion dont l’exposant soit nsJe rapporte au second
+membre tous les termes dans lesquels les deux variables forment
+n——t dimenfions. Le troifieme membre comprendra ceux dans
+lesquels le nombre de dimenfions de x & dey sera rz—-2‚ &
+ainfi des autreS‚ iusqu’i'i ce qu'on soit arrive au dernier membre
+dans lequel la dimenfion de x & de y sera nulle, Sc qui par
+consequent sera compose' seulement d'une quantite constante.
+Au reste, nous de'fignerons par P le premier membre, ou Ie
+membre le plus eleve, par Q le second membre, par R le
+troifieme, par S le quatrieme, ainfi de suite.
+
+¹71· Puis donc qu’une ligne courbe representee par l'e'qua-
+tion P -4- Q-l- R -ι- S -4- &c. = 0, lorsque le membre de
+l'ordre le plus eleve P n’a aucun faaeur fimple re'el‚ ne
+peut 'avoir de branche qui s'e'loigne ὲ l’infini3 supposons ὲ
+present que ce membre P renferme un seul faetent fimple
+teel ay—bx, de sorte que P=(ay—dbx) M,· M e'tant
+
+EUM-LK, Introduc‘lion ὰ ίἈηαί. infin. Torne II. 3 L
+

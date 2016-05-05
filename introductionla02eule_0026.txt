@@ -1,0 +1,46 @@
+1³1.1,F;g.8.
+
+12, DUCHANG'EMENT
+
+est arbitram, il s'ensuit que nous avons de'ja une infinite <Ye-
+quations‚ qui representem toutes 13 meme courbe.
+
+26. Si 13 courbe rencontre quelque part l'axe RS comme
+en C, alors en premant ce point Cpour l'origine des absciffes‚
+on aura une e'quation‚ qui, en faisant l’absciffe CP=0‚ don-
+nera en meme temps pour l’applique'e PM une quantite nulle,
+pourvu qu'il n’y en ait qu'une qui re'ponde au point C de
+l'axe. Au reste, l'interseffion C, s'il y en 3 une ou plusieurs,
+se trouvera‚ au moyen de l’e'quation proposee‚ entre x &y‚
+en supposant ιγ--Ξο, & en cherchant ‚ d'apres cette supposi-
+tion, 13 valeus ou les valeurs de x,· car, 3 l'endroit ol] la courbe
+rencontre l'axe‚y devient-:Q δε, reciproquement‚ en fai-
+santy=0 ‚ on aura toutes les absciffes, ou les valeurs de x,
+oil 13 courbe tombe sur l'axe.
+
+27. On changeia donc l'origine des absciffes‚ sans chan-
+ger l’axe ‚ en augmentant ou en diminuant l'absciffe x d’une
+quantite' donnee‚ c'est-a-dire , en e'crivant t—fa 13 place de
+x,· la quantitefsera positive, fi 13 nouvelle origine des ab-
+sciffes D tombe 3 13 gauche du point A , & 13 quantite f
+sera negative, file point D tombe 3 la. droite du meme
+point A.
+
+Supposons maintenant que 13 courbe LBM ayant ete de-
+crite au moyen d'une e'quation donnee entre A P = x
+δε PM=y, on prenne un autre axe rs parallele au premier,
+ἅ* sur cet axe le point D pour l’origine des absciffes : que
+cet axe tombe du cote des appliquees ne'gatives‚ & que sa
+distance AF du premier=g,· δε que l’intervalle DF=AG
+:fi Si on fait sur ce nouvel axe l'absciffe DQ, qui repond
+au point M=t‚ δε l'appliquee QM=u‚ on aura t=DF
+÷FQ=‚f-l-x‚ & 11=PM÷PQ=g÷y,- ce qui donne
+x= t —f, ἄχεα-ς. C'est pomquoi, fi dans l'equation
+donne'e entre x &y on met pat-tout t—fa 13 place de x,
+ἃ u-g ὲ 13 place dey, on aura l'equation entre t ὅτ u, qui
+exprimera 13 nature de 13 meme ligne courbe.
+
+28. Puisque les grandeursf& gsont 3 notre choiX, & qu’ilv
+y 3 pour cette raison une infinite de manieres de les de'ter-
+minet, il y aura infinirnent plus d’equations dans ce cas-ci que
+

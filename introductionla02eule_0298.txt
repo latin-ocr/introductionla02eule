@@ -1,0 +1,43 @@
+284 DELACONSTRUCTION
+
+502. Ainfi les seules seglions coniques fournissent une in-
+finite' de courbes, qui, combinees avec la parabole ay=x²
+-l- bx, feront connoitre par leurs interseffions les raeines de
+l’e'quation propose'e. Quelle que soit celle de ces courbes qu’on
+choifira‚ la parabole sera toujours coupee aux memes point53
+& par consequent les endroits oi1 toutes ces courbes s’enrre-
+couperonr‚ seront toujours les memes· On poutra donc parmi
+ce nombre infini de courbes en prendre deux a volonte
+(excepte' la parabole prise (raboni), qui, supposees decrites
+sur un axe commun ., indiqueront toujours par leurs intersec-
+rions les racines de l'equation proposee. Il suit de la qu'on
+pourra construite l'equation de certe maniere ou par le
+Cercle 8< la Parabole, comme nous l’avons deja vu ci-devant3
+ou par deux Parabole33 ou par la Parabole combinee soit avec
+l'Ellypse‚ soit avec l'Hyperbole3 ou par deux Ellypses; ou par
+deux Hyperbole53 ou par l'Ellypse avec l’Hyperbole. On mul-
+tipliera encore bien davantage la variete des consttuelions ‚ en:
+employant a cet effet des courbes d'ord'res plus e'leve's.
+
+503. On pourra construire pareillement les e'quations des
+degres supe'rieurss, en premant pour l'une des courbes une
+ligne du genre parabolique exprime'e par l’e'quationy = P.
+Si ‚ par exemple , on se proposoit— de construire cette e'qua-
+t1on ε
+
+x¹² --·f¹0x² —l-f'gx—-g¹²=0;*
+
+on prendroit l’equation 3 13 parabole du quatrieme ordre
+x÷ = a³y; & comme on a x¹² = a9y3, en faisant cette sub-
+
+stitution, on trouvera une equation qui appartient ὲ une ligne
+du troifieme ordre: ’
+
+a9y3 —f0x2-l-f9gx—g¹²= 03
+
+qui, combinee avec un multiple quelconque de 13 premiere
+equation x4 ——- a³y = 0 ‚ procluira une infinite de lignes
+courbes du quatrieme ordre ‚ qui pourront servir, en les pre-
+nanta volonte deux a deux ‚ a la constuffifion de l’equarion⁸⁴
+504. S’il arrivoit que 13 methode precedente ne donnaepas
+

@@ -1,0 +1,44 @@
+DusccoNDORDRE. 379
+
+de furfaces qui appartie nuent a l’ordre aftue1,dependront du
+rapport different que les coefficiens auront reciproquement
+entre eux3 & qui, q101quune meme surface soit exprime'e
+par une infinite' d‘ e'quations‚ donneront cependant une mul-
+titude infinie de diste'tentes surfaces.
+
+‚Nous avons pris la principale division des lignes
+coutcb3es planes dans la propriete qu 'elles avoient ou de 5 ’eten-
+dre a l’infmi‚ ou d’ etre renferme'es dans un espace fini; nous
+diviserons d’une maniere semblable toutes les surfaces d’un
+ordre quelconque en deux classes, dont la premiere contien-
+dra celles qui s’e'tendent 3 l’infini', & nous rapporterons a la
+seconde celles qui sont renferme'es dans un espace fini. Ainfi
+le cylindre & le cone seront cle 13 premiere claffe, & la sphere
+appartiendra a la seconde. Il ne se trouv era a la verite' dans
+cette derniere aucune furface dun ordre impair. En effer,
+comme chaque surface d’ un ordre lmpair donne des sefflons
+planes du meme ordre, & que les courbes d’ un ordre 1mpair
+s'e'tendent toutes ὲ l’infini, il est ne'ceffaire que les surfaces
+de ces ordres s’etendent auffi a l’infini.
+
+104. Or, toutes les fois qu'une surface est infinie il faut qu'au
+moins une des trois variables x, y δε {⁴³ soit auffi infinie.
+Ainfi,pu1squ1l est indifferent laquelle dans ce cas doit erre
+regardee comme infinie, supposons que ce soit ἶ, pourvu,
+bien entendu‚ que 13 surface soit infinie. Pour connoitre la
+nature de cette portion qui s’etend ὲ l'infini, nous ferons
+donc {- = 00. Il faut a present faire sur-tout attention au pre-
+mier terme αἶζ, examiner s ’11 manque, ou 5 ’11 ne manque pas.
+
+'Supposons donc d'abord que ce terme soit dans l'e'quation3
+ceux· ci n z δε κ disparoltront devant lui, & 011 aura pour 13
+partie infinie dont il 5 ’agit‚ cette equation:
+
+az ²²-l-Cyz-l-yxz—4-AEy -l-exy-f-Cx2 ÷0y÷1x=0;
+
+dans laquelle tous les termes qui ne sont pas influis, ou qui
+du moins sont infiniment plus petits que “H , disparoiffent.
+
+105. Supposons qu 11 ne manque aucun des ιεέῐτὲῗ ou les
+3 ¹¹
+

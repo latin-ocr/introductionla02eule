@@ -1,0 +1,49 @@
+⁷212 DE LA MANIERE DE TROUVER LES COURBES
+
+avons donc fait une enumeration complete de ·toutes les
+courbes alge'briques que les lignes circites, mene'es par un
+point donne' C, ne rencontrent qu'en un point.
+
+399. Paffons ὲ pre'sent ἐι la recherche des courbes que les
+droites menees par le point C coupent en deux points, ou ne
+rencontrent nulle part, lorsque les racines de l'equation qui
+indique une double interseclion ‚ deviennent imaginaires.
+Puisque la droite CM—-z doit avoir pour chaque angle ACM
+=<p une double valeur3 elle scra de'termine'e par une equation
+du second degre. Soit donc 791— P ζ —l- Q: ο, οὺ P 8( Q
+doivent erre des foncfions cle l'angle φ, ou bien de son finus
+ou de son cofinus. Mais, puisque la droite CM ne doit cou-
+per la courbe qu'en deux points M ὅ( Ν, non seulement P
+δέ Q doivent etse des fonchons uniformes, mais il faut encore
+qu'en augmentant l'angle φ de deux angles droits ., il n’en re-
+sulte aucune nouvelle interseffi0n3 ce qui aura lieu, lorsque
+P sera une foriclion impaire du finus δε du cosmus de l’angle
+φ , de sorte qu’il prenne une valeur negative lorsque le smus
+& le colinus sont pris negativement3 mais alors Q doit etse
+une fonchon paire du meme finus & du meme cosmus.
+
+400. En supposant les coordonne'es perpendiculaires CP=x
+
+ἃ PM=y3 on aura {zstm cp& ἶ :coſs φ ,- P devra donc erre
+χ
+
+une fonffion impaire de{& de} ὅ( Q une-fonffion paire de
+
+ξ & de {211 suit de la que ξ sera une fonclion rationnelle de
+
+x δε de 3), δε une f01]&ion homogene de— 1 dimenfion. Sem-
+blablement‚ ξς sera une fonffion rationnelle δε homogene de
+
+—2 dimenfioiis de x δε dey. Sidone on suppose L une fonffion
+homogene de (n—l- 2)dimens10ns‚ M une fonffion homogene
+
+de (n—l-1) dimensions‚ &Nune fonffion quelconque de n di-
+
+menfions de x & de y,· la fraSliOn ἕ donnera une fraffion
+
+convenable pour ξ, ἃ* {une fonfflon convenable pour -z—(25.
+¹ κ
+Ainsl9 pnisque ZZ—Pz-ff- Q=0’ 0ss aura 1 --. Ξ ,ἱ- gv = Ο.
+
+ἰ {K
+

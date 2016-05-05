@@ -1,0 +1,41 @@
+nEsC-oonnoxnizsss. 21
+
+45. Erant donnee maintenant une e'quat‘mn entre les coor- Pl.11.1⁷:g.13;
+donnees perpendiculaires AF: x 8( Psz, relativement
+ὲ une courbe LM,· on pourra trouver de cette maniere l’equa-
+tion 13 plus generale, qui convient a cette meme courbe.·Soit
+prise une droite quelconque rs pour Faxe, & sur cette ligne
+un point D pout l'origine des absciffes3, que les applique'es MT
+mene'es ὲ cet axe fallent un angle D TM= φ, dont le finus
+⁴ Ξμ, &le cofinus=v‚· on aura donc une nouvelle absciffe
+D T & une nouvelle applique'e TM, entre lesquelles il s'agit
+de trouver l'e'quation. Du point D soit mene'e sur le premier
+axe-RS 13 perpendiculaire D G, & soit A G———f‚ DG=g;
+ayant mene D O parallelement a l'axe RS, soit le smus de
+l'angle ODszm, δε le cofinus‚= n. Abaiss'ons ‚ comme
+nous l'avons fait auparavant‚ du point M sur le nouvel axe
+rs la perpendiculaire M Q, & supposons D Q: t , Q M
+:u ,- soient les coordonnees obliques D T=r‚ TM= s,-
+on· aura d’abord 1=r—- vs & u=,1s.s (art. 43 ),· ensuite x
+=mu÷nt÷f‚ &y=nu—mt—g (art. 36). On 'con-
+clura de-la κ-την-(ην-ιημ) s-——f &y=—nzr -ῑ-
+(μη-ι- vm) s—g,· e'quations dans lesquelles la quantite‘ n ιι
+—- m μ exprime le cosmus de l'angle A VM ‚ que les nou-
+velles appliquees font avec. le premier axe RS , &c la quan-
+tite μη-ι-ννη exprime le finus du meme angle A VM. Donc,
+fi dans l'e'quation entre x & y on substitue les valeurs qu'on a
+trouvees pour x &y ‚ on aura l’e'quation entre les coordon- -
+nees obliques r δε s , qui seta l’equation la plus generale, qui
+appartienne a la coutbe L M.
+
+46. Comme dans les valeurs qu’on substitue pour x 8( pour
+y, les nouvelles variables r & s n'ont qu'une dimenfion, il est
+evident que l'e'quation la plus generale est du meme ordre que
+l'equation proposee entre x Scy. Ainfi‚ de quelque maniere
+qu’on transforme l'e'quation d’une courbe ‚ eu changeant,
+comme on voudra, l’axe δε l’origine des absciss'es 'avec l'incli-
+naison mu‘tuelle des coordonnees, l’equation testera toujours
+du meme ordre. Done, quoiqu'une equation entre les coor-
+donnees, soit perpendiculaires ‚ soit obliques ‚ puiss'e variet
+d'une infinite' de manieres ‚ sans ceffer d'appartenir ἐι la meme
+

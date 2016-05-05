@@ -1,0 +1,48 @@
+5³1.X111.Fig.122;
+
+344 θεὲ δεετιοΝς Des SURFACES
+
+32. Non-seulement il est facile de se faire une idee de ces
+sortes de surfaces, mais on peut meme les construite> 8< les
+former sur une matiere donne'e. Car supposons que la variable
+ζ manque dans l'equation, de sorte que l'e'quation subfiste seu-
+lement entre les coordonnees AP=x ἃ Α Q = PM=y,-
+on macera, au moyen de l'e'quation‚ la ligne courbe BMD
+sur le plan ΑΡ Q‚· ensuite on concevra une ligne droite inde'-
+finie qui ‚ restant constamment perpendiculaire ὲ ce plan ‚ se
+meuve suivant cette courbe BMD,· cette droite tracera par
+son mouvement ou formera la surface indique'e par cette
+equation; d'ou il suit e'videmment que , s1 la ligne BMD est
+un cercle ‚ 13 surface qu'on obtiendra sera celle d'un cylindre
+droit3 δε fi 13 ligne B MD est une Ellypse, on aura la sur-
+face d'un cylindre scalene. Si la ligne BMD n'est pas con-
+tinue, mais fi elle est compose'e de plusieurs droites qui for-
+ment une figure reetiligne, la furface resultante sera alors
+prismatique.
+
+33. Comme ce genre de surfaces embraffe les cylindres δε
+tous les prismes, il conviendra de l’appeler generalement cy-
+lindrique ou prismatique ; & les especes particulieres comprises
+sous ce genre seront determinees par la figure plane B MD,
+qui les aura formees suivant la methode qui vient d’etre ex·-
+pliquee. Cette figure BMD se nommera la Base. Toutes les
+fois donc qu’une des trois variables x, y, z, manquera dans
+l’equation‚ alors 13 surface qu’elle exprime sera cylindrique
+ou prismatique. Mais, fi les deux variables y & τ( manquent
+
+43131ῡί3, comme alors x est =a une constante, la ligne
+
+BMD se changera en une ligne droite perpendiculaire ὲ l'axe
+AD‚- & par consequent 13 surface deviendra une surface plane
+perpendiculaire au plan ΑΡ Q.
+
+34. Apres ce genre de surfaces, le plus remarquable est celui
+qui resulte d'une equation homogene entre les trois variables
+x, y ἃ {³ ou dans laquelle les trois variables forment par—tout
+le meme nombre de dimension53 telle est l'equation {z =mxz
+-l-xx —i-yy, On voit par· 13 que toutes les seffions faites
+par des plans paralleles 3 un des trois plans principaux seront
+des figures semblables entre elles; car fi on donne ὲ z lune
+
+va eur
+

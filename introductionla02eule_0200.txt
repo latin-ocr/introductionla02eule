@@ -1,0 +1,68 @@
+⁷186 Des COURBES QUI ONT
+
+pr vn1.12;g.70.
+
+1³1. 'vm Fig. 71.
+
+Pr lv‘lll. Flg.71.
+
+devra erre une fonffion rationnelle de ces expreffions xx 4-
+
+yy & x3—-10x³yy-}- ς xyf. Ainfi la courbe la plus simple,
+qui, apres le cercle aura cinq diametros, est une ligne du cin-
+quieme ordre, & elle est exprime‘e par cette e'quation x'> —-
+10x³yy÷ 5 xy* = dxx ÷yy)²÷b(xx-÷-yy)-*-c· Cette
+courbe, a cause que tous les faeleurs du premier membre sont
+reels , aura donc cinq asymptotes qui par leurs interseffions
+forment un pentagone regulien au milieu duquel estle cenrre C.
+
+354. Il suit de ce qui precede, qu'en general une courbe
+dont l'equation est Z Ξ 0, aura un nombre η de diametres ‚,
+
+dont les deux plus voisms comprennent un angle=3 , fi Z est
+
+n
+
+une fonffion de ἶ Sc de cos. n s ,· ou, fi on a entre les coordon-
+ne'es perpendiculaires une fon&i0n quelconque rationnelle
+
+71(r2--¹)xn-2y2 ,ὶ-
+
+ 
+
+de ces expreffions xx ÷yy & x'¹——
+
+n-(a—1><n—2><n—-3›
+Ἤ( 2. 3. 4
+
+12 2
+
+xn-4y4— &C.; ou bien cett'e equation
+
+0=2÷Ct÷yu÷d⁸tt÷etu÷Cuu÷rqc³÷6nu-z-&m
+
+representera une courbe a n diametres, fi on suppose
+
+ 
+
+t-——xx-byy, ἃ 11:351-n-1(⁷2·-2¹)xn-2y2÷11·l('1-2-¹)('⁷;2)(”4-3)·
+
+xn-÷y÷-. &a On peut donc trouver des courbes qui aient au-
+tant de* diametres qu'on voudra‚ qui· se couperont reciproque-
+ment au meme point C sous des angles egaux. Et ces equa-
+tions comprennent en meme temps toutes les courbes alge-
+briques, qui ont un nombre donne de diametres.
+
+55. Ces sortes de courbes a plusieurs diametres ont un·
+nombre double de parties egales 8< semblables entre elles.
+A'mfi une courbe a deux diametres aura quatre parties e'gales
+& semblables ΑΕ, BE, AF& BF. Une courbe ὲ trois dia-
+metres est composee de fix parties semblables & egales AE',
+G E, GB, FB, FH & A·H,· une courbe a quatre diame-
+rres renfermera huit parties semblables & egales AE,‘A K„
+GE, GI, Bl, B F, HF & HK5 ὃ( semblablement
+
+le nombre des parties e‘gales est toujours double de celui des
+
+ 
+

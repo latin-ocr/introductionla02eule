@@ -1,0 +1,46 @@
+PLVII.
+
+P1.V11*Fig.63.
+
+¹74 DELACOURBURE
+
+point M, ou il y aura en Mun point de conta& d'une branche
+du second ordre avec une branche du premier ordre; ou enfin
+il n'y aura qu'une brancha du troisieme ordre qui pass'era par ce
+point. La nature des branches du troifieme ordre iera expri-
+me'e par des equarions de la forme suivante ν’) Ξ α 543
+t‘zczs33r'12as73 r2=oes³33 ou generalement par r3=oes⁷¹3
+n e'tant un nombre entier quelconque plus grand que trois δε
+non divifible par trois. La figure de ces branches sera telle,
+qu'elles anront en M un point de flexion contraire, fi—tz est⁷
+un nombre impair, ὅ( qu’elles auront un cours continu sans
+inflexion (comme dans la Fignre 62) fi n est un nombre
+pair. Du reste, le rayon osculateur dans ces courbes sera infi-
+niment perit au point M, fi n est plus petite que 6 ‚ &infi-
+nimenr grand, fi n est plus grande que 6.
+
+330. Senrblablement ‚ fi quatre tangentes de branches qui se
+coupent en Μ εοῑηςίιῑὶειπ, il y aura ou quatre branches du pre-
+mier ordre, ou deux du premier ordre δε une du second, ou
+deux du second, ou une du premier 8( une du troifieme , qui
+se toucheront au meme point M,· ou enfin il y aura une branche
+unique du quatrie'me ordre qui paffera par M. Au reste, la na-
+ture des branches du quatrieme ordre est renfermee dans cette
+e'quarion generale stez-own, n etant un nombre entier impair
+plus grand que 4. On aura dans tous les cas un point de re-
+brouffement comme dans les courbes du second ordre3 & le
+rayon osculateur en M sera infiniment petit fi n est plus petite
+que 8, ὅτ infiniment grand, fi n est plus grande que 8.
+
+331. On developpera de la meme maniere la nature des
+branches du cinquiaeffme ordre ou des ordres superieurS. Quant
+a leur figure, les branches du cinquieme⁹ du septieme, du
+neuvieme δε de tous les ordres impairs, s'accordent avec les
+branches du premier ordre qui pre'sentent deux particularite's,
+c'est-a—dire un point avec ou sans inflexion. Les branches du
+fixieme, du huitieme & de tous les ordres pairs s'accordenr de
+leur cote avec les branches du second & du quatrieme ordre;
+c’est-a-dire qu'elles auront toutes un point de rebrouffement
+en M, comme le represente la Figure 63. Quant ὲ la grandem·
+du rayon osculateur , il est aise de voir que la nature de ces
+

@@ -1,0 +1,55 @@
+P1.X.Fig.92;
+
+242 DE LA SIMILITUDE ET m: L’AFFINITE
+
+452. Soit le rayon invariable A O=a O=c, 8< soit l’angle·
+Α Ο a Ξ a, lequel est suppose variable. D'un point quelcon-
+que m de 13 courbe α m b, prise dans une fituation quelconque,
+soit abaiffee sur la droite OAB, confide'te'e comme axe princi-
+pal, l’appliquee mP,· & soit O P= x & Pm =y. Qu'on
+abaiss'e ensuite du point m sur 18 propre axe α b de 13 courbe
+a m b 13 perpendiculaite mp,· en faisant ap = t &p m= u, on
+aura une e'quatiOn invariable entre t & u , qui exprimera la
+nature de la courbe a m b. Du point P soit mene'e P s paral-
+1818 ἐι Ο b , jusqu'n ce qu'elle soit rencontre'e en s par le prolon-
+gerfient de l’applique'e mp, on aura ps z xstn. ει, Op — Ps
+:xmoſs α ,- mais 31015, a cause de 'l’angle Pms=A Οα-τα,
+on aura P s :yfim a 8< m s =y.cos‡ α. Ι)’011 1’011 conclura
+Op=c÷tzxoe0ſs oe-l-yfin. α 8( mp=u=y.c0J] ez
+»- x fitz. α. 11 faudra donc lubstituer dans l‘equation donnee
+entre t & u, t=x . cos. oe—l-yfin, οι- c 8< u=y . coſs ιι
+»- xfin. ει ,· 81 011 aura l’equation generale entre les coordon-
+neeslwc Scy, qui, en supposant α 1131131318, renfermera toutes
+les courbes amb.
+
+45 3. Supposons 3 pre'sent' que, tandis que 18 sommet de la
+courbe AMB se meut suivant 13 (1118811188 quelconque AaL,
+13 position de l’axe ab change continuellement‚ de sorte que
+l’angle A O cz de'pende d'une 1113111818 quelconque du point a.
+Par exemple, le sommet etant en a, soit AK=a‚ Ka=A,
+& l'angle Α Ocz=ae5 la direffiice e'tant donnee, A deviendra
+auffi une fonffion quelconque connue de α,- supposons encore
+
+que le finus ou le cosmus de l’angle α soit pareillement utne
+l
+
+tang. οὗ
+
+ 
+
+ξο11ἇ11011 quelconque de a. Cela pose, 011 aura K O=
+
+&Off-:f
+
+Ml. ὀί
+soit d'abord abaiffee sur l’axe principal AO 13 perpendiculaire
+m P, & ensuite sur 18 propre axe de 13 courbe la perpendiculaire
+ηιμ· soient AP=x‚ sz-y, & αρτ-Ἴ, pm=zc; on aura
+11118 equation invariable entre les coordonne'es ι 81 ιι, 311 moyen
+de laquelle il s'agit d'obtenir une equation variable entre x
+Scy, qui contienne toutes, les courbes am b„
+
+. D’un point quelconque m de 13 courbe amb
+
+ 
+

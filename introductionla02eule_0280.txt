@@ -1,0 +1,39 @@
+266 DEL'INTERSECTION
+
+deux e'quations soit d'un usage tres-etendu ‚ nous allons ce-
+pendant en ajouter une autre ‚ qui ne suppose pas aurant de
+substitutions repetees. Soient donc propose'es les deux e'quations
+suivantes d'un degre indetermine': ¹
+
+I.
+Pym÷Qym“¹—†-Ry⁷'¹“² —l-Sym‘3-4-&c.=0.
+II.
+
+Pyn -†- q y'‘*¹—÷-ry'²‘'²—- syn-³4- &C.=0‚
+
+desquelles il faut obtenir une e'quation qui ne renferme plus
+de y. Pout y parvenit, multiplions la derniere equation par
+cette quantite':
+
+pyk-rmr Ayss-*ffl ψ Est-² ψ (ΞΓ-ὂψ &0³
+
+laquelle contient un nombre l< ——rz de lettres arbitraires A , B,
+C, &a Multiplions la premiere equation pat cette quantite ε·
+
+Fy³‘'⁷⁷²—÷- σαὶ-Μ -ι- hyffa-²4- cyk'm'3 ’¹‘ &⁶³³
+
+qui renferme un nombre k— m de lettresarbitraires a, b,
+c, &a On egalera ensuite les deux produits entre eux, δε on
+supposera que tous les termes qui contiennent des puiffances
+dey, se de'truisent mutuellement. Les derniers termes ‚ qui
+ne renfermeront point de y, donneront l’equation qu’on
+cherche. Les plus hautes puiffances se detruisent d’elles-
+meme33 car le premier terme de chaque produit sera ppyk· Ii
+reste donc encore k — 1 termes qui doivent se detruire3 on
+aura pour cela autaut de lettres arbitraires ἐι determinet. Or le
+nombre des lettres arbitraires qu'on a introduites est zlc—m*
+κη, lequel doit etre e'gal ἐι k —-1;donc lc=m÷n—1.
+
+484. On multipliera donc pour cette raison la premiere
+equation par cette quantite indetermine'e:
+

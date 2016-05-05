@@ -1,0 +1,69 @@
+RELATIFS AUCERCLE. 321
+
+ἃ, comme les premiers sont plus petits que les secondes dans
+le premier quart de cercle , cherchons un arc qui soit la moi·-
+tie' de sa tangente. On l'aura pat le probleme suivant.
+
+PROBLEME VII.
+
+Trouver unsec‘leur A C D, qui soit la moitie‘ du triatzgle A C E
+
+forme‘ par le rayon A C, la tangente ΑΕ δ’ la se'catzte (ΣΕ. pi'XU‘Fig' ¹¹7⁷·
+
+S o L U T 1 o N.
+L’arc AD etant-ts, le seReur A CD sera =}s, δε le
+
+triangle A CE={ tang. s; d’oh il suit que ξ tang. s=s ou
+2 s=zang. s. Faisons donc les hypotheses qu'on voit ici:
+
+ 
+
+ 
+
+ 
+
+ 
+
+s=600 s=70⁶ s=66“ s=670
+l.2s=2,0791812 2‚1461280 2,1205739 2,1271048
+1‚7581226 1,75812261‚7581226 1‚7581226
+l.2s=0‚3210586 0‚3880054 0,3624513 0‚3689822
+l.tang.s=0‚2385606 0‚4389341 0‚351416c) 0,3721481
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-ὶ- 824980 - 509287 4-110344 -- 31659
+De·lz*1 on conclut ces limites plus approche'es de s, 66³ 46' δε
+660 47'3 en consequence saisons:
+s = 660 46' s = 660 47'
+ou ou
+
+ 
+
+ 
+
+ 
+
+5= 4006' s= 4007'
+2s==8012' 2s= 8014'
+l·2s= 329037409 3‚9038493
+3‚5362739 3²5343Z32
+l.2s=0‚3674670 0‚3675754
+&ang-s =0‚3672499 0‚3675985
+Erreur 4- 2171 -— 23¹
+231
+2402 ε 2171 :31' : 54⁰ 14⁷⁰.
+Donc ’
+l’arc s=A D=&660 46' 54⁰ 14'“;
+
+la tangente A E = 233¹ 1220. C. Q. F. T.
+EULER, Introduc‘lion ἁ ίἈηαί. infin. Tome ll. 3 S s
+

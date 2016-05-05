@@ -1,0 +1,46 @@
+nusecoN‘DORnRE. 387
+App÷qu÷Crt⁴=aa;
+
+d’abord‚ fi aucun des coefficiens A ‚ B ‚ C ‚ ne mamque. Mais
+s'il y en a un ou deux qui aient des valeurs negative33 sup-
+posons·en un seulement negatis, & confiderons certe e'qua-
+uon:
+
+App—fi-qu—-Crrzaa,
+
+dans laquelle A, B & C doivent pour le moment de‘figner des P1.XV.Fig.144,
+mombres pofitifs. Quant a ce qui regarde le centre de ce
+corps ὃς les plans diametraux‚ tout se passe comme auparavanr.
+On voit donc que la premiere sefflion principale A Ba b de
+
+ce corps est une ellypse‚ dont le demi-axe AC: ᾖ , &
+
+l'autre B C = ᾗ. Les deux autres seffions principales A q,
+
+BS, seront des hyperboles, qui auront leur centre en C,
+& leur demi-axe conjugue' = —ss‘—
+
+C·
+120. Certe surface representelsa donc& une espece d'enton-
+
+noir, qui ira en s’e'largiffant en deffus & en deffous suivant
+une forme hyperbolique. Cette surface aura pour asymptote
+un cone exprime par l’equation Ap p —÷- B q q — C rr= 0 ‚
+lequel aura son sommet au centre C, δε dont les cote's sont
+les asymptotes des hyperboles. Ce cone asymptote sera fitue
+dans l’inte'rieur de la surface ‚ & il sera droit fi A = Β , &
+scalene‚ fi A n’est pas egal a B; son axe sera la droite CD per-
+pendiculaire au plan ABa. Au reste , toutes les seffions per-
+pendiculaires a l’axe C D seront des ellypses semblables
+ὲ l’ellypse A B a b ,· & les sefrions perpendiculaires au plan
+A B cz b seront toutes des hyperboles3 d'ou il conviendra de
+nommer elqptico-hyperboliques ces surfaces circonscrites a un
+cone , qui devient leur asymptote. Ces surfaces constitueront
+pour nous le second genre.
+
+121. On pourra donc encore distinguer trois especes dans
+ce genre3 la premiere, fi a = o, auquel cas l’ellypse AB α b
+
+devient un point, & les hyperboles des lignes tinges* δε la
+3 cc ¹1
+

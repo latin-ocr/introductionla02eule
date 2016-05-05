@@ -1,0 +1,44 @@
+FAx-res PAR Dt-:s PLANs QUELCONQUES. 345
+
+valeur constante lz, il est clair que l’equation lz²=mhx÷x²
+-4-y2, fi on met succeffivement pour h les valeurs qu’on vou-
+dra, renferme une infinite de figures semblables entre elles,
+dont les parametres seront e'gaux ou proportionnels a lz meme.
+Ainfi‚ puisque ces seffions ne sont pas seulement semblables,
+mais qu’elles croiffent encore en raison des distances au plan
+ΑΡ Q, les lignes qui partent du point A, δε qui paffent pat
+les points homologues de chaque ίέξὶίοη, seront droites.
+
+35. Erant donc proposee une equation homogene entre les PLXIIIAEJmnnt
+trois vatiables x, y & ζ, donnons a ζ une valeur de'terminee ξ’ )
+AR==l2‚ &soit TSst la figure trace‘e sur un plan paral·
+lele a APQ & mene' par le point R, laquelle sera exprimee
+par une equation entre x &y, de maniere que R V=x &
+VM=y. Cette fection TSst une fois decrite , conce-
+vons une droite indefinie qui se meuve autour de son perimente,
+& qui soit affujettie a passer constamment par le point A,· cette
+droite de'crira par son mouvement la surface comprise dans
+l'e'quation proposee. Il est e'vident que ‚ fi la figure TSst
+est un cercle dont le centre soit en R, il en resulte un c6ne
+droit3 & fi R n'en est pas le centre‚ un cene scalene. Mais,
+fi la figure est reffiilignffi il en naitra des pyramides de toute
+espece} C'e‘st pourquoi nous appellerons coniques ou pyrami-
+dales les surfaces qui sont renfermees dans ce genre d'equa-
+tions. ⁷
+
+36. 11 suit de-la manifestement que, fi l’e'quation entre les
+trois variables x, y & ἶ, est homogene ‚ & que par conse'-
+quent la sufface soit conique ou pyramidale , non-seulement
+on aura pour toutes les seffions paralleles a un plan principa]
+ΑΡ Q des figures semblables, dont les parametres soient pro-
+portionnels aux distances de ces sefflons au sommet A,- mais
+on concon, par 13 meme raison, que tontes les seffions qui
+seront paralleles au plan APR ou au plan A Q R, jouiront
+de la meme proprie'te‚ ὅ( formeront consequernment des
+figures semblables, dont les cete‘s homologues seront propor-
+tionnels a leur distance au point A. On fera voir plus bas que
+toutes les autres seffions de ces corps qui sont paralleles entre
+elles, ou qui sont pat-alleles a un plan quelconque mene par
+
+EULER3 Introduc‘lion ἁ l’Anal. infin. Tome ΙΙ. 3 X x
+

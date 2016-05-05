@@ -1,0 +1,48 @@
+386 DESSURFACES
+
+117. Soit r=0‚ δὲ l'e'quation Ap2-÷-B q² = a² exprimera
+la nature de la fection principale A B α 6,· laquelle sera par
+consequent une ellypse qui aura son centre en C, dont les
+demi-axes seront C A = Cc1=V¹²7x & CB z Cb=VLff Si
+on fait q = 0 ‚ l'e'quation Ap² —f- (ΕΓΖ = α2 representem l'a
+fection principale A D α, qui sera pareillement une ellypse
+ayant son centre en C, dont les demi-axes seront CA: Ca
+
+L & CDzss· Or ces trois sections principales e'tant
+
+ΜΟ
+
+--.
+
+,Μ
+
+connues‚ ou seulement leurs demi-axes CA = VJK, CB:-
+..ἐ-Β ἃ CD = ,ἐξ ‚ la nature de ce corps'sera auffi connire
+
+’δε ἀέῑ6τιῃὶηέε. ll eonviendra donc d'appeler ce premier genre
+des surfaces du second ordre Ellyptoide‚ parce que ses trois
+seffions principales sont des ellypses. -
+
+⁴ 118. Ce genre embrasse trois especes qui metirent d'etr'e
+'distingueres des autres. La premiere, lorsque les troi's axes
+principaux CA, CB & CD sont e'gaux entre eux3 dans ce
+*cas les trois sections principales se changeront en cercles‚ δὲ
+16 corps meme en une sphere, dont l'e'quation, comme nous
+
+l’avons vu ci-deffus , sera:
+pp÷qq÷rr=aa.
+
+La seconde espece comptend les cas 01¹1 deux axes principaux
+seulement sont e'gaux entre eux. Soit‚ par exemple‚ CD=CB,
+ou C=B‚ la seclion BD b deviendra un cercle;.mais l’e'qua—
+tion Ap²÷B (q2-l—r2) = α α fait voir que toutes les seffions
+paralleles ὲ celles-ci seront pareillement des cercles3 d’on- il
+suit que ce corps sera un sphero‘ide ou oblong‚ fi AC est plus
+grand que B C, ou appiani, fi A C est plus petit que B C.
+Enfin la troifieme espece reirferme tous les corps dans lesquels
+les coefficiens A, B & C, sont inegaux3 & qui par conse-
+quent conferveront le nom general d'Elgyptoide.
+
+1 19. Les autres genres de surfaces du second ordre seront
+contenus dans cette equation ε
+

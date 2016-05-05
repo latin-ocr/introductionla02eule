@@ -1,0 +1,44 @@
+DssnssvxSURfAcrzs. 395
+
+plan B A D ou sur le plan C A D, en eliminant ou la variable
+y, ou la variable x. Une seule projection E QF ne suffit pus
+pour connoitre la courbe GMH‚- mais fi 011 connoit pour
+chaque point Q les perpendiculaires th': q, il sera facile·
+de construite, au moyen de la projectior] E QF, la courbe
+meme G MH. 11 faut donc pour cela qu'outre l'equation entre
+x &y, qui exprime la nature de la projeffion ‚ on en ait une
+autre entre z Sc x, ou entre ἶ &y, ou meme entre les trois
+ζ, x, y, qui faffe cmnoitre pour chaque point Q la longueur
+de la perpe11diculaire QM= ζ.
+
+136. Puisque l’equation entre ἶ & x exprime la proje&i0n
+de 13 courbe GMHsur le plan B AD, celle entre ἶ & y, 13
+projession faite sur le plan CA D,· & que l'equation entre
+les trois variables ἶ, y &a x, repre'sente 13 surface sur laquelle
+se trouve la courbe GMH,- il est d'abord evident qu'avec deux
+projections de 13 meme courbe G MHfaites sur deux plans ‚
+on connoit la courbe meme G MH,· mais ‚ de plus ‚ il est vi-
+fible que fi la surface , sur laquelle 13 courbe G MH est fitue'e‚
+est donnee auffi bien que sa projectior] sur un plan ‚ cette
+courbe sera pareillement connue. Il n'y aura qu'a elever de
+chaque point de 13 projeffion des perpendiculaires Q M, dont
+l’intersefflon avec 13 surface determinera 13 courbe cherchee
+
+137. Apres l’expofition pre'liminaire de ces principes , qui
+ont rapport ὲ 13 nature des courbes qui ne sont pas fituees dans
+
+run meme plan ‚ on pourra sans peine determinet l’interseffion
+
+de deux surfaces quelconques. Car ainfi que l’interseffion de
+deux plans est une ligne droite‚ ainsi l'interseffion de deux
+surfaces quelconques sera une ligne, ou droite ‚ ou courbe3 &
+cette derniere sera tout entiere dans un meme plan , ou n'y
+sera pas. Or, quel que soit celui de ces cas qui ait lieu, tous ses
+points appartiendront 3 chaque surface ‚ & seront par conse'-
+quent renferrnes dans l’e'quation de l'une δε de l’autre. Donc ,
+fi les deux surfaces sont exprimees par des equations entre trois
+coordonne'es, qui soient rapportees aux trois memes plans prin-
+cipaux perpendiculaires entre eux ‚ ou aux trois memes axes
+A B, A C δε AD , egalement perpendiculaires eglitre eux ‚
+3 D dij
+

@@ -1,0 +1,43 @@
+DEsEQUAT1oNs. 285
+
+une construelion commode pour l'equation qu’on se propose
+de construire; alors on multiplieroit l'e'quation par x , ou x2,
+ou x³‚ ou par une puiffance plus e'leve'e de x,· ce qui ajouteroit
+quelques racines egales ὲ zero ὲ celles qu'elle renfermoit de'jz‘1;
+lesquelles seroient indiquees par les intersetffions faites ὲ l'ori-
+gine des abstiffes, δε qu'il seroit par consequent facile de
+distinguer des autres racines veritables de l'e'quation propose'e.
+Ainfi, quoique l'e'quation devienne d’un degre superieur, elle
+ne laiffera pas neanmoins d'etre souvent plus commode ἑ conl?-
+truire. Par exemple , fi on proposoit l'e'quation cubique :
+
+x³÷Axx÷Bx÷C=03
+
+fi on suppose x x = ay, l’une des courbes qui doivent servir ὲ
+la constru5³d0n sera une parabole , δέ l'autre toujours une hy-
+·perbole3 cat on aura ‚ en metram ay au lieu de xx, cette
+e'quation:
+
+’ axy÷Aay÷Bx÷C=03
+
+ou, en ajoutant·1a‘ premiere e'quation c x2——a cy=0‚ celle-ci
+plus generale:
+
+axy÷cxx÷a(A—c)y-4-Bx-†-C=o‚
+
+qui pourtant sera toujours ἐι l’Hyperbole. S⁵il paroit plus corn-
+
+mode d'employer le JCercle ou l’Ellypse‚ ou la Parabole‚ il
+
+{39⁶1OE piulriplier par x l'e'quation proposee3 ce qui donnera
+equauon. x÷-÷-Ax3 ,4- Bxx-÷- ΕΧΞΟ,
+
+qui compare'e avec celledu quatrieme degre'‚ qui a ἑτέ cons-
+truite ci-deffus‚ donnera D z 03 8( cette equation pourra
+toujours erre construite par le moyen du Cercle δέ de la
+Parabole. '
+
+505. Puisque toute e'quation d'un degre': quelconque peut
+&tre construite parles intersefflions de deux courbes alge'bri-
+ques, 8( cela d’une infinite‘ de manieres, il sera toujours perm
+

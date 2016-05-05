@@ -1,0 +1,46 @@
+P1,XV1.Fig.148.
+
+394 DE L'INTERSECTION
+
+y, ἶ, qui representeront aurant de coordonnees perpendicu-
+
+laires entre elles. On pourra donc toujours avec ces deux
+equations determinet deux variables par le moyen de la troi-
+fiemeg c’est ainsi , par exemple ‚ que les variablesy ἃ z de-
+viendront e'gales respeEtivement ὲ une certaine fon&ion de x.
+On pourra auffi e'liminer a volonte une des variable53 on for-
+mera par ce moyen trois equations qui renfermeront seulement
+deux vatiables, l’une entre x &y, une autre entre x &z & une
+troifie¹me entre y 8< {- Or chacune de ces trois equations de-
+rive na‘tu‘rellement de deux autre53 de sorte que, fi on 3 des
+
+equations entre x &y 8< entre x & ἶ, on en pourra deduire
+la troifieme par l’e'limination de x.
+
+¹34· Soit donc propose'e une ligne courbe non fitue'e dans
+un meme plan, 8( dont M soit un point quelconque; on prendra
+ἐι volonte' trois axes perpendiculaires entre eux AB, A C δε
+A D , qui determinent trois plans auffi perpendiculaires entre
+eux, BAC, BAD δέ CAD. Du pointhelacourbeon
+abaiffeta sur le plan BA C la perpendiculaire MQ, & du
+point Q on menera ὲ l'axe A B la perpendicuXaire QP,· on
+aura A P, PQ ἃ Q Mpour les trois coordonnees‚ qui deter-
+mineront la nature de 13 courbe , pourvu qu'on ait entre
+elles deux equations. Faisons donc AP=x, P Q=y &
+Q M: ζ ,- & avec les deux e'quations donne‘es entre x,
+y 8( ἶ, formons-en une troifieme qui, par l’e'liminationvde ἶ,
+ne 'renferme plus que les deux variables x &y ,· elle determi-
+nera 13 position du point Q sur le plan BAC,· ἃ chaque point
+Q, qui repondra ainsi ὲ chaque point M, formera une ligne
+courbe E QF, dont la nature sera exprimee par l’equation
+trouvee entre x &y.
+
+135· Lorsque deux e'quarions sont proposees entre trois
+coordonne'aees , il est donc facile de connoitre de cette maniere
+13 nature de la courbe E QF, qu'on forme en abaiffant de cha-
+que point Mde 13 courbe cherchee des perpendiculaires M Q
+sur le plan B A C. Certe courbe E Q F se nomme laprojec‘lion
+de 13 courbe G MH sur le plan BA C. Or, comme on trouve
+13 ρςοῇεᾶίοη faite sur le plan BA C, en eliminant 13 variable
+ζ, pareillement on obtiendra celle de la meme courbe sur le
+

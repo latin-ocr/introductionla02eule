@@ -1,0 +1,43 @@
+382 DESSURFACES
+
+(CCss4oeAE)yy—{—2(Cy-— 2a÷)xy—i-(yy——4cz'<)xx
+
+obtient une valeur ndgative , pourvu qu’on prenne pour les
+deux variables x 8< y des valeurs quelconques , excepte' 0.
+Comme (0²6— 4 α ὣ & ‘77 — 4 ει ζ sont des quantite‘s ne'ga-
+ssves, cela arrivera fi (Cy——zoeef est moindre que (ΕΞ-4 α ὃ)
+(22 —- 4 a ζ),· εἐίὶ-ἒι-ἀίτε, fi α 2² -θ- <922² -ξ- {6² est moindre
+que Cy ε -i— 4 cz d*{,· pourvu toutefois que ω ait une valeur
+pofitive3 car nous avons divise} cette e'quation pat οι. Mais,
+[ι α a une valeur pofitive, ὲ cause des conditions &noncdes plus
+haut, 4αζ plus grand que γ’, 4 aad* plus grand que 4²², & 4 AY:
+plus grand que ε ε , les coefficiens A* & ζ seront pofitifs.
+
+110. Une surface du second ordre sera donc renfermee dans
+un espace fini, s1 son &quation est telle que les quatre con-
+ditions suivantes aient lieu3 savoir fi:
+
+4 oeCest plus grand que 77; 4oefflplus grand que CC,- 4 <NJ
+IZl-tzgaripnzd que ε ε & α ε2 -4- ὃν -i— ‘66² moindre que Cy ε
+
+Ainfi ‚ nous e'tabliffons pour premier genre des surfaces du se-
+cond ordre, celui auquel appartiennent toutes les espdces qui
+n’ont point de parties infinies ‚ mais qui sont renfermdes dans
+un espace fini. C'est donc ὲ ce genre qu’appattient la sphe‘ffe,
+dont l’essquation est:
+
+{{÷yy÷xx=aa;
+
+car, puisqu’on a a=1‚ ἐκ 1, ζει, C=0, y=0‚ 2:03
+toutes les quatre conditions'sont templies. Plus ge'ndralement ,
+cette &quation
+
+αἷῖ-ὶ- AEyy÷ Cxx=aa
+
+appartiendra ὲ ce genre ‚ tant que οι, ae, ζ, seront des quantite's
+pofitive53 elle exprimera toujours une surface fermde , ὲ moins
+qu’un ou deux coefficiens ne manquent.
+
+ι ι 1. Connoiffant les quatre conditions nbcess‘aires pour
+qu'une furface soit renferme'e dans un espace fini, fi on proq
+

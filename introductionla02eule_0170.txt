@@ -1,0 +1,42 @@
+156 DESAFFsscTtoNs
+
+courbe au point M. Car on peut tres-bien regardet une ligne
+courbe, comme ,13 trace qu'un point en mouvement formeroit
+en changeant continuellement de dire&ion‚ 8( par couse'-
+quent le point qui par son mouvement decrit 13 courbe, sera
+dirige' en Msuivam 13 tangente Msu3 ἃ, s'il conservoit cette di-
+reffion , il de'criroit la droite Μμ ; mais il s’en e'carte 3 cha-
+que instant, puisqu'il de'crit une courbe. Ainfi‚ pour con-
+noitre le cours d’une ligne courbe, il suffitoit de determinet
+pour chaque point 13 pofition de 13 tangente3 ce qui peut se
+faire facilement , en suivant 13 methode que nous venons de
+donner3 & ce qui ne presentem jamais aucune difficulte‚120urx·u
+que l'equation 3 la coutbe soit rationnelle & delivre‘e de frac-
+tions; or on peut toujours ramener ὲ une telle forme toutes les
+equations3 mais ‚ fi l'equation est irrationnelle ou embarraffee
+de fraffions, & qu'on veuille se dispenset de 13 ramener 3 une
+forme rationnelle & entiere , on pourra encore employer la
+meme methode‚ mais avec quelque modificationg & e'est
+cette modification qui 3 donne naiffance au calcal tlzffe‘rentiek
+c’est pourquoi nous reserverons pour ce calcul 13 me'thode de
+
+trouver les tangentes , lorsque l'e'quation 3 13 courbe ne sera
+pas rationnelle 8( eutiete.
+
+291. On connoit encore par 13 l’inclinaison de 13 tangente
+Μμ 3 1’3Χ6 ΑΡ ou 3 sa parallele Mq3 car, puisqu’on 3
+ςμ : Mqtz— A ι Β, fi les coordonnees sont perpendicu-
+laires entre elles, 8( forment par consequent l’angle droit
+qu, , on aura ——g pour 13 tangente de l'angle quc5 mais ,
+fi les cootdonne'es sont obliques‚ alors, au moyen de l'angle
+donne' Mq,u & du rapport des cotes Mq ‚ q μ, on trouvera
+par 13 trigonome'ttie l’angle q Μμ. Au reste, il est clair que,
+fi dans l’equation resultante A r -1- B u Ξ o ‚ on 3 A= 0,
+l’angle q JV] μ devient nul3 8( que par consequent 13 tangente
+Μμ sera parallele 3 1’3Χ6 A P,· & que, fi au contraire B=0‚
+13 tangente Mu sera parallele aux appliquees P M, ou Γερ-
+plique'e meme P M touchera 13 courbe au point M.
+
+292. La tangente MTe'tant trouvee ‚ fi on mene au point
+de conta& Mla perpendiculaire MN, elle sera en meme temps
+

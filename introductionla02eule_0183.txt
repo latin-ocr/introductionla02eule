@@ -1,0 +1,58 @@
+DsssL1GNEsCoURBES. 169
+
+les points donne's; 8< on aura de cette maniere une description
+de la courbe d'autant plus exacte, que les points dont il s'a-
+git seront plus voifins.
+
+3¹9· Ainfi 13 petite portion de 13 courbe qui est en M, se
+confondant avec 16 petit arc de cercle decrit avec le rayon
+osculateur, 13 meme courbure appartiendra non-seulement 3
+l'e'le'ment Mm, mais encore au precedent Mn,- car, puisque
+13 nature de 13 petite portion Mm de 13 courbe est ex'prirnee
+par cette e'quation ss———ar entre les coordonne‘es Mrzr 8(
+rm=s‚ l'e'quation donnera pour chaque petite abscisse JWtzr
+deux applique‘es s, l'une positive, l’autre negative3 & par con-
+sequent 13 courbe s'e'tendra e'galement vers n δε vers m. Toutes
+
+les fois donc que le rayon osculamur, qui est =—¹ α, aura une
+
+2
+valeus finie, 13 courbure sera uniforme de part ἃ (1’3ιιῐτ6 d’un
+
+meme point, au moins dans un petit espace. Ainfi dans ces
+cas le cours de 13 courbe ne changera point tout-{t—coup pour
+former un point de rebrouffement3 il n’arrivera point non plus
+qu'en changeant de courbure ‚ une partie Mn tourne sa con-
+vexite' vers N, randis que l'autre partie Mm tournera sa con-
+cavite' vers N,· on appelle ordinairement ce dernier change-
+ment de courbure INFLEXION ou‘point de FLEXION CON-
+TRAlRE. On peut donc dire que, lorsque le rayon osculamur
+
+est fini, il ne peut y avoir ni point de rebroussement , ni
+point de flexion contraire.
+
+320. L'equation entre t & ιι
+
+0=At÷Bu÷Ct²÷D2u÷Eu2—11-Fz3-r—Gz2u—t-qu2-r- &a
+(A2÷B²)V<A2÷R²> - , .
+W, ll S CnsUIt
+evidemment que, fi A²E — ABD —ff- BT: o ‚ alors 16
+rayon osculateur devient infiniment grand3 δε que par con-
+se'quent le cercle osculateur se change en ligne droite. Lorsque
+cela arrive, 13 courbe n'a plus de courbure, δί deux de ses ele-
+mens sont fitues en ligne droite. Pour connoitre plus 3 fond
+dans ces cas 13 nature de 13 courbe, 13 substitution de t Ξ
+
+—Ar÷Bs & de ΜΞ -As—Br doit se faire auffr dans les
+VM A÷BB) V (Α ‘WB Β)
+
+EULER, Introduc‘lion ἁ l’Anal. infin. Tome II. 3 Y
+
+donnant le rayon osculateut ιτ
+
+ 
+
+ 
+
+1³1.V[1.Fig.55.
+

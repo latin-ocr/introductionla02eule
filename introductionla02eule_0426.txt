@@ -1,0 +1,40 @@
+412 N0TEs
+
+de cinq points doubles», ni meme avec un point triple plus de
+sept points doubles. Des conclufions analogues auront lieu
+pour une ligne du quatrieme ordre, qu'on peut faire paffer
+par quatorze points, «Sc qui ne peut renco’htrer une courbe de
+l'ordre m qu’en 4 m points; & pour une ligne du cinquieme
+’ ordre, qui, pouvant paffer par vingt points, ne pourroit ren-
+contter une courbe de l'ordre m en plus de ς m points ‚ &c.
+
+11 n'entre point dans mon plan de donner sur cet objet plus
+de details.Ceux qui en voudront davantage pourtont confillter
+l'lmroduc‘Yion ὰ ΓΑιῑαζγβῑ des lignes coufbes , par Cramer ,- ou-
+vrage inte'reffant par sa grande clarte & par les exemples qui
+s'y trouvent multiplies. Je conseille meme 3 ceux qui vou-
+dront approfondir 13 the'orie des courbes ‚ d'en joindre la lec-3
+ture a celle de l'ouvrage dont je donne ici 13 ῐῐ3ς1υξὶὶοη.
+
+CHAPITRE XIV.
+
+(ΣΕ chapitre m'a paru avoir besoin de quelques eclair-
+ciffemens. Pour procedet avec ordre, je les ferai precedet de
+la de'finition des arcs oscula'teurs. Deux arcs tres-petits sont
+dits osculateurs l’un ὲ l'egard de l'autte ‚ lorsque, dans toute
+leur e'tendue‚ le rapport de la diffe'rence des appliquees cot-
+respondanres ὲι chaque absciffe commune aux deux arc's, est ὰ
+l’e'gard des appliquees memes, plus petit qu’aucune quantit&
+donnee3 ἃ, dans ce cas ‚ les deux arcs sont cense's avoir la.
+meme courbure. Mais pour que l'osculation ait ve‘ritablement
+lieu , il ne suffit pas que les appliquees qui re'pondent 3 l'ex-
+tremite' de la tres-petite absciffe qu'on confidere aient la pro-
+priete' que je viens d'enoncer ‚ il faut de plus que cette pro-
+priete s’etende 3 tontes les autres appliquees comprises entre
+l'origine 8< l'exttemite de l’absciffe en question. Cette de'fini-
+tion adoptee‚ il est aise' de voit que la parabole ordinaire ou
+Apollonienne, dont le parametre feroit = 2 α, est la courbe
+osculatrice d'un cercle qui auroit cz pour rayon ‚ ou recipro—
+quement. Car soit x 13 plus grande abscisse commune aux
+deux petits arcs , δε y, ἶ les appliquees correspondentes du
+

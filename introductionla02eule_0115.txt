@@ -1,0 +1,79 @@
+DsssAsYMPTOTEs. 101
+
+Et fi le troifieme terme mamque auffi , &- que le quatrieme
+soit divifible par u—c, ou que ce dernier manquant, ce soit
+le cinquieme, ainfi de suite3 il en re'sultera pour l'asymptote
+curviligne une equation de cette forme:
+
+(u—c)²-†-A(n—C) B
+
+*4- sq = 0 ς
+dans laquelle l'exposant p est toujours plus petit queq , δί q
+plus petit que n —— 1. Α
+208. Supposons u — c = ῖς toutes ces equations sont ren-
+
+fermees dans cette formule ε qz— λζ’-ἱ- -ὶ- ἕπε). Il se presente
+
+trois vcas ὲ de'velopper‚ suivant que q est plus grand que 2p‚
+ou q egal ὲ. 2p , ou q plus petit que πρ. Ι ·
+Le premler cas, ou q surpasse zp, offre deux equanons, sa-
+
+voirz—3=0&A{—-
+
+ 
+
+II'
+
+:03 car l'une 8( l'autre sa-
+
+ 
+
+l‘l-P
+tisfait‚ dans la suppofition de ι = σο. En effet‚ en faisant
+A ΑΕ A2 B
+
+ἶ ..τι-Ρ, l’e‘quation ci-deffus devient [ΤΡ ——— χῖ —l- sq ou Α2 ——
+B
+
+[Ξῖ-ψ =03 ce qui est vrai, ὲ cause queq est plus grand que
+B
+Atq—F9
+
+elle deviendra Amat—212 tq tq ΛΞΜ-η —B -÷-B
+
+=0‚ ce qui est encore vrai‚ ὲ cause du premier terme qui
+s'evanouit‚ lorsque t = 00. On a donc dans ce cas sur la meme
+asymptote droite deux asymptotes curvilignes, δε par conse-
+quent quatre branches qui s'etendent ὲ l'infini.
+
+A²—÷-
+
+ 
+
+n—2
+
+ 
+
+ 
+
+2p‚· quant ap, il sera plus petit que 2 . Mais, fi g:
+
+B'B BV B BB
+
+ 
+
+ 
+
+Le second cas, ou q = η), donne l’equation ἴῃ- ’ἑῖ -4-
+
+-Ξ ==0‚ qui renferme deux racines imagilmires, δε ne four-2
+
+1⁹P
+nit par conse'quent aucune asymptote‚ fi AA est plus petit
+
+que 4B‚· mals qui fournit deux asymptotes semblables expri-
+me'espar z ΞΞ, lorsque AA est plus grand que 4B‚
+
+Dans le troifieme cas, ou q est plus petit que zp, le terme
+moyen de l'equation s'evanouit toujours‚ lorsque z :.—-- 003 δε οη
+

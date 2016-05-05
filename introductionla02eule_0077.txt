@@ -1,0 +1,45 @@
+nu SECOND ORDRE EN Gnnnns. 63
+
+differentes figures, & pour decouvrir les proprietes qui con-
+viennent a chaque genre en particulier.
+
+¹32· Nous avons donne, en changeant seulement l’axe &
+l’origine des abscisses, une forme telle a l'e'quation. generale des
+lignes du second ordre, qu'elles sont renferme'es dans l'equation
+yy :2- a -ὲ- ξ x—4- ‘y xx, dans laquelle x δε y representem les
+coordonne'esperpendiculaires;&‚ puisque pour chaque-abscisse x
+l’applique'ey a deux valeurs, l’une positive, l’autre negative,
+cet axe , sur lequel se comptem les absciffesx, divisera la
+courbe en deux parties egales δε semblables; il en sera par
+consequent un diametre orthogonal ; donc on peut dire que
+toute ligne du second ordre a un diametre orthogonal ‚ qui
+n’est rien autre chose que l’axe sur lequel je compte ici les
+absciffes.
+
+133· Il entre dans cette equation trois quantite‘s constantes
+a, C 857, qui‚pouvanr etre variees d’une infinite de tuameres,
+indiquent une variete' infinie de lignes courbes‚ qui differe—
+ront plus ou moins entre elles par la forme qu'elles auront.
+Car la meme figure peut re'sulter une infinite' de fois de l'e-
+
+uation proposee yyzoe -÷- Cx—{- yxx,· il n'y a qu'a changer
+
+lorigine des absciffes‚ ce qui se fait en augmentant ou en di-
+minuant l’axe d’une quantite donne'e. De plus, la meme
+figure comprise dans l'e'quation peut &tre plus ou moins grande3
+de sorte qu'il y a une infinite de lignes courbes , qui diffe-
+rent entre elles seulement en grandeur3 tels sont les cercles
+de'crits avec differens rayons. 11 suit de-la que toute variation
+dans les lettres ez ‚ C ὃ( 7 , ne produit pas une variete d'es-
+peces ou de genres dans les lignes du second ordre.
+
+¹34· La plus grande difference des lignes courbes renfer-
+me'es dans l'e'quation yy = α -l- ἕπε-ἢῆ xx, depend de la na·-
+ture du coefficient γ, suivant qu'il a une valeur pofitive ou
+negative. Car fi ’,ν a une valeur pofitive ‚ en faisant x infini ἱ,
+'dans ce cas le terme ‘yxx deviendra infiniment plus grand que
+les autres oe÷Cx, & par consequent l'expreffion α —l- G'x -†-
+7xx obtient une valeur pofitive3 l'appliquee y aura pareille-
+ment une double valeur infiniment grande , l’une pofitive ⁷
+l'autre ne'gative3 la meme chose arrive fi on fait x=-- 00 ‘⁷
+

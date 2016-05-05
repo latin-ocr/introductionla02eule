@@ -1,0 +1,45 @@
+TRANSCENDANTES. 289
+
+rithmes ‚ affigner la valeur de l'applique'e qui re'pond
+ἐι une absciss‘e quelconque x. Par exemple, fi x = 0, y sera
+auffi = 03 fi x= 1‚y sera de meme Ξ ι; ce qu'il est tres-
+facile de concluse del'equation primitive3 mais, fi x= 2,
+on aura l.y= »salz -ε ψ). . 0,30103oo; ἃ, ὲ cause de
+ᾖ). =1,41421356, l . y=0‚4257274 ‚ 8< &peu-pres,
+y=2,665186;&fi on fait x= 10, on aura l.y=1‚4142356;
+& par consequent y Ξ 25‚95 5870. On pourra donc cle-cette
+muniere calculer les applique'es correspondantes a chaque ab-
+sciffe, & construite meme la Combe, pourvu qu‘on attribue
+ὲ l’absciffe x des valeurs pofitives. Mais, fi l'absciffe x obtient
+des valeurs negatives‚ il sera alors difficile de dire fi celles de
+y seront re'elles ou imaginaires , car soit x=—— 1 ‚ que figni-
+fiera (—-— 1)*s²? C'est ce qu’on ne peut savoir, parce que les
+valeurs approchees qu'on peut trouver pour μὶ ne sont ici
+d'aucun secourS.
+
+511. Il y aura encore moins ὲ douter que les e'quations
+dans lesquelles il se trouve des exposans imagirraires ‚ ne doi-
+vent etre rapporte'es au genre des transcendantes. Mais il peut
+arriverqu'une expreffion qui contient des exposans imagineriress
+acquiere une valeur reelle & determinee3 il s'en est de'ja
+
+presente auparavant plufieurs exemples; il suffira donc d’en
+offrir un seul ici. Soit ε
+
+2y=xW“²—{-x '².
+
+Quoique chaque terme x÷*.s-¹ & xfl'fl soit l'e'parement une
+quantite imaginaire3 cependant leur somme donne une valeur
+reelle. Car soit lx= ν, e etant le nombre dont le logarithme
+hyperbolique = 1 ‚ on aura x=e”,- δι’, en substituant cette
+valeus de x, 2y=e†⁹*s'² -†- e*⁹⁸s'¹. Mais nous avons vu
+dans la premiere seffi011, art. 138, que
+
+÷vV—1 —vV-1
+e—-ssss— = cofl Α.ν,·
+
+2
+
+d’ouy = coſs A.v= cos. A.l.x. Ainfi une valeur quelcon-3
+EULER, Introduc‘lion ἁ l’Anal. infin. Tome II. 3 00
+

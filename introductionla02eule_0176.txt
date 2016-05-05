@@ -1,0 +1,41 @@
+Ρις V11.F;g. 55.
+
+162 DE LA COURBURE
+
+ 
+
+CHAPITRE XIV.
+De la Courbure des> Lignesv courbes.
+
+304. Nous avons cheiche dans le chapitre precedent les
+lignes droites qui marquoient pour chaque point les direffions
+de la coutbe elle-meme, nous nous occuperons de meme dans
+celui-ci de 13 recherche des lignes courbes plus fimples,
+qui s’accordent pour un point quelconque tellement avec 13 pro-
+pose'e, qu'elles se confondent en quelque sorte avec elle au moins
+dans un tres-petit espace. Par ce moyen, 13 nature de 13 courbe
+plus fimple etant comme, on en conclusa en meme temps
+celle de 13 propose'e. Nous procedemus ici, comme nous avons
+fait lorsqu’il a ete question de connoitre la nature des bran-‘
+ches qui s'etendoient ὲ l’infiui, c'est-ssl-dire que nous chercherons
+d’abord 13 ligne droite qui touche 13 courbe , δε ensuite 13
+courbe plus firnple qui s'accorde beaucoup mieux avec 13·
+proposee‚ δε qui au lieu de 13 toucher fimplement‚ l'embraffe
+ou 13 baise pour ainfi dire. Ce conta& intime de ces sortes de
+courbes s’appelle ordinairement OSCULATION.
+
+305. Soit donc propose'e une equation quelconque entre*
+les coordonnees perpendiculaires x &313 pour reconnoitre 13
+nature de 13 petite portion Mm de 13 courbe fituee vers le
+point M, apres avoir trouve l’absciffe AP=p & ‘l-'appliquee
+PM=q‚ nous prendrons sur l’axe MR la petite 'abscisse
+Mq=t‚ δε l’applique'e qm:- u,- ce qui donnera x=p÷t‚
+& y = q -l- u. Ces valeurs substituees dans l’equation‚ sup-
+posons qu’on arrive ὲ l'equation
+
+0=At÷Bu÷Ct²÷Dcu÷Eu²÷Fz³÷ Gt²u÷&c.;
+
+laquelle exprimera 13 nature de 13 meme courbe rapportee 3
+lz'axe MR, Comme nous supposons ces nouvelles coordon-
+nees ι ξιξ ιι tres-pentes, les termes suivans seront presque infi-
+

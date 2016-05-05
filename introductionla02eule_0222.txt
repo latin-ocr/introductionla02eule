@@ -1,0 +1,43 @@
+Pf‘txfigssn
+
+208 DE LA MANIERE m: TROUVER Las COURBES
+
+ 
+
+CHAPITRE XVII.
+
+De la Νίαηίὲνε de trouver les Courbes etz verta d'autres
+Proprie'te'S.
+
+39¹· LEs questions que nous avons re'solues dans le cha-
+pitte precedent, e'toient de nature 3 ette facilement ramenees
+a une e'quation entre des coordonnees ‚ qui formoient entre
+elles des angles ou droits ou obliques. Nous allons donc exa·
+minet a present d'auttes propriet'e's qui ne supposent pas ex-
+pressement que les applique‘es soient paralleles entre elles;
+comme s’il etoit question , pat exemple ‚ d'un examen rela-
+tif 3 des lignes droites mene'es d’nn point donne ἐι 13 courbe.
+Soit C le point d'on les droites CM, CN, sont mene‘es a la
+courbe3 & proposons- nous quelque proptie'te' qui concerne
+ces lignes3 il fauclta s’e'cattet de 13 methode suiv1e jusqu’ici‚
+d’exptimer les courbes par des coordonnees‚ pout introduire
+ces droites dans l’equation.
+
+392. Comme il y 3 plufieurs manietes de representet 13
+nature cles lignes pat des e'quations formees entre deux varia-
+bles, nous prendrens, dans la circonstance aeluelle, pour l’une
+de ces dernietes quantites 13 droite CM menese du point C a
+la courbe3 8ζ, comme il faut une autre vatiable pour detet-
+miner 13 pofition de cette droite ‚ on prendra pout axe une
+ligne droite CA mene'e a volonte pat le point C,· & l’angle⁶
+Α CM, ou une quantite‘ quelconque qui en de'pende ‚ sera
+tres - propre a tenir lieu de l’autte variable dont on a besoin.
+Soit donc Cqu, & l’angle ACM= φ, dont on fait en-
+trer le finus ou la tangente dans l'e'quation3 il est clair que,
+fi on a une equation quelconque entre ἶ &sim φ ou tang. φ,
+elle fera connoitre 13 nature de la courbe3 car pour chaque
+angle ACM on aura la longueut de la droite CM‚- ce qui de-
+
+terminera pat consequent la pofition du point Mde 13 courbe.
+393·
+

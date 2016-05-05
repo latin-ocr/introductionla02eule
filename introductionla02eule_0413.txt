@@ -1,0 +1,45 @@
+DEDEUXSURFACES. 399
+
+¹44· Quant au edne scalcene, oh ‘m & n sont des nombres
+megan& 1²&quati0n trouvc'ae paroit toujours donner une inter-
+seffion, quoique le plus souvent il n'en existe aucune3 car, fi
+m surpasse n, 11 en oesultera toujours une e'quation re'elle pour
+la projeffion de *l’imerseffiom mais il faut temarquer qu'une
+projestion re'elle n'annonde pas toujours une interseffion
+166116 ; car, pour que l’interseffion soit reelle 3* il ne-suffit pas
+que la.proje&ion 16 soit, il faut encore que 163 perpendiculaires
+mene'es de 13 proje6h0n jusqu'a l'interse&ion aient atiss'l des
+valeurs re‘elles; alinfi, quoique toute courbe τ66116 fourniffe
+des projeRions rkeues quek'conques ‚ on ne peut pas conclure
+re'ciproquement de la ffial'ite' de la proieffion celle dela courbe
+quel'on chercheAE’estune p're'caution &laq-uelle il faut toujours
+avoir bien e'gard, pout ne pas abus3et de la ffialite' des &quations
+que nous avons ῐῑουνέεε pour les projefihons.
+
+¹45· Nous &viterons cet inconve'nient‚ en cherchant 13 pro-
+iefifion faite sur le plan des ordonne‘es x & y‚· ‘c'ar , comme il
+n’existe sur ce plan aucun point auquel il n’en corresponde un
+sur la surface conique, fi la projeffion faite sur ce plan est
+re'elle ‚ l’interseffion le sera pareillement. Ainfi ‚ puisque
+ἰ = 3!st a —xx —yy), l'autre e'quation donnera :
+
+f-xl(aa÷xx-yy)=xs(mxx-*-nyy)
+
+a2÷f2—-(1÷m)x²—(1÷n)y²=2fxs(a²—x2—y2)‚-
+δέ ensuite
+
+—2(a2—f2) {sm—st)
+
+“²²42 2 (a²÷f2)m —- 2 (a2÷f2) ἢέν-1011721361 ² ΟΞ
+
+42(1 -1-m)(1-*-n)x²y²÷(¹ ÷n)2y÷,·
+
+d'on l’on tire
+‘a-ff4n(a0†f‚f):(¹÷m)(1·†·'²)xx‚44
+——‹——-——— - ξ :y
+2f
+
+(,†„)2xs(n(1÷n)a2—nf2-÷-(m-n)(1÷n>x2)
+
+ 
+

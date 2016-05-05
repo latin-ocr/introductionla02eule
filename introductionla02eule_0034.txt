@@ -1,0 +1,53 @@
+1Ἰ H. lue 14
+
+20 DvCHANGEMENT
+
+l’e‘quation de 13 courbe sera encore beaucoup plus erendue‚ δε
+nous l’appellerons pour cette raison l'e'quation 13 plus generale,
+parce qu'elle exprime 13 nature dela courbe, non-seulement
+en supposant l'equation rapporte'te 3 un axe quelconque & 3
+une origine quelconque des abscffl'es, mais encore pour toute
+espe'ce d’obliquite entre les coordonnees. Ainsi cette e'quation
+13 plus generale de toutes deviendra l'e'quation generale que
+nous avons donne'e ‚ fi l’angle qne font entre elles les coor-
+
+(lonnees est droit.
+
+43. Soit donnee pour 13 courbe LM. une equation entre l'es
+coordonnees perpendiculaire33 & sans changer l’axe RS ni
+l'origine A des absciffes ‚ cherchons l’e'quation entre les
+coordonne'es, qui font entre elles un angle φ. Du point Msoit
+mene‘e 3 l'axe RS la droite MQ, qui fasse l'angle donne
+M QA ‚ dont le finus = μ & le cofinus = v,· A Q sera donc
+13 nouvelle abscisse ‚ & MQ, 13 nouvelle applique'e ε, en fair-
+
+sant A Q z t δέ QM= u, on aura dans le trtangle rec-
+
+tanglePMQ‚ Zssfu & Q: v= t—x· Doncu=Z,
+
+ιι ιι u. μ
+
+ 
+
+δε t-——vu -ὶ-κΞ-νέ -Ι- x,· δε re'ciproquement 32:qu δε
+x z t —— v u. Consequemment ‚ fi dans l’equation proposee
+
+entre x &y on suppose x=t-— vu & ιγεμιι, on aura
+l'equarion entre les coordonne'es obliqnes t & u, qui font
+
+entre elles un angle donne φ.
+
+44. Mais, fi l’equation de 13 courbe LM est donnee entre
+les coordonne'es obliques AQ & QM, on en pourra conclure
+re'ciproquexnent l'e'quation de la meme courbe entre l'es coor- =
+donnees perpendiculaires ΑΡ δε PM. Car ‚ soit φ l'angle
+que les applique'es MQ font avec les absciffes AQ, dont le
+finus Ξμ & le cofinus Ξ ν, ὅζ soit donnee l'e'quation e'ntre
+A Q z ε 8( QM=11,· il faudra mener clu-point Μ’ sur l'axe
+13 perpendiculaire MP, & ayant fait l'absciffe ΑΡ =x &-
+l’appliquee MP =y ,· comme u ΣΞ & ι = ἐξ -1- x, en
+substituant ces valeurs dans l'e'quation propose'e entre t δε u,
+“on obtiendra l'equation entre x Scy, que l'on cherchoit.
+
+ 
+

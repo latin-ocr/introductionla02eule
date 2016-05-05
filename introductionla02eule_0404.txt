@@ -1,0 +1,42 @@
+390 DESSURFACES
+
+deux plans qui sont perpendiculaires au plan AB C, 8< qui
+sont diriges suivant les lignes Ee δε Ff, se confondront a
+une distance infinie avec la surface proposee3 qui par conse-
+quent aura pour asymptote ces deux plans qui se coupent mu-
+tuellement. Les autres set-”tions principales faites sur les plans
+A C D & A B d seront des parabole53 ce qui nous fera
+nommer parabolico-lzyperboliques les surfaces de ce genre, qui
+ont deux plans pour asymptotes. L’une de ces especes‚ ( fi ‚
+en faisant α = 0, on a A pp —— B q = b b) sera un cylindre
+hyperbolique‚ dont toutes les se ions perpendiculaires a
+l'axe AD seront des hy perboles e'gales entre elles; fi, de plus,
+b = ο, on retrouvera les deux plans asymptotiques.
+
+126. Enfin le fixieme genre de surfaces du second ordre
+sera renferme dans cette equation:
+
+ΑΠ’-τας»
+
+qui donne un cylindre parabolique ‚ dont tontes les sel-{lions
+perpendiculaires a l’axe AD seront des paraboles semblables
+ἃ egales. Leurs sommets tomberont sur la droite AD, δε leurs
+axes seront paralleles entre eux. Toutes les surfaces du se-
+cond ordre pourront donc erre reduites a ces fix genres3 de
+sorte qu'il est impoffible d'en trouver aucune qui ne soit
+, pas comprise dans l'un de ces gentes, Au reste, fi dans le
+dernier genre on faita = 0, ὃ( qu’on ait App = bb, cette
+equation exprimera deux plans paralleles entre eux ‚ qui don-
+nent une certaine espece de ce genre. On remarque ici la
+meme analogie que dans les lignes du second ordre, ou
+nous avons vu que deux lignes qui se croisoient donnoient
+une „espece d’hyperbole‚ 8< que deux lignes paralleles repre'-
+sentoient une espece de parabole.
+
+127. Quoique nous ayions deduit ces fix gentes de l’equa-
+tion la plus simple, a laquelle il soit poffible de reduire les
+surfaces du second ordre3 cependant il sera facile maintenant,
+lorsqu’on proposera une equation quelconque du second de·
+gre' ‚ d'affigner le genre auquel la surface appartient. En effer,
+ti on propose cette equation:
+

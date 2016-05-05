@@ -1,0 +1,47 @@
+EN vi-:RTU D‘AUTRES Pnopmmess. 2³5
+
+conque peut &tre coupe'e par une droite en aurant de points
+que l’exposant de l'ordre contient d'unite's; (δε elle est en
+effer coupe'e en autaut de points ‚ ὲ moins que quelque5-unes
+des interseffions ne clevieiment imaginaires , ou nese faffent
+ἐι une distance infinie) 8( que nous tenons compte ici de
+toutes les intersefflions, soit reelles ‚ soit faites ἐι une distance
+infinie ‚ soit imaginaires3 ἃ* que nous excluons seulement
+celles qui ont lieu au point C, il est clais qu'une ligne de l’ordre
+n devant erre coupee en n points par une ligne droite quelcon-
+que, le point C doit etse place' en un point multiple du degre
+η —- 2 , pour qu’il en resulte une interseffion double.
+
+405. Ces remarques une fois faites ‚ il sera facile de re'-
+soudre les problemes qu'on propose ordinairement sur la relation
+. entre deux valeurs quelconques CM& CN de ζ, ou de faire
+voir au moins si la solution convient ou ne convient pas ἐι
+toute rigueur. Car, comme les deux valeurs de ἶ, CM 8< CN,
+sont les racines de cette' equation {3— 1034- Q Ξ o, leur
+somme sera =P, 8< leur reetangle CM.CN: Q. Par con„
+sequent, fi on vouloit des courbes dans lesquelles la somme
+CM—{- CN fut par—tout une somme constante, il faudroir que
+la fonElion P fut constante. Mais comme d’ailleurs, par la na-
+ture de la question, il faudroit que chaque droite menee par
+
+le point C rencontrzit la courbe seulement en deux poium, il
+
+Mz—Mfflxxdryy)
+
+seroit ne'ceffaire que P fut Ξ ῖ- --—L—— (ἃῖῒ- 399) 3
+
+quantite qui, ὲ cause de l’irrationalite qu’elle renferme , ne
+peut jamais etre constante. Il n’y a donc point de courbe qui
+satisfaffe proprement ὲ cette question.
+
+406. Mais, fi on rejette la condition qu'il y ait seulement
+'deux points d’interseftion avec la courbe pour chaque ligne
+tire'e par le point C, 8( qu’on demande des courbes qui, ἐι la
+verite, soient susceptibles de plus de deux i11ter1'e6hons , mais
+parmi lesquelles il s'en trouve deux telles que ΕΜΓ -1- CN
+soient une quantite coustante3 on pourra en obrenir une infinite?
+en faisant P = ὲ cette quantite' constante CM÷ C N: a.
+Car on aura {{—· a ἵ -ῑ- Q: 0 ‚ Q designant la fotrkiiona
+
+Hi} ,·'& en faisant disparoitre l'irrationalite* de cette equa-
+

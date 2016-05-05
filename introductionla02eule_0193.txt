@@ -1,0 +1,47 @@
+UN ου PLustfiURs Dama-rans. 179
+
+egeles & semblables entre elles, fi l’equation ne change pas
+en e'crivant --y au lieu de y. Comme toute puiffance de y,
+dont l'exposant est pair, a cette propriete‚ il s'ensuit‚ que fi
+l’equation de la courbe ne contient aucune puiffance impaire
+dey, les portions fitue'es en Q δε en R seront egales & sem-
+blables entre elles3 δε que par consequent la droite AB sur la-
+quelle sont prises les absciffes CP εκ, sera un diametre de
+la courbe. Toutes les courbes de cette nature, pourvu toutefois
+
+qu'elles soient algebriques, sont donc comprises dans cette
+e'quation generale: ‘-
+
+0=oe÷gx÷2x²÷0⁰y2÷÷x³÷5xy²÷nx÷÷ex²y2÷ay÷ &c.;
+
+expreffion qui peut erre regardee comme une fonffion quel-
+conque rationnelle de x & de yy. Ainfi ‚ lorsque Z est une
+fonction quelconque rationnelle de x & de yy, Z = 0 ex-
+primera une ligne courbe qui sera partagee en deux parties
+e‘gales & semblables par la droite A B‚· les portions fituees
+dans les regions S δε Τ seront donc auffi egales δε semblables.
+
+339. Mais, pour que les portions fituees dans lesregions Q
+δε S soient egales & semblables, il faut qu’en mettant -- x, au
+
+lieu de x, l'e'quation ne change point. Par consequent ‚ fi Z
+est une fonflion quelconque rationnelle de xx & de y, alors l’e'-
+quation Z = 0 exprimera une courbe que la droite EF divi-
+sera en deux parties semblables δε egales. L'e'quation pour ces
+sortes de courbe sera donc de cette forme:
+
+oza—i-Cy-l-yxffil-d‘ystkex2y-l-Zy3 —4-27 x÷÷ex²y²÷1y÷÷&c.
+
+Dans ce cas la portion de la courbe fituee en S sera semblable
+& egale a la portion en Q; ἃ il en sera de meme de la portion
+en T ὲ l'e'gard de celle en R.
+
+340. Les portioris fituees dans les regions oppose'ees Q & Tou
+R δί S seront semblables δε e'gales, fi, en faisant x &y ne'gatifs,
+cette suppofition n’apporte aucun changement dans l’equation
+donnee entre les coordonnees x δε y. Soit Z = 0 l'equation
+de ces sortes de courbes; il est clair que‚s1 Z est une fonfilion de
+dimenfions paires de x ὃς de y, ou fi elle est composJfl’autant
+
+3 11
+

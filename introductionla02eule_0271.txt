@@ -1,0 +1,50 @@
+nfisCounsszs. 257
+
+donc autaut de vraies intersefflons ‚ puisque pour chaque
+absciffe x on peut par la premiere equation affigner une ap-
+
+pliquee reelle y, savoiry ετξ.
+478. Nous supposerons ὲ pre'sent que l’appliquee y de
+chaque courbe soit exprimee par des equations putes du se*
+
+cond degre‘, de sorte que nous ayions, comme il suit:
+
+I.
+P -4- Ryy == 0.
+1 Ι.
+p -ι- ryy = 0.
+En eliminant y y, on trouve sur-le-champ cette equation':
+P r— Rp = 0 ,
+
+dont les racines re'elles n’indiquent de veritables interseffionsj
+qu’autant que les valeurs qu’on aura pout x donneront pour
+
+Τῖ- ou ——r—p une quantite pofitive3 car alors, ὲ cause de y²==
+ῙῙῑΡ--τ -rp , l’appliquee y aura deux valeurs nielles, l'une
+
+ 
+
+positive ‚ l'autre negative3 & par consequent ὲ chaque valeur
+de l'absciffe x tire'e de l'equation P r—Rp ΞΟ ‚ re'pondront
+deux poi'nts d’intersefi‘tion &galement eloignes de part 8<
+d’autre de l’axe3 ce quine peut manquer d'etre‚ puisque l’axe
+est diametre des deux courbes. Mais, fi quelque valeur de x
+
+tire'e de l’e'quation Pr—Rp=0 donne une valeur ne'gative
+
+—P —.
+
+aux expreffions R = r , on en conclusa qu’z} cause de
+
+y imaginaire les intersefflons seront' auffi imaginaires.
+
+479. Supposons ὲ present que le second terme ‚ qui con-
+tient y, se trouve dans les deux equations du second degre'3
+& soient proposees en consequence les e‘quations suivantes ι
+
+EULER‚ Introduc‘lion ἁ l'Anal. infin. Tome ll. 3 Kk
+
+ 
+
+ 
+

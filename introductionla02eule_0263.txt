@@ -1,0 +1,56 @@
+DESCOURBES. 249
+
+dont chaque racine re'elle fournira une vraie intersection. Sup-
+posons c = 2 a, & partant :
+
+4cz†——4a³x—3aaxx—{—x4=0,
+
+equation‚ dont une racine x = za. Apres l'avoir extrahe, Γέ-
+quation restante sera :
+
+x³÷2axx÷czax—2cz³=0;
+
+laquelle donne encore une racine re'elle. Or on trouvera l’ap-
+plique'e qui convient ὲ ces deux recines, au moyen de l'equa-
+
+2aa—ax
+
+tion y =>
+
+ 
+
+3 par exemple, ὲ la premiere valeur de
+
+x
+
+xj: 2 α re‘pondra y = 03 ce qui apprend que l’intersec‘tion a
+lieu sur l’axe meme.
+
+466. On voit par—121 que, toutes les fois que deux equations
+entre x & y sont telles que dans l'e'lirnination il en re'sulte
+poury une fonftion rationnelle de x, chaque racine re'elle de
+x que donneratla derniere equation‚ apres qu’il n'y aura plus
+de y, donnera une vraie intersection3 mais , fi en eliminant,
+on ne trouve point de foncfion rationnelle de x pour la va-
+leur de y, il peut arriver que toutes les racines reelles de Ia
+derniere equation ne donnent pas toujours de vraies intersec-
+tions; car la valeur‘ de x peut etre telle, qu’il n’y re'ponde
+aucune appliquee reelle ni dans l’une ni dans l'autre courbe,
+cependant on auroit tort ‘d'en conclure que, dans ce cas ‚ le
+calcal induit en erreur3 car, quoiqu'une telle abscifl'e donne
+dans les deux courbes une valeur imaginaire pour l'appliquee
+correspondente, comme l'e'galite δε l’inegalite ont lieu pour
+les quantites imaginaites comme pour les quantite's re'elles,
+rien n'empeche de regarder ces applique'es imaginaires comme
+egales entre elles, δέ de concevoir alors au moins une sorte
+d’intersefflm, quoique non re'elle.
+
+467. Pour rendre cela plus elan, de'crivons sur le meme P1.X.Fig
+axe BAE une parabole EM, dont le parametre z za, &
+hors de cette courbe un cercle AmB dont le rayon-:c, lais-
+sant entre les deux courbes un intervalle A E=b, de ma-
+
+EULER‚ Introdaffion ὰ l'Anal. infin. Tome II. 311
+
+. 96.
+

@@ -1,0 +1,54 @@
+υΝ ου Ριυειευιὶέ D1AMizTRes. 185
+ὀ-Ξα-ή-ξι-ἢ-γιι-ψ-Ᾱιῑ-ἧ-εῐιι-ἰ-ζιιιι-ἑ-ηιῑ-μὸζς.;
+laquelle donne celle—ci, entre x &y :
+0:²24—C(xx—l-yy)—l-·>x(xx-3yy)-÷-AE(xx-l-yy)²-l- Sic.
+Comme l’equation o=x÷Cxx÷ny appartient au cercle‚
+
+lequel, ayant une infinite de diametres e'gaux, ne peut man-
+quer de satisfaire auffi ὲ la question des trois diametres3 il s'en-
+
+⁷ suit que la courbe ὲ trois diametres la plus fimple se'ra une
+
+ligne du troifieme ordre exprime'e par cette equation
+χῖ —— 3 xyy = axx -l- ayy -ι- b3, laquelle aura trois asymp-
+tores comprenant un triangle equilateral, au milieu duquel est
+
+place' le point C,· δε chacune de ces asymptotes sera de l’es-
+
+A
+
+pece u= t—t. Ces courbes appartiennent donc ἐι la cinquieme
+
+espece‚ suivant l’enumeration que nous en avons faite aupa-
+ravant.
+352. Si la courbe a quatre diametres A B, EF, GH δε
+
+ΙΚ, qui se coupent mutuellement au point C sous des angles
+
+demi-droits = ὲ π, alors les diametres CA, CG, CB & CH,
+
+seront de meme nature3 par consequent, en faisant CM: ,ἶ
+8( l’angle ACM= s, on doit chercher une fonfflon de s qui
+
+ne change pas lorsqu'on ecrit, au lieu de s, — s ou ἶ 7t—s.
+
+Telle est la f0n6³cion coſs 4s. Donc, fi Z est une f0nffi0n4de ἶ &
+de cos] 4 ες ou, ce qui revient au meme ‚ de xx-4-yy & de
+x* —— 6xxyy —i-y4, l’equation Z = 0 donnera une courbe ὲ
+quatre diametres. En faisant tzxx÷yy & u=x÷—6xxyy
+-{-y÷‚ on aura pour Z une fonE‘tion de t δε de u ,· & fi on sup-
+pose ν --- t t—zc , Z deviendra une fonfilion de t & de ν ,
+ςἐίὶ-ὲ-(Ιὶῐε, de xx -4-yy δε de xxyy. On peut dire auffi
+que Z est une fonfflon de ces deux quantites x x —4-yy δε
+x’s-f- 4.
+
+353. Pour qu’une courbe exprime'e pat l'equation Z=0
+ait cinq diametres‚ il faut que Z soit une fonffion de ζ Sc. de
+cos. 5 s. Par consequent, fi on suppose les coordonnees x &y
+
+perpendiculaires , ὲ cause de coſs 5 s = Q , Z
+
+EULER, Introduc‘lion ἁ l’Anal. infin. Tome lI.z 3 A a
+
+1³1.V11L·F;g.72.
+

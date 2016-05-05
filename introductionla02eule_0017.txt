@@ -1,0 +1,46 @@
+ENGssNeRAL. 3
+
+RS. Car les valeurs pofitives dey e'tant prises au-dess‘us de 13
+droite RS, celles qui deviennent nulles tomberont sur 13 ligne
+meme RS, & celles qui sont negatives‚ au-dess'ous.
+
+5. La figure donne donc pour y une fonffiion de x ‚ telle
+qu'en faisant x=0‚ y 3 une valeur pofitivezAR- qu'en fai-
+sant x=AP, y=PNI; que fi x=AD‚ y devient: 0,
+& que fi x—·-=AR 13 foncfiony prend une valent negative,
+& par consequent 13 perpendiculaire PM‘ tomh'e au-dessous
+de 13 droite RS. De meme les valeurs de y , qui re'pondent
+aux valeurs ne'gatives de x, sont representees par des perpen-
+diculaires place‘es au-deffus de RS, fi elles sont pofitives; δε
+dans le cas contraire, elles doivent etre placees au-deffous de
+13 droite RS, comme pm .· mais, fi pour une valent quel-
+conque de x, comme—x=AE, y devient == 03 alors 13
+longueur de 13 perpendiculaire devient nulle.
+
+, 6. Si donc, pour chaque valeur donne'e de x, on de'termine ,
+'de cette maniere les valeurs correspondantes dcy ‚- on e'levera
+
+ὲ chaque point P de 13 droite RS des perpendiculaires P M,
+qui exprimeront les valeurs de 13 fonffion y ε l'une des ex-
+tre'mites P tombera sur 13 droite R S, δε l’autre M au-deffus
+de R S, fi les valeurs dey sont pofitives; ou au-deffous‚ fi elles
+sont -ne'gative53 ou meme sur 13 ligne RS ‚ fi elles sont e'gales
+ὲ ze'ro, comme il arrive aux points D &E- Les extremites M
+de chacune des perpendiculaires representeront une certaine
+ligne droite ou courbe , qui par conse'quent se trouvera de-
+terminee pat la fonc'fion y. Ainst chaque fomffion de x, rap-
+portee de cette maniere 3 13 geometrie‚ donnera une ligne
+droite ou courbe ‚ dont la nature dependra de celle de la fonc-
+tion y.
+
+7. On connoit parfaitement, en suivant ce procede, 13
+ligne courbe qui resulte de 13 foncfion y, puisque c'est cette
+fonffion qui en de'termine tous les points; en effer , our
+chaque point P on 3 13 longueur de la perpendiculaire M,
+dont l’extremite M appartient ἐι 13 courbe3 & on trouve ainsi
+tous les points de cette ligne. Or, quelle que soit 13 nature de
+13 courbe , on peut mener de chacun de ses points des perpen-
+
+diculaires 313 droite RS,· on 3 par-l& les i11tervalffistP, qui
+3 ¹]
+

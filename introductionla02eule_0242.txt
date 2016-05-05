@@ -1,0 +1,45 @@
+228⁷ DE LA MANIERE DE TRoquR Les COURBES
+
+generale entre les coordonne'es perpendiculaires x &y, qui
+convient aux courbes dont il s'agit ‚ seta :
+
+K-—L-t-M—N=o;
+
+d’ou 11 suit que 16 point C sera un point multiple d’un degre'
+masque par 16 nombre d'unite's contemnes dans n.
+
+427. On voit donc d’abord que toutes les lignes du troi-
+fieme ordre appartiennent ὲ ce cas, en quelque endroit qu'on
+ptenne 16 point C hors de la courbe. Ensuite cette equation
+renferme toutes les lignes du quatrieme ordre, pourvu que 16
+point C soit pris sur la courbe3 en troifieme lieu, elle com-
+prend toutes les lignes du cinquieme ordre qui ont un point
+double ‚ poutvu que 16 point C soit place sur le point double.
+Semblablemeut, les lignes des ordres plus eleve's templiront
+cette condition, pourvu qu'elles aient‘des points multiples·
+d'un degre exprime par 16 nombre d’unite's contenues dans n,
+lorsque n 4- 3 est l'exposant de l’ordre auquel appartient
+l'equa'tion.
+
+428. soient p , q, r, les trois valeurs de ἶ que donne 1’έ-’
+quation ζ’) — Ρῖῖ »μ ρῖ — R Ξ 0 pour chaque valent de
+l'angle CAquo ‚- on aura ‚ par 1ε1 nature des equations,
+P=p 4-q-4-73 szq÷pr÷qr & Rzpqr. Puisque
+P ἃ R ue peuvent etse une expteffion rationnelle de x& de y,
+il est d'abord e'vident qu'on ne peut avoir des courbes dans les-
+quelles oup—t—q-i-r, ou pqr soit une quantite' constant'e3 & par*
+consequent on ne pourra supposes e'gale ἐι 11116 constante aucune
+fonction impetire (16 p, q & r. Mais les fonctions paires poutront
+sans aucune difficulte' obtenir une valeur constante. Ainfi‚ fi
+
+I'on demande quep q -†-p r-{r- q r= cz a, on aura Q: Athz
+’σε a a ,- & par consequent Mam—my) = α aK‚· valeus (1111,
+substituee (13113 l'equation K—L-q-M—Nzo, donne l'equa-
+
+tion generale pour toutes les com-bes qui jouiffent de la pro·
+prie'te' demandee3 savoir: ⁷
+
+ 
+
+M (x²-÷-y²) -a2L -1- (22M—-a22V= 03
+

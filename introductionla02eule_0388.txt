@@ -1,0 +1,42 @@
+374 DUCHANGEMENT
+
+equations dans lesquellesflg & lz, sont des lignes constantes‚'
+qui deriventrde 13 compofition de celles qui ont ete' intro-
+duites dans le calcul.
+
+93. Il paroit donc que l'equation 13 plus generale d’une
+surface quelconqne renferme fix constantes arbitraire53 &
+cette e'quation exprimeta toujours 13 nature de 13 meme sur-
+face, de quelque man-iere qu'on-les determine. Or, quelque
+simple & quelque succinte q‘ue soit l'equation de la surface
+entre les coordonne'es x‚y 8< ζ, fi on en forme l'e'quation la
+plus generale entre p, q 8< r,· celle-ci, 2¹1 cause du grand nombre
+de constantes arbitrantes, deviendra ne‘ceffairement tres-com-
+pliquee, sur-tout fi les dimenfions de x,y & ἶ, sont e'levees.
+A peine y aura-t-il donc un cas ou il faudra recourir ἐι l'e'-
+quation 13 plus ge'11erale3 car ‚ quoiqu'on en put concevoir
+l'avantage de rendre l’e'quation tres -fimple‚ en determinant
+les constantes d'une maniere convenable3 cependant cette
+operation, ὲ cause de la longueur du calcul ‚ deviendroit le
+plus souvent tres-penible. Ce n’est pas pourtant que cette me'-
+thode de former les equations les plus generales ne nous serve
+dans 13 suite pour en de'duire & demontrer de tres-belles pro-
+prietes. -
+
+94. Quoique l’e'quation 13 plus ge‘ne'rale soit le plus souvent
+tres-compliquee3 cependant‚ fi nous saisons attention aux di-
+menfions que forment les coordonnees prises ensemble, leur
+nombre sera toujours e'gal-au nombre des dimenfions forme' par
+les premieres coordonnees x, y & ζ. Ainfi‚ comme l'equation
+de 13 sphere x x -l-yy —4— ῖς = α α est de deux dimenfions‚
+l’e'quation 13 plus generale entre p, q & r, ne contiendra pas
+plus de deux dimenfions. Ainfi le nombre de dimenfions que
+forment les coordonne'es dans l’e‘quation d’une surface quel-
+·conque nousfournit un &metere effentielqui distingue 13 nature
+de cette surfaee3 puisque, de quelque maniere qu’on faffe variet
+la position des coordonnees‚ il en resul'te toujours le meme
+nombre de dimenfions. Nous ferons ici‚ par rapport aux sur-
+faces, la meme remarque que nous avons faite auparavant ὲ
+l'egatd des lignes courbes, ὃ( d'apres laquelle nous les avons
+divisees en ordres. II sera 3 propos de diviser d'une maniere
+
